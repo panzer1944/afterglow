@@ -2412,6 +2412,14 @@
 	},
 /turf/open/indestructible/ground/outside/grass,
 /area/f13/wasteland)
+"aNP" = (
+/obj/machinery/light{
+	dir = 4
+	},
+/turf/open/floor/f13{
+	icon_state = "dark"
+	},
+/area/f13/brotherhood)
 "aNW" = (
 /obj/structure/table/wood/bar,
 /turf/open/indestructible/ground/outside/sidewalk{
@@ -5261,6 +5269,7 @@
 /turf/open/indestructible/ground/outside/dirt,
 /area/f13/wasteland)
 "bGM" = (
+<<<<<<< Updated upstream
 /obj/structure/barricade/sandbags,
 /obj/machinery/camera/autoname{
 	name = "Secuirty Camera";
@@ -5270,6 +5279,16 @@
 	icon_state = "wasteland33"
 	},
 /area/f13/wasteland)
+=======
+/obj/structure/chair/office/dark,
+/obj/effect/mapping_helpers/network_builder/power_cable/auto,
+/turf/open/floor/f13{
+	color = "#ffe9de";
+	icon_state = "darkrusty";
+	name = "dirty floor"
+	},
+/area/f13/brotherhood)
+>>>>>>> Stashed changes
 "bGN" = (
 /obj/structure/obstacle/barbedwire/end,
 /obj/effect/overlay/desert/sonora/edge{
@@ -7136,6 +7155,10 @@
 	icon_state = "yellowrustychess"
 	},
 /area/f13/ambientlighting/building/b)
+"ckD" = (
+/obj/machinery/light/small,
+/turf/open/floor/wood_common/wood_common_dark,
+/area/f13/brotherhood)
 "ckE" = (
 /obj/effect/decal/remains/deadeyebot,
 /turf/open/indestructible/ground/outside/dirt{
@@ -13267,7 +13290,11 @@
 /obj/machinery/cell_charger{
 	pixel_y = 6
 	},
-/turf/open/floor/plasteel/f13/vault_floor/red/whiteredfull,
+/turf/open/floor/f13{
+	color = "#ffe9de";
+	icon_state = "darkrusty";
+	name = "dirty floor"
+	},
 /area/f13/brotherhood)
 "eat" = (
 /obj/structure/flora/grass/wasteland{
@@ -16088,6 +16115,7 @@
 	},
 /area/f13/wasteland)
 "eUJ" = (
+<<<<<<< Updated upstream
 /obj/item/storage/trash_stack{
 	pixel_y = 17
 	},
@@ -16095,6 +16123,23 @@
 	icon_state = "outerborder"
 	},
 /area/f13/wasteland)
+=======
+/obj/structure/table/rolling,
+/obj/item/ammo_casing/a762{
+	pixel_x = -5;
+	pixel_y = 5
+	},
+/obj/item/ammo_casing/a762{
+	pixel_x = -1;
+	pixel_y = 5
+	},
+/obj/item/ammo_casing/a762{
+	pixel_x = -9;
+	pixel_y = 5
+	},
+/turf/open/floor/plating/rust,
+/area/f13/ambientlighting/building/u)
+>>>>>>> Stashed changes
 "eUK" = (
 /turf/open/indestructible/ground/outside/sidewalk{
 	icon_state = "verticalleftborderleft0"
@@ -19231,9 +19276,24 @@
 	},
 /area/f13/wasteland)
 "fQC" = (
+<<<<<<< Updated upstream
 /obj/structure/junk/small/bed,
 /turf/open/floor/plating/rust,
 /area/f13/wasteland)
+=======
+/obj/structure/table/reinforced,
+/obj/machinery/computer/terminal{
+	dir = 1;
+	pixel_y = 4
+	},
+/obj/effect/mapping_helpers/network_builder/power_cable/auto,
+/turf/open/floor/f13{
+	color = "#ffe9de";
+	icon_state = "darkrusty";
+	name = "dirty floor"
+	},
+/area/f13/brotherhood)
+>>>>>>> Stashed changes
 "fQV" = (
 /obj/effect/decal/remains/human,
 /turf/open/indestructible/ground/outside/sidewalk{
@@ -38071,6 +38131,15 @@
 /obj/effect/spawner/lootdrop/f13/medical/wasteland/meds/drug,
 /turf/open/floor/wood_wide,
 /area/f13/building/abandoned/g)
+"lts" = (
+/obj/effect/mapping_helpers/network_builder/power_cable/auto,
+/obj/machinery/light{
+	pixel_x = 16
+	},
+/turf/open/floor/f13{
+	icon_state = "dark"
+	},
+/area/f13/casino)
 "ltA" = (
 /obj/structure/table/reinforced,
 /obj/effect/decal/cleanable/dirt{
@@ -41346,8 +41415,10 @@
 	},
 /area/f13/wasteland)
 "muA" = (
-/obj/machinery/light,
-/turf/open/floor/plasteel/f13/vault_floor/red/side,
+/obj/machinery/door/unpowered/secure_bos,
+/turf/open/floor/f13{
+	icon_state = "dark"
+	},
 /area/f13/brotherhood)
 "muL" = (
 /obj/structure/window/fulltile/house{
@@ -41565,8 +41636,10 @@
 /obj/effect/decal/cleanable/dirt{
 	color = "000000"
 	},
-/turf/open/floor/plasteel/f13/vault_floor/red/side{
-	dir = 6
+/turf/open/floor/f13{
+	color = "#ffe9de";
+	icon_state = "darkrusty";
+	name = "dirty floor"
 	},
 /area/f13/brotherhood)
 "myr" = (
@@ -43170,6 +43243,16 @@
 	icon_state = "wasteland33"
 	},
 /area/f13/ambientlighting/building/f)
+"mWB" = (
+/obj/machinery/light{
+	dir = 1
+	},
+/turf/open/floor/f13{
+	color = "#ffe9de";
+	icon_state = "darkrusty";
+	name = "dirty floor"
+	},
+/area/f13/brotherhood)
 "mWO" = (
 /obj/structure/table/wood,
 /turf/open/indestructible/ground/outside/sidewalk{
@@ -46910,7 +46993,12 @@
 /turf/open/indestructible/ground/inside/dirt,
 /area/f13/wasteland)
 "odO" = (
-/turf/open/floor/plasteel/f13/vault_floor/red/side,
+/obj/machinery/light,
+/turf/open/floor/f13{
+	color = "#ffe9de";
+	icon_state = "darkrusty";
+	name = "dirty floor"
+	},
 /area/f13/brotherhood)
 "odR" = (
 /obj/structure/obstacle/barbedwire,
@@ -49131,7 +49219,11 @@
 	pixel_y = 6;
 	pixel_x = 7
 	},
-/turf/open/floor/plasteel/f13/vault_floor/red/whiteredfull,
+/turf/open/floor/f13{
+	color = "#ffe9de";
+	icon_state = "darkrusty";
+	name = "dirty floor"
+	},
 /area/f13/brotherhood)
 "oMV" = (
 /obj/structure/chair/sofa/left{
@@ -57027,8 +57119,10 @@
 /obj/structure/table{
 	layer = 2.9
 	},
-/turf/open/floor/plasteel/f13/vault_floor/red/side{
-	dir = 10
+/turf/open/floor/f13{
+	color = "#ffe9de";
+	icon_state = "darkrusty";
+	name = "dirty floor"
 	},
 /area/f13/brotherhood)
 "rdp" = (
@@ -57741,6 +57835,12 @@
 	icon_state = "tunnelrusty"
 	},
 /area/f13/building/powered)
+"rnI" = (
+/obj/machinery/light/small{
+	dir = 8
+	},
+/turf/open/floor/wood_common/wood_common_dark,
+/area/f13/brotherhood)
 "rnQ" = (
 /obj/effect/decal/cleanable/dirt{
 	color = "000000"
@@ -65621,6 +65721,7 @@
 /turf/open/indestructible/ground/inside/mountain,
 /area/f13/caves)
 "tIu" = (
+<<<<<<< Updated upstream
 /obj/effect/decal/cleanable/dirt{
 	color = "000000"
 	},
@@ -65628,6 +65729,11 @@
 	icon_state = "reddirtyfull"
 	},
 /area/f13/brotherhood)
+=======
+/obj/structure/rack/shelf_metal,
+/turf/open/floor/plating/rust,
+/area/f13/ambientlighting/building/u)
+>>>>>>> Stashed changes
 "tID" = (
 /obj/machinery/smartfridge/bottlerack,
 /turf/open/floor/plasteel/f13/stone/rugged,
@@ -122011,6 +122117,7 @@ xsl
 xsl
 lpg
 foT
+<<<<<<< Updated upstream
 gXM
 gXM
 gXM
@@ -122027,6 +122134,10 @@ kIN
 kna
 miQ
 hkD
+=======
+ryn
+muA
+>>>>>>> Stashed changes
 xAu
 xAu
 xAu
@@ -122313,6 +122424,7 @@ xsl
 xsl
 lpg
 tRw
+<<<<<<< Updated upstream
 wTQ
 jbl
 cBf
@@ -122322,6 +122434,17 @@ msE
 fcP
 yeu
 rEi
+=======
+ryn
+sqC
+xAu
+naK
+spL
+gVF
+huT
+huT
+huT
+>>>>>>> Stashed changes
 sUF
 sUF
 fYz
@@ -122618,6 +122741,7 @@ pzp
 kJn
 doc
 cBf
+<<<<<<< Updated upstream
 nrq
 eNA
 msE
@@ -122631,6 +122755,46 @@ ioi
 scn
 dsF
 uQS
+=======
+cBf
+cBf
+cBf
+cBf
+txi
+fur
+fur
+fur
+jgP
+ftf
+hbV
+jjU
+jjU
+cBf
+cBf
+cBf
+cBf
+cBf
+ucl
+prC
+dRz
+huT
+uoy
+qoA
+odS
+odS
+odS
+cBf
+cBf
+sqC
+mWB
+ryn
+oUH
+ryn
+ryn
+odO
+sqC
+qpv
+>>>>>>> Stashed changes
 naK
 fIo
 fIo
@@ -125935,11 +126099,15 @@ cBf
 dCa
 fCe
 xsl
+<<<<<<< Updated upstream
 dZk
 pzp
 ban
 fpI
 euA
+=======
+lts
+>>>>>>> Stashed changes
 glB
 glB
 glB
@@ -127753,11 +127921,32 @@ ioi
 qZA
 sqC
 glB
+<<<<<<< Updated upstream
 cCa
 uoW
 uoW
 uoW
 naK
+=======
+rVU
+rVU
+cKa
+gJG
+odS
+odS
+odS
+cBf
+hON
+glB
+glB
+glB
+glB
+glB
+glB
+glB
+hBb
+aNP
+>>>>>>> Stashed changes
 naK
 woq
 aDA
@@ -128038,6 +128227,7 @@ rRz
 rRz
 rRz
 rRz
+<<<<<<< Updated upstream
 eFM
 uhS
 azA
@@ -128053,6 +128243,33 @@ qZA
 fKQ
 ern
 alK
+=======
+rRz
+jgP
+pvW
+hbV
+hbV
+dBA
+cBf
+cBf
+cBf
+odS
+odS
+cBf
+rVU
+huT
+huT
+ckD
+kWF
+odS
+odS
+odS
+cBf
+eKQ
+sqC
+sqC
+sqC
+>>>>>>> Stashed changes
 hON
 glB
 uoW
@@ -130487,6 +130704,7 @@ nal
 sqC
 sXx
 cBf
+<<<<<<< Updated upstream
 udp
 naK
 fIo
@@ -130502,6 +130720,50 @@ pII
 azA
 azA
 azA
+=======
+gvD
+gvD
+gvD
+gvD
+gvD
+gvD
+gvD
+gvD
+gvD
+gvD
+gvD
+cBf
+odS
+odS
+cBf
+cBf
+rjL
+jgP
+odS
+odS
+odS
+odS
+odS
+odS
+hjZ
+huT
+rnI
+huT
+vdT
+uQS
+txi
+txi
+ndO
+cGL
+txi
+txi
+txi
+txi
+txi
+txi
+ndO
+txi
+>>>>>>> Stashed changes
 igU
 ner
 tfP

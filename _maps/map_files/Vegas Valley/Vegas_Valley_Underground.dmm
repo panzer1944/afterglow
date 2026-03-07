@@ -158,6 +158,15 @@
 	},
 /turf/open/floor/mineral/plastitanium,
 /area/ruin/powered)
+<<<<<<< Updated upstream
+=======
+"adB" = (
+/obj/machinery/light{
+	dir = 1
+	},
+/turf/open/floor/wood_common,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "adX" = (
 /obj/structure/table,
 /obj/structure/barricade/bars,
@@ -291,6 +300,20 @@
 	},
 /turf/open/floor/carpet/orange,
 /area/f13/vault/security)
+<<<<<<< Updated upstream
+=======
+"agI" = (
+/obj/effect/decal/cleanable/dirt{
+	color = "000000"
+	},
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/obj/structure/table/reinforced,
+/obj/effect/spawner/lootdrop/f13/weapon/gun/ammo/tier1,
+/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
+	icon_state = "floorrustysolid"
+	},
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "agO" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/remains/human{
@@ -488,6 +511,14 @@
 	icon_state = "tunnelrusty"
 	},
 /area/f13/sewer/powered)
+"ajk" = (
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/obj/machinery/light{
+	dir = 1;
+	light_color = "#e8eaff"
+	},
+/turf/open/floor/wood_common,
+/area/f13/brotherhood/leisure)
 "ajA" = (
 /obj/effect/decal/cleanable/dirt/dust,
 /obj/machinery/light/small,
@@ -832,9 +863,22 @@
 /turf/open/floor/plasteel/vault,
 /area/f13/vault/security/armory)
 "aqG" = (
+<<<<<<< Updated upstream
 /obj/structure/sign/directions/engineering,
 /turf/closed/wall/r_wall,
 /area/f13/brotherhood/armory)
+=======
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/turf/open/floor/plasteel/f13/vault_floor/neutral/white/side{
+	dir = 8
+	},
+/area/f13/brotherhood/operating)
+"aqH" = (
+/obj/machinery/radioterminal/bos,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/carpet/red,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "aqM" = (
 /obj/structure/table,
 /obj/structure/sign/plaques/long/vault{
@@ -1120,6 +1164,17 @@
 /obj/effect/turf_decal/stripes/line,
 /turf/open/floor/plating/tunnel,
 /area/f13/building/firestation)
+<<<<<<< Updated upstream
+=======
+"avX" = (
+/obj/effect/decal/cleanable/dirt{
+	color = "000000"
+	},
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/turf/open/floor/wood_common,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "awa" = (
 /obj/structure/destructible/tribal_torch/wall/lit{
 	dir = 8
@@ -1541,8 +1596,16 @@
 /obj/effect/decal/cleanable/dirt{
 	color = "000000"
 	},
+<<<<<<< Updated upstream
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
 /area/f13/brotherhood/dorms)
+=======
+/turf/open/floor/wood_common,
+/area/f13/brotherhood/operations)
+"aGs" = (
+/turf/open/floor/wood_common,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "aGt" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/overlay/junk/sink{
@@ -1565,6 +1628,7 @@
 /turf/open/floor/plasteel/dark,
 /area/f13/sewer)
 "aGI" = (
+<<<<<<< Updated upstream
 /obj/effect/decal/cleanable/dirt{
 	color = "000000"
 	},
@@ -1573,6 +1637,11 @@
 	},
 /turf/open/floor/plasteel/f13/vault_floor/plating,
 /area/f13/brotherhood/operations)
+=======
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/turf/open/floor/plasteel/f13/vault_floor/yellow,
+/area/f13/brotherhood/reactor)
+>>>>>>> Stashed changes
 "aGO" = (
 /obj/effect/turf_decal/bot_red,
 /turf/open/floor/plasteel/f13,
@@ -1613,6 +1682,7 @@
 	pixel_x = -11;
 	pixel_y = 4
 	},
+<<<<<<< Updated upstream
 /obj/machinery/microwave{
 	density = 0;
 	pixel_y = 11
@@ -1621,6 +1691,10 @@
 	icon_state = "tealwhrusty_chess2"
 	},
 /area/f13/brotherhood/leisure)
+=======
+/turf/open/floor/wood_common,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "aIg" = (
 /obj/structure/simple_door/bunker,
 /obj/structure/barricade/wooden/planks,
@@ -1765,13 +1839,16 @@
 /obj/effect/decal/cleanable/dirt{
 	color = "000000"
 	},
-/obj/machinery/light{
-	dir = 4;
-	light_color = "#c1caff"
-	},
 /obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
 /obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+<<<<<<< Updated upstream
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
+=======
+/obj/structure/table/reinforced,
+/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
+	icon_state = "floorrustysolid"
+	},
+>>>>>>> Stashed changes
 /area/f13/brotherhood/operations)
 "aLP" = (
 /obj/structure/bed/mattress{
@@ -2004,7 +2081,19 @@
 /turf/closed/indestructible/f13/obsidian,
 /area/f13/caves)
 "aRB" = (
+<<<<<<< Updated upstream
 /turf/open/floor/carpet/green,
+=======
+/obj/effect/decal/cleanable/dirt{
+	color = "000000"
+	},
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
+	color = "#c1ac99";
+	icon_state = "floorrustysolid"
+	},
+>>>>>>> Stashed changes
 /area/f13/brotherhood/operations)
 "aRF" = (
 /obj/structure/wreck/trash/three_barrels,
@@ -2176,6 +2265,14 @@
 	},
 /turf/open/floor/plasteel/f13/vault_floor/red,
 /area/ruin/powered)
+<<<<<<< Updated upstream
+=======
+"aUd" = (
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/turf/open/floor/wood_common,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "aUp" = (
 /obj/structure/barricade/wooden/planks/pregame,
 /turf/closed/wall/f13/wood/house,
@@ -2387,7 +2484,15 @@
 /turf/open/indestructible/ground/inside/subway,
 /area/f13/bunker/bunkersix)
 "aYn" = (
+<<<<<<< Updated upstream
 /obj/structure/simple_door/bunker,
+=======
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/carpet/red,
+/area/f13/brotherhood/operations)
+"aYu" = (
+>>>>>>> Stashed changes
 /obj/effect/decal/cleanable/dirt{
 	color = "000000"
 	},
@@ -2424,6 +2529,7 @@
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
 /area/f13/bunker/bunkernine)
 "aZT" = (
+<<<<<<< Updated upstream
 /obj/effect/decal/cleanable/dirt{
 	color = "000000"
 	},
@@ -2433,6 +2539,12 @@
 /obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
 /area/f13/brotherhood/armory)
+=======
+/obj/structure/table/wood/fancy/black,
+/obj/item/candle,
+/turf/open/floor/plasteel/cult,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "aZU" = (
 /obj/structure/sign/poster/random,
 /turf/closed/wall/r_wall,
@@ -2596,6 +2708,16 @@
 /obj/structure/barricade/wooden,
 /turf/closed/indestructible/f13/obsidian,
 /area/f13/bunker)
+<<<<<<< Updated upstream
+=======
+"bdL" = (
+/obj/machinery/door/airlock/grunge{
+	name = "Combat Caste Office";
+	req_access_txt = "120"
+	},
+/turf/open/floor/wood_common,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "bdT" = (
 /obj/effect/decal/cleanable/glass,
 /turf/open/indestructible/ground/inside/subway,
@@ -3060,11 +3182,16 @@
 	},
 /area/f13/building/abandoned/o)
 "bol" = (
+<<<<<<< Updated upstream
 /obj/structure/chair/sofa/left{
 	dir = 1
 	},
 /obj/effect/landmark/start/f13/Knight,
 /turf/open/floor/carpet/red,
+=======
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/turf/open/floor/plasteel/f13/vault_floor/green,
+>>>>>>> Stashed changes
 /area/f13/brotherhood/operations)
 "bom" = (
 /obj/effect/turf_decal/stripes/white/line{
@@ -3386,7 +3513,14 @@
 /turf/open/floor/plasteel/f13/vault_floor/neutral/white/side{
 	dir = 9
 	},
+<<<<<<< Updated upstream
 /area/f13/brotherhood/operating)
+=======
+/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
+	icon_state = "floorrustysolid"
+	},
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "bxL" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/wreck/trash/five_tires,
@@ -4110,6 +4244,16 @@
 /obj/structure/barricade/sandbags,
 /turf/open/indestructible/ground/inside/subway,
 /area/f13/bunker)
+<<<<<<< Updated upstream
+=======
+"bNx" = (
+/obj/machinery/power/apc/auto_name/north,
+/obj/structure/cable{
+	icon_state = "0-2"
+	},
+/turf/open/floor/carpet/red,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "bNE" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/lattice,
@@ -4126,6 +4270,19 @@
 	icon_state = "housewood2"
 	},
 /area/f13/bunker)
+<<<<<<< Updated upstream
+=======
+"bNX" = (
+/obj/structure/table/reinforced,
+/obj/item/holosign_creator/security{
+	layer = 3.1;
+	name = "Head Knight's holobarrier projector";
+	pixel_y = 7
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/carpet/red,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "bOc" = (
 /obj/item/storage/trash_stack,
 /turf/open/indestructible/ground/inside/subway,
@@ -4300,7 +4457,13 @@
 /area/ruin/powered)
 "bRN" = (
 /obj/effect/landmark/start/f13/Knight,
+<<<<<<< Updated upstream
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
+=======
+/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
+	icon_state = "floorrustysolid"
+	},
+>>>>>>> Stashed changes
 /area/f13/brotherhood/operations)
 "bRV" = (
 /mob/living/simple_animal/hostile/handy/assaultron,
@@ -4569,7 +4732,14 @@
 	faction = list("BOS");
 	req_access = list(120)
 	},
+<<<<<<< Updated upstream
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
+=======
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
+	icon_state = "floorrustysolid"
+	},
+>>>>>>> Stashed changes
 /area/f13/brotherhood/operations)
 "bYu" = (
 /obj/effect/decal/cleanable/dirt{
@@ -4743,7 +4913,13 @@
 /turf/open/floor/plasteel/f13/vault_floor/yellow/side{
 	dir = 1
 	},
+<<<<<<< Updated upstream
 /area/f13/brotherhood/reactor)
+=======
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/turf/open/floor/holofloor/plating,
+/area/f13/brotherhood/armory)
+>>>>>>> Stashed changes
 "ccj" = (
 /obj/effect/decal/cleanable/dirt,
 /mob/living/simple_animal/hostile/centaur,
@@ -5090,6 +5266,11 @@
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plasteel/f13/vault_floor/red,
 /area/ruin/powered)
+"cjU" = (
+/obj/structure/chair/stool/bar,
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/turf/open/floor/wood_common,
+/area/f13/brotherhood/leisure)
 "ckc" = (
 /turf/open/floor/plasteel/freezer,
 /area/f13/bunker)
@@ -5220,7 +5401,14 @@
 	name = "Security Checkpoint";
 	req_access_txt = "120"
 	},
+<<<<<<< Updated upstream
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
+=======
+/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
+	color = "#c1ac99";
+	icon_state = "floorrustysolid"
+	},
+>>>>>>> Stashed changes
 /area/f13/brotherhood/operations)
 "cnh" = (
 /obj/structure/table,
@@ -5419,6 +5607,7 @@
 /obj/structure/closet/crate/secure/weapon{
 	anchored = 1
 	},
+<<<<<<< Updated upstream
 /obj/item/stock_parts/cell/ammo/ecp,
 /obj/item/stock_parts/cell/ammo/ecp,
 /obj/effect/decal/cleanable/dirt{
@@ -5432,6 +5621,10 @@
 	dir = 1
 	},
 /area/f13/brotherhood/armory)
+=======
+/turf/open/floor/wood_common,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "csS" = (
 /obj/structure/chair/wood{
 	dir = 4
@@ -5688,7 +5881,12 @@
 /turf/open/floor/plasteel/f13/vault_floor/red/side{
 	dir = 4
 	},
+<<<<<<< Updated upstream
 /area/f13/brotherhood/reactor)
+=======
+/turf/open/floor/carpet/red,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "cxR" = (
 /obj/structure/rack,
 /obj/item/reagent_containers/food/drinks/bottle/brown/darkbrown,
@@ -5759,7 +5957,11 @@
 	color = "000000"
 	},
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
+<<<<<<< Updated upstream
 /area/f13/brotherhood/armory)
+=======
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "czE" = (
 /obj/structure/table,
 /obj/item/clothing/gloves/color/light_brown,
@@ -5856,7 +6058,14 @@
 /obj/effect/decal/cleanable/dirt{
 	color = "000000"
 	},
+<<<<<<< Updated upstream
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
+=======
+/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
+	color = "#c1ac99";
+	icon_state = "floorrustysolid"
+	},
+>>>>>>> Stashed changes
 /area/f13/brotherhood/operations)
 "cCr" = (
 /obj/effect/decal/cleanable/dirt/dust,
@@ -5935,6 +6144,17 @@
 	},
 /turf/open/floor/f13/wood,
 /area/f13/building/abandoned/o)
+<<<<<<< Updated upstream
+=======
+"cDS" = (
+/obj/structure/table/reinforced,
+/obj/machinery/computer/security/bos{
+	circuit = /obj/item/circuitboard/computer/security;
+	dir = 1
+	},
+/turf/open/floor/carpet/red,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "cEt" = (
 /obj/effect/gibspawner/robot,
 /turf/open/floor/plating/dirt/dark,
@@ -6613,6 +6833,13 @@
 	icon_state = "darkrustysolid"
 	},
 /area/f13/bunker/bunkerfive)
+<<<<<<< Updated upstream
+=======
+"cWs" = (
+/obj/machinery/vending/cigarette/syndicate,
+/turf/open/floor/plasteel/f13/vault_floor/yellow,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "cWw" = (
 /obj/structure/debris/v3{
 	pixel_x = -15;
@@ -6757,8 +6984,20 @@
 	},
 /area/f13/sewer/powered)
 "cYb" = (
+<<<<<<< Updated upstream
 /turf/open/floor/carpet/royalblack,
 /area/f13/brotherhood/operations)
+=======
+/obj/machinery/door/airlock/hatch{
+	name = "Security Checkpoint";
+	req_access_txt = "120"
+	},
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/turf/open/floor/f13{
+	icon_state = "floorrusty"
+	},
+/area/f13/brotherhood/armory)
+>>>>>>> Stashed changes
 "cYc" = (
 /obj/structure/chair/left,
 /turf/open/floor/f13{
@@ -6921,7 +7160,13 @@
 "dbi" = (
 /obj/structure/chair/sofa/right,
 /obj/effect/landmark/start/f13/initiate,
+<<<<<<< Updated upstream
 /turf/open/floor/carpet/green,
+=======
+/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
+	icon_state = "whitedirtysolid"
+	},
+>>>>>>> Stashed changes
 /area/f13/brotherhood/operations)
 "dbr" = (
 /obj/machinery/door/locked/hard/maybe_trapped,
@@ -7244,7 +7489,11 @@
 	icon_state = "riverwater_motion";
 	name = "water"
 	},
+<<<<<<< Updated upstream
 /area/f13/brotherhood/leisure)
+=======
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "div" = (
 /obj/effect/spawner/structure/window/reinforced,
 /obj/effect/decal/cleanable/glass{
@@ -7505,6 +7754,7 @@
 /turf/open/indestructible/ground/inside/subway,
 /area/f13/sewer/powered)
 "dpa" = (
+<<<<<<< Updated upstream
 /obj/effect/decal/cleanable/dirt{
 	color = "000000"
 	},
@@ -7514,6 +7764,11 @@
 	dir = 4
 	},
 /area/f13/brotherhood/rnd)
+=======
+/obj/machinery/hydroponics/constructable,
+/turf/open/floor/plasteel/f13/vault_floor/green/side,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "dpi" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/item/stock_parts/manipulator/pico,
@@ -7625,8 +7880,13 @@
 /mob/living/simple_animal/hostile/ghoul/reaver/ncr_helmet{
 	name = "Monarch"
 	},
+<<<<<<< Updated upstream
 /turf/open/indestructible/ground/inside/mountain,
 /area/f13/brotherhood/reactor)
+=======
+/turf/open/floor/wood_common,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "dsk" = (
 /obj/structure/rack,
 /obj/item/ammo_box/magazine/garand308,
@@ -7731,7 +7991,10 @@
 /obj/effect/decal/cleanable/dirt{
 	color = "000000"
 	},
+<<<<<<< Updated upstream
 /turf/open/floor/plating/f13/inside,
+=======
+>>>>>>> Stashed changes
 /area/f13/brotherhood/operations)
 "duA" = (
 /obj/machinery/light{
@@ -7751,6 +8014,12 @@
 /obj/structure/wreck/trash/two_barrels,
 /turf/open/indestructible/ground/inside/subway,
 /area/f13/sewer/powered)
+"dvx" = (
+/obj/effect/decal/waste{
+	icon_state = "goo10"
+	},
+/turf/open/indestructible/ground/inside/mountain,
+/area/f13/caves)
 "dvF" = (
 /obj/structure/lattice,
 /obj/structure/chair/stool,
@@ -8068,8 +8337,17 @@
 /obj/effect/decal/cleanable/dirt{
 	color = "000000"
 	},
+<<<<<<< Updated upstream
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
 /area/f13/brotherhood/dorms)
+=======
+/obj/structure/mirror{
+	pixel_x = 30
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/wood_common,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "dCv" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/item/circuitboard/machine/chem_heater,
@@ -8151,8 +8429,14 @@
 /obj/effect/decal/cleanable/dirt{
 	color = "000000"
 	},
+<<<<<<< Updated upstream
 /obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
 /turf/open/floor/plating/f13/inside,
+=======
+/obj/structure/table/wood/fancy/black,
+/obj/item/flashlight/lantern,
+/turf/open/floor/plasteel/cult,
+>>>>>>> Stashed changes
 /area/f13/brotherhood/operations)
 "dDY" = (
 /obj/effect/decal/cleanable/dirt,
@@ -8572,6 +8856,17 @@
 	icon_state = "purplefull"
 	},
 /area/ruin/powered)
+"dOq" = (
+/obj/effect/decal/cleanable/dirt{
+	color = "000000"
+	},
+/obj/machinery/light{
+	flickering = 1
+	},
+/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
+	icon_state = "floorrustysolid"
+	},
+/area/f13/brotherhood/operations)
 "dOz" = (
 /obj/structure/table/wood,
 /turf/open/floor/f13{
@@ -9635,8 +9930,18 @@
 	},
 /area/f13/bunker)
 "epV" = (
+<<<<<<< Updated upstream
 /obj/structure/rack,
 /turf/open/floor/plating/f13/inside,
+=======
+/obj/structure/chair/sofa/right{
+	dir = 1
+	},
+/obj/effect/landmark/start/f13/initiate,
+/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
+	icon_state = "whitedirtysolid"
+	},
+>>>>>>> Stashed changes
 /area/f13/brotherhood/operations)
 "eqc" = (
 /obj/effect/decal/cleanable/dirt,
@@ -9789,6 +10094,7 @@
 /turf/open/floor/plasteel/f13/vault_floor/neutral/white,
 /area/f13/vault/atrium)
 "eub" = (
+<<<<<<< Updated upstream
 /obj/structure/closet/crate/secure/weapon{
 	anchored = 1
 	},
@@ -9802,6 +10108,11 @@
 	dir = 1
 	},
 /area/f13/brotherhood/armory)
+=======
+/obj/structure/chair/pew,
+/turf/open/floor/plasteel/cult,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "eud" = (
 /obj/item/kirbyplants{
 	icon_state = "plant-21";
@@ -9859,6 +10170,7 @@
 	},
 /area/ruin/powered)
 "evg" = (
+<<<<<<< Updated upstream
 /obj/effect/spawner/lootdrop/weapons/experimental,
 /obj/structure/guncase,
 /obj/item/gun/energy/laser/aer9,
@@ -9867,6 +10179,11 @@
 	dir = 5
 	},
 /area/f13/brotherhood/armory)
+=======
+/obj/structure/chair/pew/right,
+/turf/open/floor/plasteel/cult,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "evo" = (
 /obj/structure/table,
 /obj/structure/barricade/bars,
@@ -10215,8 +10532,13 @@
 /obj/effect/decal/cleanable/dirt{
 	color = "000000"
 	},
+<<<<<<< Updated upstream
 /turf/open/indestructible/ground/inside/mountain,
 /area/f13/brotherhood/reactor)
+=======
+/turf/open/floor/wood_common,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "eCI" = (
 /obj/structure/table,
 /obj/effect/spawner/lootdrop/f13/ncr_c_ration,
@@ -10424,12 +10746,22 @@
 "eGH" = (
 /obj/item/kirbyplants/random,
 /obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+<<<<<<< Updated upstream
 /obj/machinery/light{
 	dir = 1;
 	light_color = "#e8eaff"
 	},
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
 /area/f13/brotherhood/dorms)
+=======
+/obj/structure/curtain,
+/obj/structure/simple_door/bunker/glass{
+	req_access_txt = "120";
+	req_one_access_txt = "120"
+	},
+/turf/open/floor/plasteel/f13/vault_floor/neutral/white/side,
+/area/f13/brotherhood/operating)
+>>>>>>> Stashed changes
 "eGI" = (
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plasteel/f13/vault_floor/plating,
@@ -10480,6 +10812,12 @@
 	icon_state = "floorrustysolid"
 	},
 /area/f13/bunker/bunkerseven)
+"eHW" = (
+/obj/machinery/light{
+	pixel_x = 16
+	},
+/turf/open/floor/wood_common,
+/area/f13/brotherhood/operations)
 "eHY" = (
 /obj/effect/decal/cleanable/dirt{
 	color = "000000"
@@ -10740,7 +11078,12 @@
 	dir = 8;
 	light_color = "#d8b1b1"
 	},
+<<<<<<< Updated upstream
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
+=======
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/turf/open/floor/carpet/red,
+>>>>>>> Stashed changes
 /area/f13/brotherhood/operations)
 "eNY" = (
 /obj/item/trash/f13/c_ration_1,
@@ -10850,6 +11193,16 @@
 	icon_state = "bar"
 	},
 /area/f13/bunker/bunkersix)
+<<<<<<< Updated upstream
+=======
+"eQq" = (
+/obj/structure/curtain{
+	color = "#5c131b"
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/wood_common,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "eQw" = (
 /obj/structure/table,
 /obj/item/ammo_box/magazine/m556/rifle/extended/empty,
@@ -11153,7 +11506,14 @@
 	},
 /obj/structure/table/reinforced,
 /obj/structure/barricade/concrete,
+<<<<<<< Updated upstream
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
+=======
+/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
+	color = "#c1ac99";
+	icon_state = "floorrustysolid"
+	},
+>>>>>>> Stashed changes
 /area/f13/brotherhood/operations)
 "eYw" = (
 /obj/structure/cable{
@@ -11658,10 +12018,15 @@
 /obj/machinery/vending/wallmed{
 	pixel_y = -29
 	},
+<<<<<<< Updated upstream
 /turf/open/floor/plasteel/f13/vault_floor/red/side{
 	dir = 6
 	},
 /area/f13/brotherhood/armory)
+=======
+/turf/open/floor/plasteel/cult,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "fjN" = (
 /obj/machinery/light/small{
 	dir = 4
@@ -12062,6 +12427,14 @@
 /obj/structure/simple_door/metal/iron,
 /turf/open/floor/f13/wood,
 /area/f13/bunker/bighornbunker)
+<<<<<<< Updated upstream
+=======
+"fvy" = (
+/obj/effect/landmark/start/f13/initiate,
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/turf/open/floor/wood_common,
+/area/f13/brotherhood/leisure)
+>>>>>>> Stashed changes
 "fvK" = (
 /obj/structure/bonfire/prelit,
 /turf/open/floor/f13{
@@ -12077,6 +12450,7 @@
 /turf/open/floor/plating/dirt,
 /area/f13/caves)
 "fwv" = (
+<<<<<<< Updated upstream
 /obj/machinery/microwave/stove,
 /obj/effect/decal/cleanable/dirt,
 /obj/machinery/light/small{
@@ -12088,6 +12462,11 @@
 	icon_state = "tealwhrusty_chess2"
 	},
 /area/f13/brotherhood/leisure)
+=======
+/obj/machinery/vending/coffee,
+/turf/open/floor/plasteel/f13/vault_floor/yellow,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "fww" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/ash,
@@ -12337,15 +12716,11 @@
 /area/f13/bunker/bunkerthree)
 "fAK" = (
 /obj/machinery/light{
-	dir = 1;
-	light_color = "#706891";
-	pixel_y = 5
+	dir = 4;
+	pixel_y = -16
 	},
-/obj/effect/decal/cleanable/dirt{
-	color = "000000"
-	},
-/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
-/area/f13/brotherhood/mining)
+/turf/open/floor/plasteel/f13/vault_floor/green,
+/area/f13/brotherhood/operations)
 "fAN" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/spawner/lootdrop/ammo/shotgun,
@@ -12380,11 +12755,19 @@
 	},
 /area/f13/building/abandoned/o)
 "fBB" = (
+<<<<<<< Updated upstream
 /obj/machinery/power/apc/auto_name/east,
 /obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plasteel/f13/vault_floor/neutral/white/side{
 	dir = 4
+=======
+/obj/structure/table/glass,
+/obj/effect/spawner/lootdrop/f13/medical/wasteland/meds,
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
+	icon_state = "whitedirtysolid"
+>>>>>>> Stashed changes
 	},
 /area/f13/brotherhood/operating)
 "fBF" = (
@@ -12662,12 +13045,12 @@
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
 /area/f13/brotherhood/operating)
 "fHU" = (
-/obj/machinery/light/small{
-	brightness = 7;
-	dir = 4
-	},
 /obj/effect/decal/cleanable/dirt{
 	color = "000000"
+	},
+/obj/machinery/light{
+	dir = 4;
+	light_color = "#228B22"
 	},
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
 /area/f13/brotherhood/mining)
@@ -12932,6 +13315,20 @@
 	icon_state = "floorrustysolid"
 	},
 /area/f13/bunker)
+<<<<<<< Updated upstream
+=======
+"fOf" = (
+/obj/structure/bed/mattress{
+	icon_state = "mattress4";
+	pixel_x = -1;
+	pixel_y = -1
+	},
+/obj/machinery/light/small{
+	dir = 4
+	},
+/turf/open/floor/plating/rust,
+/area/f13/brotherhood/armory)
+>>>>>>> Stashed changes
 "fOi" = (
 /obj/structure/toilet{
 	pixel_y = 13
@@ -13081,9 +13478,21 @@
 /obj/effect/decal/cleanable/dirt{
 	color = "000000"
 	},
+<<<<<<< Updated upstream
 /obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
 /turf/open/floor/plasteel/f13/vault_floor/red/side,
 /area/f13/brotherhood/armory)
+=======
+/obj/structure/closet/anchored,
+/obj/item/clothing/under/f13/bosform_f,
+/obj/item/clothing/under/f13/bosform_m,
+/obj/item/clothing/gloves/color/white/bos,
+/obj/item/clothing/gloves/color/white/bos,
+/obj/item/clothing/under/f13/bosform_m,
+/obj/item/clothing/under/f13/bosform_f,
+/turf/open/floor/plasteel/cult,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "fRO" = (
 /obj/structure/reagent_dispensers/barrel/dangerous,
 /obj/effect/decal/waste{
@@ -13155,12 +13564,17 @@
 /turf/open/indestructible/ground/inside/mountain,
 /area/f13/caves)
 "fTu" = (
+<<<<<<< Updated upstream
 /obj/effect/decal/cleanable/dirt,
 /obj/machinery/light/small{
 	brightness = 7;
 	dir = 4
 	},
 /turf/open/floor/wood_common,
+=======
+/obj/effect/landmark/start/f13/offduty,
+/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
+>>>>>>> Stashed changes
 /area/f13/brotherhood/operations)
 "fTv" = (
 /obj/structure/lattice,
@@ -13191,6 +13605,7 @@
 /turf/open/floor/plasteel/f13/vault_floor/purple/corner,
 /area/f13/vault/atrium)
 "fTO" = (
+<<<<<<< Updated upstream
 /obj/structure/lattice/catwalk,
 /obj/machinery/hydroponics/constructable,
 /obj/effect/decal/cleanable/dirt{
@@ -13207,6 +13622,11 @@
 	name = "water"
 	},
 /area/f13/brotherhood/leisure)
+=======
+/obj/structure/table/wood/fancy/black,
+/turf/open/floor/plasteel/cult,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "fTQ" = (
 /obj/structure/table/reinforced,
 /obj/item/surgical_drapes,
@@ -13285,9 +13705,19 @@
 /area/f13/bunker/bighornbunker)
 "fWs" = (
 /obj/structure/table/reinforced,
+<<<<<<< Updated upstream
 /obj/machinery/reagentgrinder{
 	pixel_x = -7;
 	pixel_y = 4
+=======
+/obj/effect/spawner/lootdrop/f13/weapon/gun/ammo/tier3,
+/obj/machinery/power/apc/auto_name/south,
+/obj/structure/cable{
+	icon_state = "0-1"
+	},
+/turf/open/floor/plasteel/f13/vault_floor/red/side{
+	dir = 1
+>>>>>>> Stashed changes
 	},
 /obj/item/reagent_containers/glass/beaker/large,
 /obj/effect/decal/cleanable/dirt,
@@ -13472,10 +13902,19 @@
 /turf/open/indestructible/ground/inside/mountain,
 /area/f13/caves)
 "gbm" = (
+<<<<<<< Updated upstream
 /obj/structure/closet/crate/freezer/blood/anchored,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plasteel/f13/vault_floor/neutral/white/side,
 /area/f13/brotherhood/operating)
+=======
+/obj/structure/table/reinforced,
+/obj/item/gun/ballistic/rifle/mosin,
+/turf/open/floor/plasteel/f13/vault_floor/red/side{
+	dir = 1
+	},
+/area/f13/brotherhood/armory)
+>>>>>>> Stashed changes
 "gbn" = (
 /obj/effect/spawner/lootdrop/f13/armor/tier3,
 /turf/open/indestructible/ground/inside/mountain,
@@ -13619,11 +14058,15 @@
 /obj/effect/decal/cleanable/dirt{
 	color = "000000"
 	},
+<<<<<<< Updated upstream
 /obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
 /turf/open/floor/plasteel/f13/vault_floor/red/corner{
 	dir = 1
 	},
 /area/f13/brotherhood/reactor)
+=======
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "gfl" = (
 /obj/structure/barricade/wooden/planks/pregame,
 /turf/closed/wall/rust,
@@ -13777,6 +14220,19 @@
 /obj/structure/debris/v3,
 /turf/open/floor/plating/tunnel,
 /area/f13/sewer)
+<<<<<<< Updated upstream
+=======
+"gic" = (
+/obj/structure/table/reinforced,
+/obj/effect/spawner/lootdrop/f13/foodspawner,
+/obj/machinery/light{
+	flickering = 1
+	},
+/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
+	icon_state = "floorrustysolid"
+	},
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "giu" = (
 /turf/open/floor/plasteel/f13/vault_floor/neutral/white,
 /area/f13/vault/atrium)
@@ -13906,6 +14362,15 @@
 	icon_state = "darkrusty"
 	},
 /area/f13/sewer/powered)
+<<<<<<< Updated upstream
+=======
+"gls" = (
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/turf/open/floor/plasteel/f13/vault_floor/red/side{
+	dir = 10
+	},
+/area/f13/brotherhood/armory)
+>>>>>>> Stashed changes
 "glE" = (
 /obj/effect/spawner/lootdrop/f13/weapon/gun/energy/high,
 /obj/effect/decal/cleanable/dirt,
@@ -14160,6 +14625,7 @@
 /turf/open/indestructible/ground/inside/mountain,
 /area/f13/sewer)
 "gsa" = (
+<<<<<<< Updated upstream
 /obj/effect/decal/cleanable/dirt{
 	color = "000000"
 	},
@@ -14168,6 +14634,12 @@
 	},
 /turf/open/floor/plasteel/f13/vault_floor/floor/floorsolid,
 /area/f13/brotherhood/reactor)
+=======
+/obj/structure/table/reinforced/brass,
+/obj/item/weldingtool,
+/turf/open/floor/plasteel/cult,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "gsf" = (
 /mob/living/simple_animal/hostile/supermutant/nightkin/rangedmutant,
 /obj/effect/decal/cleanable/dirt,
@@ -14190,10 +14662,15 @@
 	layer = 2.9
 	},
 /obj/effect/decal/cleanable/dirt,
+<<<<<<< Updated upstream
 /obj/machinery/light,
 /obj/effect/spawner/lootdrop/f13/doctorbag,
 /turf/open/floor/plasteel/f13/vault_floor/neutral/white/side,
 /area/f13/brotherhood/operating)
+=======
+/turf/open/floor/carpet/red,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "gsv" = (
 /obj/structure/simple_door/bunker,
 /turf/open/floor/plating/tunnel{
@@ -14538,7 +15015,14 @@
 	req_access_txt = "120"
 	},
 /obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+<<<<<<< Updated upstream
 /turf/open/floor/plating/rust,
+=======
+/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
+	color = "#c1ac99";
+	icon_state = "floorrustysolid"
+	},
+>>>>>>> Stashed changes
 /area/f13/brotherhood/operations)
 "gzw" = (
 /obj/effect/decal/cleanable/dirt,
@@ -15033,9 +15517,14 @@
 /obj/machinery/light/small{
 	light_color = "#ff4747"
 	},
+<<<<<<< Updated upstream
 /obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
 /turf/open/floor/plasteel/f13/vault_floor/yellow/side,
 /area/f13/brotherhood/reactor)
+=======
+/turf/open/floor/plasteel/cult,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "gKH" = (
 /obj/machinery/light{
 	dir = 8
@@ -15152,8 +15641,25 @@
 	pixel_y = 30;
 	products = list(/obj/item/reagent_containers/syringe=3,/obj/item/reagent_containers/pill/patch/styptic=10,/obj/item/reagent_containers/pill/patch/silver_sulf=10,/obj/item/reagent_containers/medspray/styptic=4,/obj/item/reagent_containers/medspray/silver_sulf=4,/obj/item/reagent_containers/pill/charcoal=2,/obj/item/reagent_containers/medspray/sterilizine=2)
 	},
+<<<<<<< Updated upstream
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
 /area/f13/brotherhood/dorms)
+=======
+/turf/open/floor/plasteel/f13/vault_floor/neutral/white/side,
+/area/f13/brotherhood/operating)
+"gMH" = (
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/obj/structure/noticeboard{
+	pixel_y = 32
+	},
+/obj/structure/table{
+	layer = 2.9
+	},
+/obj/item/paper_bin,
+/obj/item/pen/fourcolor,
+/turf/open/floor/wood_common,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "gMM" = (
 /obj/structure/lattice,
 /obj/structure/cable{
@@ -15324,11 +15830,18 @@
 	network = list("BoS");
 	pixel_x = -1
 	},
+<<<<<<< Updated upstream
 /obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
 /turf/open/floor/plasteel/f13/vault_floor/red/side{
 	dir = 4
 	},
 /area/f13/brotherhood/armory)
+=======
+/obj/structure/lattice,
+/obj/effect/decal/cleanable/greenglow,
+/turf/open/floor/plating/rust,
+/area/f13/brotherhood/reactor)
+>>>>>>> Stashed changes
 "gRq" = (
 /obj/structure/table/wood,
 /obj/item/trash/plate{
@@ -15618,7 +16131,12 @@
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
 	icon_state = "aesculapius"
 	},
+<<<<<<< Updated upstream
 /area/f13/brotherhood/operating)
+=======
+/turf/open/floor/carpet/red,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "gXr" = (
 /obj/effect/decal/cleanable/blood/tracks,
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
@@ -15834,7 +16352,11 @@
 /turf/open/floor/plasteel/f13/vault_floor/red/corner{
 	dir = 4
 	},
+<<<<<<< Updated upstream
 /area/f13/brotherhood/reactor)
+=======
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "hbg" = (
 /obj/structure/table/reinforced,
 /obj/effect/spawner/lootdrop/f13/weapon/melee/random_mid,
@@ -16249,11 +16771,15 @@
 /turf/open/indestructible/ground/inside/subway,
 /area/f13/sewer)
 "hig" = (
+<<<<<<< Updated upstream
 /obj/structure/frame/machine{
 	anchored = 1
 	},
 /obj/item/stack/cable_coil,
 /turf/open/floor/plating/f13/inside,
+=======
+/turf/open/floor/plasteel/f13/vault_floor/green,
+>>>>>>> Stashed changes
 /area/f13/brotherhood/operations)
 "hir" = (
 /obj/effect/decal/cleanable/dirt{
@@ -16382,6 +16908,13 @@
 	icon_state = "tunnelchess"
 	},
 /area/f13/sewer)
+<<<<<<< Updated upstream
+=======
+"hlz" = (
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/turf/open/floor/plasteel/f13/vault_floor/green/white,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "hlF" = (
 /obj/structure/table,
 /obj/effect/decal/cleanable/dirt/dust,
@@ -16839,6 +17372,14 @@
 	},
 /turf/open/indestructible/ground/inside/subway,
 /area/f13/bunker/bighornbunker)
+"hwA" = (
+/obj/structure/table/reinforced,
+/obj/effect/spawner/lootdrop/f13/weapon/gun/ammo/tier3,
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/turf/open/floor/plasteel/f13/vault_floor/red/side{
+	dir = 1
+	},
+/area/f13/brotherhood/armory)
 "hwL" = (
 /obj/structure/destructible/tribal_torch/wall/lit{
 	dir = 1;
@@ -17165,6 +17706,7 @@
 /obj/effect/decal/cleanable/dirt{
 	color = "000000"
 	},
+<<<<<<< Updated upstream
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/noticeboard{
 	name = "display plate";
@@ -17183,6 +17725,11 @@
 	dir = 1
 	},
 /area/f13/brotherhood/rnd)
+=======
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/turf/closed/wall/r_wall,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "hED" = (
 /turf/open/floor/f13{
 	dir = 4;
@@ -17253,8 +17800,11 @@
 /obj/effect/decal/cleanable/dirt{
 	color = "000000"
 	},
+<<<<<<< Updated upstream
 /obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
+=======
+>>>>>>> Stashed changes
 /area/f13/brotherhood/operations)
 "hFM" = (
 /obj/structure/simple_door/bunker,
@@ -17401,7 +17951,14 @@
 	brightness = 7;
 	dir = 1
 	},
+<<<<<<< Updated upstream
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
+=======
+/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
+	color = "#c1ac99";
+	icon_state = "floorrustysolid"
+	},
+>>>>>>> Stashed changes
 /area/f13/brotherhood/operations)
 "hKM" = (
 /obj/machinery/door/unpowered/celldoor,
@@ -17436,6 +17993,13 @@
 	icon_state = "darkrusty"
 	},
 /area/f13/bunker/bighornbunker)
+"hLy" = (
+/obj/structure/lattice,
+/obj/effect/decal/waste{
+	icon_state = "goo10"
+	},
+/turf/open/floor/plating/rust,
+/area/f13/brotherhood/reactor)
 "hLA" = (
 /obj/structure/lattice,
 /obj/effect/decal/cleanable/dirt,
@@ -17597,6 +18161,15 @@
 /obj/structure/junk/small,
 /turf/open/indestructible/ground/inside/mountain,
 /area/f13/caves)
+<<<<<<< Updated upstream
+=======
+"hQa" = (
+/obj/structure/chair/wood/wings{
+	dir = 4
+	},
+/turf/open/floor/carpet/black,
+/area/f13/brotherhood/dorms)
+>>>>>>> Stashed changes
 "hQn" = (
 /obj/structure/closet/locker{
 	anchored = 1
@@ -17915,8 +18488,23 @@
 	name = "Secuirty Camera";
 	network = list("BoS")
 	},
+<<<<<<< Updated upstream
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
 /area/f13/brotherhood/operations)
+=======
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
+	icon_state = "floorrustysolid"
+	},
+/area/f13/brotherhood/operations)
+"hXu" = (
+/obj/machinery/workbench/forge,
+/obj/structure/window/reinforced/spawner{
+	dir = 1
+	},
+/turf/open/floor/holofloor/plating,
+/area/f13/brotherhood/armory)
+>>>>>>> Stashed changes
 "hXE" = (
 /obj/machinery/computer/terminal,
 /obj/structure/table/reinforced,
@@ -18140,6 +18728,22 @@
 /obj/structure/wreck/trash/three_barrels,
 /turf/open/indestructible/ground/inside/subway,
 /area/f13/sewer)
+<<<<<<< Updated upstream
+=======
+"idJ" = (
+/obj/structure/dresser,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/wood_common,
+/area/f13/brotherhood/operations)
+"idM" = (
+/obj/structure/window/reinforced/spawner,
+/obj/structure/rack/shelf_metal,
+/obj/item/clothing/head/helmet/f13/combat/brotherhood/initiate,
+/obj/item/clothing/head/helmet/f13/combat/brotherhood,
+/obj/item/clothing/suit/armor/tiered/light/combat/brotherhood/scout,
+/turf/open/floor/holofloor/plating,
+/area/f13/brotherhood/armory)
+>>>>>>> Stashed changes
 "ieh" = (
 /obj/item/clothing/head/helmet/riot/vaultsec,
 /obj/item/clothing/suit/armor/tiered/medium/vest/bulletproof/big,
@@ -19010,6 +19614,22 @@
 	icon_state = "floorrustysolid"
 	},
 /area/f13/bunker)
+<<<<<<< Updated upstream
+=======
+"izs" = (
+/obj/effect/decal/cleanable/dirt{
+	color = "000000"
+	},
+/turf/open/floor/plasteel/f13/vault_floor/red/side,
+/area/f13/brotherhood/armory)
+"izz" = (
+/obj/structure/table/wood,
+/obj/machinery/light{
+	pixel_x = 16
+	},
+/turf/open/floor/wood_common,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "izF" = (
 /obj/effect/decal/cleanable/dirt/dust,
 /obj/item/storage/trash_stack,
@@ -19250,6 +19870,12 @@
 	icon_state = "darkrustysolid"
 	},
 /area/f13/bunker/bunkersix)
+"iGp" = (
+/obj/structure/lattice,
+/obj/effect/decal/cleanable/greenglow,
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/turf/open/floor/plating/rust,
+/area/f13/brotherhood/reactor)
 "iGM" = (
 /obj/effect/decal/cleanable/dirt{
 	color = "000000"
@@ -19375,12 +20001,17 @@
 /turf/open/floor/plasteel/dark,
 /area/f13/bunker/bunkereight)
 "iKj" = (
+<<<<<<< Updated upstream
 /obj/structure/chair/stool/retro/black,
 /obj/machinery/light/small{
 	dir = 8;
 	light_color = "#d8b1b1"
 	},
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
+=======
+/obj/structure/sign/departments/engineering,
+/turf/closed/wall/r_wall,
+>>>>>>> Stashed changes
 /area/f13/brotherhood/operations)
 "iKo" = (
 /obj/effect/decal/waste{
@@ -19496,6 +20127,14 @@
 /obj/effect/spawner/lootdrop/f13/weapon/gun/energy/mid,
 /turf/open/floor/plasteel/dark,
 /area/f13/bunker/bunkereight)
+<<<<<<< Updated upstream
+=======
+"iOg" = (
+/obj/item/kirbyplants/random,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/wood_common,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "iOq" = (
 /obj/structure/lattice,
 /obj/machinery/light/floor,
@@ -19581,6 +20220,7 @@
 /turf/open/floor/plating/tunnel,
 /area/f13/enclave)
 "iPM" = (
+<<<<<<< Updated upstream
 /obj/structure/lattice{
 	layer = 3
 	},
@@ -19591,6 +20231,9 @@
 	},
 /obj/item/storage/bag/trash,
 /turf/open/floor/plasteel/f13/vault_floor/plating/miasma,
+=======
+/turf/open/floor/plasteel/f13/vault_floor/green/white,
+>>>>>>> Stashed changes
 /area/f13/brotherhood/operations)
 "iPV" = (
 /obj/structure/debris/v4,
@@ -19683,6 +20326,7 @@
 /obj/effect/decal/cleanable/dirt{
 	color = "000000"
 	},
+<<<<<<< Updated upstream
 /obj/structure/sign/flag_america_pristine{
 	pixel_y = 29
 	},
@@ -19694,6 +20338,12 @@
 	dir = 1
 	},
 /area/f13/brotherhood/armory)
+=======
+/obj/structure/rack/shelf_metal,
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/turf/open/floor/plasteel/f13/vault_floor/purple,
+/area/f13/brotherhood/rnd)
+>>>>>>> Stashed changes
 "iSL" = (
 /obj/structure/table/wood,
 /obj/item/flashlight/lamp{
@@ -19810,7 +20460,10 @@
 	pixel_y = 30;
 	products = list(/obj/item/reagent_containers/syringe=3,/obj/item/reagent_containers/pill/patch/styptic=10,/obj/item/reagent_containers/pill/patch/silver_sulf=10,/obj/item/reagent_containers/medspray/styptic=4,/obj/item/reagent_containers/medspray/silver_sulf=4,/obj/item/reagent_containers/pill/charcoal=2,/obj/item/reagent_containers/medspray/sterilizine=2)
 	},
+<<<<<<< Updated upstream
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
+=======
+>>>>>>> Stashed changes
 /area/f13/brotherhood/operations)
 "iVt" = (
 /obj/structure/table,
@@ -19897,6 +20550,11 @@
 	},
 /turf/open/indestructible/ground/inside/subway,
 /area/f13/tunnel)
+"iYp" = (
+/obj/structure/lattice,
+/obj/structure/girder/reinforced,
+/turf/open/floor/plating/rust,
+/area/f13/brotherhood/reactor)
 "iYs" = (
 /obj/machinery/hydroponics/constructable,
 /obj/effect/decal/cleanable/dirt,
@@ -19945,7 +20603,11 @@
 	},
 /obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
+<<<<<<< Updated upstream
 /area/f13/brotherhood/armory)
+=======
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "iZN" = (
 /obj/structure/simple_door/bunker,
 /turf/open/floor/f13{
@@ -20135,8 +20797,16 @@
 	req_access_txt = "120";
 	req_one_access_txt = "120"
 	},
+<<<<<<< Updated upstream
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
 /area/f13/brotherhood/operating)
+=======
+/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
+	color = "#c1ac99";
+	icon_state = "floorrustysolid"
+	},
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "jcW" = (
 /obj/effect/decal/cleanable/dirt/dust,
 /obj/machinery/light/floor{
@@ -20227,7 +20897,14 @@
 /obj/effect/decal/cleanable/dirt{
 	color = "000000"
 	},
+<<<<<<< Updated upstream
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
+=======
+/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
+	color = "#c1ac99";
+	icon_state = "floorrustysolid"
+	},
+>>>>>>> Stashed changes
 /area/f13/brotherhood/operations)
 "jeW" = (
 /obj/machinery/light/floor,
@@ -20355,7 +21032,13 @@
 "jiB" = (
 /obj/structure/chair/sofa/left,
 /obj/effect/landmark/start/f13/Knight,
+<<<<<<< Updated upstream
 /turf/open/floor/carpet/green,
+=======
+/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
+	icon_state = "whitedirtysolid"
+	},
+>>>>>>> Stashed changes
 /area/f13/brotherhood/operations)
 "jiC" = (
 /obj/effect/decal/cleanable/dirt,
@@ -20375,6 +21058,13 @@
 /obj/item/reagent_containers/glass/bucket,
 /turf/open/indestructible/ground/inside/subway,
 /area/f13/caves)
+<<<<<<< Updated upstream
+=======
+"jjA" = (
+/obj/machinery/vending/coffee,
+/turf/open/floor/wood_common,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "jjG" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/chair{
@@ -20895,7 +21585,11 @@
 /obj/machinery/light/small{
 	pixel_x = -10
 	},
+<<<<<<< Updated upstream
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
+=======
+/turf/open/floor/wood_common,
+>>>>>>> Stashed changes
 /area/f13/brotherhood/operations)
 "jwU" = (
 /obj/structure/cable{
@@ -21280,7 +21974,16 @@
 /turf/open/floor/plasteel/f13/vault_floor/blue/side{
 	dir = 8
 	},
+<<<<<<< Updated upstream
 /area/f13/brotherhood/rnd)
+=======
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
+	color = "#c1ac99";
+	icon_state = "floorrustysolid"
+	},
+/area/f13/brotherhood/reactor)
+>>>>>>> Stashed changes
 "jHQ" = (
 /mob/living/simple_animal/hostile/raider/junker/creator,
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
@@ -21345,6 +22048,19 @@
 /obj/effect/decal/cleanable/cobweb,
 /turf/open/floor/f13/wood,
 /area/f13/building/abandoned/o)
+<<<<<<< Updated upstream
+=======
+"jKg" = (
+/obj/machinery/door/airlock/hatch{
+	req_access_txt = "120"
+	},
+/obj/machinery/power/apc/auto_name/west,
+/obj/structure/cable{
+	icon_state = "0-4"
+	},
+/turf/open/floor/carpet/black,
+/area/f13/brotherhood/dorms)
+>>>>>>> Stashed changes
 "jKh" = (
 /turf/open/floor/plasteel/f13/vault_floor/blue/side{
 	dir = 1
@@ -21611,6 +22327,7 @@
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating/tunnel,
 /area/f13/bunker/bunkerthree)
+<<<<<<< Updated upstream
 "jRc" = (
 /obj/structure/table{
 	layer = 2.9
@@ -21625,6 +22342,22 @@
 	},
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
 /area/f13/brotherhood/dorms)
+=======
+"jQQ" = (
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
+	icon_state = "whitedirtysolid"
+	},
+/area/f13/brotherhood/operations)
+"jRc" = (
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/obj/machinery/light{
+	dir = 1;
+	pixel_x = 16
+	},
+/turf/open/floor/wood_common,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "jRt" = (
 /obj/machinery/vending/dinnerware{
 	force_free = 1
@@ -21851,7 +22584,11 @@
 	icon_state = "riverwater_motion";
 	name = "water"
 	},
+<<<<<<< Updated upstream
 /area/f13/brotherhood/leisure)
+=======
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "jXu" = (
 /mob/living/simple_animal/hostile/supermutant/nightkin/rangedmutant,
 /obj/effect/decal/cleanable/dirt,
@@ -22402,6 +23139,16 @@
 /mob/living/simple_animal/hostile/radroach,
 /turf/open/floor/plating/tunnel,
 /area/f13/sewer)
+<<<<<<< Updated upstream
+=======
+"kiv" = (
+/obj/structure/table/glass,
+/obj/machinery/plantgenes/seedvault{
+	pixel_y = 7
+	},
+/turf/open/floor/plasteel/f13/vault_floor/green/side,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "kiG" = (
 /obj/structure/flora/rock/pile/largejungle,
 /turf/open/indestructible/ground/inside/mountain,
@@ -22546,6 +23293,19 @@
 /obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/plating/rust,
 /area/f13/bunker/bunkersix)
+"klD" = (
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/obj/effect/decal/cleanable/dirt{
+	color = "000000"
+	},
+/obj/machinery/light{
+	dir = 1;
+	flickering = 1
+	},
+/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
+	icon_state = "floorrustysolid"
+	},
+/area/f13/brotherhood/operations)
 "klE" = (
 /mob/living/simple_animal/hostile/handy/gutsy{
 	faction = list("hostile")
@@ -23112,6 +23872,7 @@
 /turf/open/floor/plating,
 /area/f13/bunker/bunkereight)
 "kxh" = (
+<<<<<<< Updated upstream
 /obj/machinery/power/smes/engineering,
 /obj/structure/cable{
 	icon_state = "0-8"
@@ -23123,6 +23884,10 @@
 	dir = 1
 	},
 /turf/open/floor/plasteel/f13/vault_floor/yellow/white,
+=======
+/obj/structure/chair/pew/left,
+/turf/open/floor/plasteel/cult,
+>>>>>>> Stashed changes
 /area/f13/brotherhood/operations)
 "kxM" = (
 /turf/open/floor/plating/tunnel,
@@ -23236,11 +24001,16 @@
 	},
 /area/f13/bunker/bunkerfive)
 "kzQ" = (
+<<<<<<< Updated upstream
 /obj/structure/closet/secure_closet/freezer/meat,
 /obj/effect/decal/cleanable/dirt{
 	color = "000000"
 	},
 /turf/open/floor/plating/f13/inside,
+=======
+/obj/structure/filingcabinet,
+/turf/open/floor/carpet/red,
+>>>>>>> Stashed changes
 /area/f13/brotherhood/operations)
 "kzR" = (
 /obj/effect/decal/cleanable/dirt,
@@ -23298,6 +24068,7 @@
 /turf/open/floor/plasteel/elevatorshaft,
 /area/f13/brotherhood/operations)
 "kAW" = (
+<<<<<<< Updated upstream
 /obj/structure/curtain{
 	color = "#845f58"
 	},
@@ -23306,6 +24077,11 @@
 	},
 /turf/open/floor/plasteel/f13/vault_floor/misc/rarewhite,
 /area/f13/brotherhood/dorms)
+=======
+/obj/structure/chair/f13chair1,
+/turf/open/floor/wood_common,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "kAX" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/spawner/lootdrop/f13/weapon/gun/ammo/tier3,
@@ -23561,6 +24337,7 @@
 /turf/open/indestructible/ground/inside/mountain,
 /area/f13/bunker/bunkerthree)
 "kIr" = (
+<<<<<<< Updated upstream
 /obj/effect/decal/cleanable/dirt{
 	color = "000000"
 	},
@@ -23569,6 +24346,11 @@
 	},
 /turf/open/floor/plasteel/f13/vault_floor/floor/floorsolid,
 /area/f13/brotherhood/reactor)
+=======
+/obj/effect/landmark/start/f13/knightcap,
+/turf/open/floor/carpet/red,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "kIt" = (
 /obj/machinery/door/airlock/public/glass{
 	name = "Dormitories"
@@ -23619,6 +24401,7 @@
 /turf/open/floor/plating/tunnel,
 /area/f13/sewer)
 "kKl" = (
+<<<<<<< Updated upstream
 /obj/structure/lattice{
 	layer = 3
 	},
@@ -23626,6 +24409,10 @@
 	color = "000000"
 	},
 /turf/open/floor/plasteel/f13/vault_floor/plating,
+=======
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/wood_common,
+>>>>>>> Stashed changes
 /area/f13/brotherhood/operations)
 "kKm" = (
 /obj/structure/table/reinforced,
@@ -24056,6 +24843,13 @@
 	},
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
 /area/f13/bar/heaven)
+"kSu" = (
+/obj/item/flag/bos,
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
+	icon_state = "floorrustysolid"
+	},
+/area/f13/brotherhood/operations)
 "kSx" = (
 /obj/effect/turf_decal/weather/dirt{
 	dir = 4
@@ -24207,6 +25001,10 @@
 	name = "Base Lockdown"
 	},
 /area/f13/sewer)
+"kVp" = (
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/turf/closed/wall/r_wall,
+/area/f13/brotherhood/rnd)
 "kVq" = (
 /obj/item/card/id/rusted/fadedvaultid,
 /turf/open/floor/f13,
@@ -24375,8 +25173,20 @@
 /obj/effect/decal/cleanable/dirt{
 	color = "000000"
 	},
+<<<<<<< Updated upstream
 /obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
 /turf/open/floor/wood_common,
+=======
+/obj/structure/decoration/vent,
+/obj/structure/curtain{
+	color = "#845f58"
+	},
+/obj/machinery/shower{
+	pixel_y = 24
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plasteel/f13/vault_floor/misc/rarewhite,
+>>>>>>> Stashed changes
 /area/f13/brotherhood/operations)
 "kYd" = (
 /mob/living/simple_animal/hostile/raider/thief,
@@ -24651,7 +25461,11 @@
 /obj/effect/decal/cleanable/dirt{
 	color = "000000"
 	},
+<<<<<<< Updated upstream
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
+=======
+/turf/closed/wall/r_wall,
+>>>>>>> Stashed changes
 /area/f13/brotherhood/operations)
 "ldz" = (
 /obj/structure/disposalpipe/segment,
@@ -24851,7 +25665,14 @@
 /area/f13/caves)
 "ljc" = (
 /obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+<<<<<<< Updated upstream
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
+=======
+/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
+	color = "#c1ac99";
+	icon_state = "floorrustysolid"
+	},
+>>>>>>> Stashed changes
 /area/f13/brotherhood/operations)
 "lju" = (
 /obj/structure/toilet{
@@ -24966,6 +25787,19 @@
 /obj/effect/spawner/lootdrop/f13/cash_random_med,
 /turf/open/floor/plasteel/floorgrime,
 /area/f13/sewer)
+<<<<<<< Updated upstream
+=======
+"lkP" = (
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/obj/structure/table/reinforced,
+/obj/machinery/light{
+	flickering = 1
+	},
+/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
+	icon_state = "floorrustysolid"
+	},
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "lla" = (
 /obj/structure/window{
 	dir = 1
@@ -25025,6 +25859,18 @@
 	icon_state = "yellowdirtyfull"
 	},
 /area/ruin/powered)
+<<<<<<< Updated upstream
+=======
+"lmi" = (
+/obj/structure/chair/comfy/shuttle{
+	desc = "A comfortable, secure seat. It has a futuristic vouge feel.";
+	layer = 2.7;
+	name = "prewar lounge chair"
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/carpet/red,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "lmp" = (
 /turf/open/floor/plasteel/f13/vault_floor/neutral/side{
 	dir = 6
@@ -25213,6 +26059,20 @@
 	},
 /turf/open/indestructible/ground/inside/mountain,
 /area/f13/radiation)
+<<<<<<< Updated upstream
+=======
+"lqF" = (
+/obj/machinery/door/airlock/hatch{
+	name = "Armory";
+	req_access_txt = "120"
+	},
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/turf/open/floor/f13{
+	dir = 10;
+	icon_state = "redmark"
+	},
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "lqZ" = (
 /obj/structure/bed/mattress,
 /obj/effect/decal/cleanable/dirt,
@@ -25569,12 +26429,16 @@
 /obj/effect/decal/cleanable/dirt{
 	color = "000000"
 	},
+<<<<<<< Updated upstream
 /obj/machinery/light/small{
 	dir = 1;
 	pixel_x = 8
 	},
 /obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
 /turf/open/floor/plating/f13/inside,
+=======
+/turf/open/floor/plasteel/cult,
+>>>>>>> Stashed changes
 /area/f13/brotherhood/operations)
 "lAr" = (
 /obj/effect/spawner/lootdrop/trash,
@@ -25716,6 +26580,15 @@
 	dir = 8
 	},
 /area/f13/vault/science)
+<<<<<<< Updated upstream
+=======
+"lCA" = (
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/turf/open/floor/plasteel/f13/vault_floor/red/corner{
+	dir = 8
+	},
+/area/f13/brotherhood/armory)
+>>>>>>> Stashed changes
 "lCC" = (
 /obj/structure/table/reinforced,
 /obj/effect/decal/cleanable/dirt,
@@ -25853,8 +26726,17 @@
 /obj/effect/decal/cleanable/dirt{
 	color = "000000"
 	},
+<<<<<<< Updated upstream
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
 /area/f13/brotherhood/armory)
+=======
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
+	color = "#c1ac99";
+	icon_state = "floorrustysolid"
+	},
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "lFW" = (
 /obj/structure/wreck/trash/two_tire,
 /turf/open/indestructible/ground/inside/mountain,
@@ -26257,7 +27139,13 @@
 /area/ruin/powered)
 "lPN" = (
 /obj/structure/chair/stool/retro/black,
+<<<<<<< Updated upstream
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
+=======
+/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
+	icon_state = "whitedirtysolid"
+	},
+>>>>>>> Stashed changes
 /area/f13/brotherhood/operations)
 "lQc" = (
 /obj/effect/decal/cleanable/dirt,
@@ -26457,7 +27345,29 @@
 /turf/open/floor/plating/tunnel,
 /area/ruin/powered)
 "lTn" = (
+<<<<<<< Updated upstream
 /obj/machinery/processor,
+=======
+/obj/structure/table/glass,
+/obj/item/stack/f13Cash/caps/twofive,
+/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
+	icon_state = "whitedirtysolid"
+	},
+/area/f13/brotherhood/operations)
+"lTI" = (
+/obj/item/am_containment{
+	pixel_x = 3
+	},
+/obj/structure/table/reinforced,
+/obj/structure/window/plasma/reinforced{
+	dir = 4
+	},
+/obj/structure/window/plasma/reinforced{
+	dir = 8
+	},
+/obj/item/am_containment,
+/obj/item/am_containment,
+>>>>>>> Stashed changes
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plasteel/f13/vault_floor/misc/cafeteria{
 	icon_state = "tealwhrusty_chess2"
@@ -26667,6 +27577,7 @@
 /obj/item/am_containment{
 	pixel_x = 3
 	},
+<<<<<<< Updated upstream
 /obj/structure/table/reinforced,
 /obj/structure/window/plasma/reinforced{
 	dir = 4
@@ -26693,6 +27604,9 @@
 	dir = 5
 	},
 /area/f13/brotherhood/reactor)
+=======
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "lYo" = (
 /obj/effect/gibspawner/robot,
 /obj/structure/fluff/railing{
@@ -26736,12 +27650,18 @@
 /turf/open/indestructible/ground/inside/subway,
 /area/f13/sewer/powered)
 "lZy" = (
+<<<<<<< Updated upstream
 /obj/structure/weightmachine/weightlifter,
 /obj/effect/decal/cleanable/dirt{
 	color = "000000"
 	},
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
 /area/f13/brotherhood/dorms)
+=======
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/turf/open/floor/wood_common,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "lZJ" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/machinery/washing_machine,
@@ -26904,8 +27824,15 @@
 /obj/effect/decal/cleanable/dirt{
 	color = "000000"
 	},
+<<<<<<< Updated upstream
 /turf/open/indestructible/ground/inside/mountain,
 /area/f13/brotherhood/reactor)
+=======
+/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
+	icon_state = "whitedirtysolid"
+	},
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "mdd" = (
 /obj/structure/rack/shelf_metal{
 	dir = 4
@@ -27350,6 +28277,16 @@
 /obj/effect/landmark/start/f13/vaultheadofsecurity,
 /turf/open/floor/wood_mosaic,
 /area/f13/vault/security)
+<<<<<<< Updated upstream
+=======
+"mqC" = (
+/obj/structure/table/reinforced,
+/obj/item/crafting/abraxo,
+/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
+	icon_state = "floorrustysolid"
+	},
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "mqE" = (
 /obj/structure/bed/mattress{
 	icon_state = "mattress2";
@@ -27627,6 +28564,7 @@
 /obj/item/card/id/dogtag{
 	pixel_x = 4
 	},
+<<<<<<< Updated upstream
 /obj/item/card/id/dogtag{
 	pixel_x = 4
 	},
@@ -27644,6 +28582,9 @@
 	},
 /obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
 /turf/open/floor/carpet/royalblack,
+=======
+/turf/open/floor/carpet/red,
+>>>>>>> Stashed changes
 /area/f13/brotherhood/operations)
 "mwz" = (
 /obj/structure/debris/v3{
@@ -27828,7 +28769,13 @@
 /obj/structure/decoration/smokeold{
 	pixel_y = -31
 	},
+<<<<<<< Updated upstream
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
+=======
+/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
+	icon_state = "whitedirtysolid"
+	},
+>>>>>>> Stashed changes
 /area/f13/brotherhood/operations)
 "mAf" = (
 /obj/machinery/light{
@@ -28370,6 +29317,14 @@
 /obj/effect/spawner/lootdrop/f13/crafting,
 /turf/open/floor/f13/wood,
 /area/f13/bunker)
+"mLw" = (
+/obj/effect/decal/cleanable/dirt{
+	color = "000000"
+	},
+/obj/structure/lattice,
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/turf/open/floor/plating/rust,
+/area/f13/brotherhood/reactor)
 "mLA" = (
 /obj/effect/gibspawner/human,
 /obj/machinery/light/floor,
@@ -28420,6 +29375,7 @@
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
 /area/f13/bunker)
 "mMm" = (
+<<<<<<< Updated upstream
 /obj/structure/table/glass,
 /obj/item/kirbyplants/random{
 	pixel_y = 6
@@ -28429,6 +29385,14 @@
 	dir = 4
 	},
 /area/f13/brotherhood/rnd)
+=======
+/obj/machinery/light/small{
+	brightness = 7;
+	dir = 8
+	},
+/turf/open/floor/carpet/red,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "mMv" = (
 /obj/effect/turf_decal/weather/dirt{
 	dir = 1
@@ -28631,6 +29595,20 @@
 	icon_state = "darkrustysolid"
 	},
 /area/f13/bunker/bunkerfive)
+<<<<<<< Updated upstream
+=======
+"mRZ" = (
+/obj/machinery/vending/hydronutrients{
+	force_free = 1
+	},
+/turf/open/floor/plasteel/f13/vault_floor/green/side{
+	dir = 4
+	},
+/area/f13/brotherhood/operations)
+"mSk" = (
+/turf/open/indestructible/ground/inside/mountain,
+/area/f13/brotherhood/mining)
+>>>>>>> Stashed changes
 "mSl" = (
 /obj/structure/simple_door/bunker,
 /obj/structure/barricade/wooden/planks,
@@ -28639,6 +29617,10 @@
 	icon_state = "tunnelchess"
 	},
 /area/f13/bunker/bunkerthree)
+"mSy" = (
+/obj/machinery/light,
+/turf/open/floor/carpet/green,
+/area/f13/brotherhood/dorms)
 "mSG" = (
 /obj/structure/closet/wardrobe/botanist,
 /obj/item/reagent_containers/glass/bucket/plastic,
@@ -28864,6 +29846,12 @@
 /obj/structure/wreck/trash/one_tire,
 /turf/open/indestructible/ground/outside/ruins,
 /area/f13/sewer/powered)
+<<<<<<< Updated upstream
+=======
+"mWm" = (
+/turf/closed/wall/r_wall/rust,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "mWr" = (
 /obj/item/storage/bag/plants,
 /obj/structure/junk/small/table,
@@ -29047,8 +30035,21 @@
 /turf/open/floor/f13,
 /area/f13/vault)
 "nbm" = (
+<<<<<<< Updated upstream
 /turf/closed/indestructible/f13/matrix,
 /area/f13/brotherhood/dorms)
+=======
+/obj/structure/curtain,
+/obj/structure/simple_door/bunker/glass{
+	req_access_txt = "120";
+	req_one_access_txt = "120"
+	},
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/turf/open/floor/plasteel/f13/vault_floor/neutral/white/side{
+	dir = 1
+	},
+/area/f13/brotherhood/operating)
+>>>>>>> Stashed changes
 "nbp" = (
 /obj/structure/closet/locker/oldstyle,
 /obj/item/shield/riot,
@@ -29791,7 +30792,14 @@
 /turf/open/floor/plasteel/f13/vault_floor/misc/cafeteria{
 	icon_state = "tealwhrusty_chess2"
 	},
+<<<<<<< Updated upstream
 /area/f13/brotherhood/leisure)
+=======
+/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
+	icon_state = "whitedirtysolid"
+	},
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "nsD" = (
 /mob/living/simple_animal/hostile/handy/robobrain{
 	auto_fire_delay = 2;
@@ -30338,6 +31346,7 @@
 	color = "000000"
 	},
 /obj/effect/decal/cleanable/dirt,
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
 /turf/open/floor/plasteel/f13/vault_floor/plating,
 /area/f13/brotherhood/operating)
 "nCU" = (
@@ -30358,6 +31367,7 @@
 	},
 /area/f13/vault/atrium)
 "nDr" = (
+<<<<<<< Updated upstream
 /obj/effect/decal/cleanable/dirt{
 	color = "000000"
 	},
@@ -30366,6 +31376,12 @@
 	},
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
 /area/f13/brotherhood/dorms)
+=======
+/obj/machinery/seed_extractor,
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/turf/open/floor/plasteel/f13/vault_floor/green/side,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "nDz" = (
 /obj/effect/decal/cleanable/dirt{
 	color = "#363636"
@@ -30583,6 +31599,12 @@
 /obj/effect/decal/cleanable/dirt/dust,
 /turf/open/water,
 /area/f13/radiation)
+<<<<<<< Updated upstream
+=======
+"nHC" = (
+/turf/closed/indestructible/f13/matrix,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "nHG" = (
 /obj/structure/table/reinforced,
 /obj/machinery/button/flasher,
@@ -30755,10 +31777,21 @@
 /turf/open/floor/plasteel/freezer,
 /area/f13/vault/diner)
 "nNC" = (
+<<<<<<< Updated upstream
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/chair/f13chair1,
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
 /area/f13/brotherhood/operating)
+=======
+/obj/machinery/door/airlock/hatch{
+	req_access_txt = "120"
+	},
+/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
+	color = "#c1ac99";
+	icon_state = "floorrustysolid"
+	},
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "nNL" = (
 /obj/structure/barricade/wooden/strong,
 /obj/effect/decal/cleanable/greenglow,
@@ -31137,6 +32170,7 @@
 	color = "000000"
 	},
 /obj/effect/decal/cleanable/dirt,
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
 /turf/open/floor/plasteel/f13/vault_floor/plating,
 /area/f13/brotherhood/operating)
 "nWg" = (
@@ -31392,12 +32426,18 @@
 	},
 /area/f13/bunker/bunkerthree)
 "ocx" = (
+<<<<<<< Updated upstream
 /obj/structure/reagent_dispensers/water_cooler,
 /obj/effect/decal/cleanable/dirt{
 	color = "000000"
 	},
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
 /area/f13/brotherhood/dorms)
+=======
+/obj/item/kirbyplants/random,
+/turf/open/floor/wood_common,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "ocG" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/item/reagent_containers/blood/radaway{
@@ -31484,8 +32524,20 @@
 /obj/effect/decal/cleanable/dirt{
 	color = "000000"
 	},
+<<<<<<< Updated upstream
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
 /area/f13/brotherhood/operations)
+=======
+/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
+	color = "#c1ac99";
+	icon_state = "floorrustysolid"
+	},
+/area/f13/brotherhood/operations)
+"oeD" = (
+/obj/effect/turf_decal/caution/stand_clear,
+/turf/open/floor/holofloor/plating,
+/area/f13/brotherhood/armory)
+>>>>>>> Stashed changes
 "oeM" = (
 /obj/structure/wreck/trash/autoshaft{
 	pixel_x = 17
@@ -31550,6 +32602,15 @@
 	icon_state = "redmark"
 	},
 /area/f13/enclave)
+<<<<<<< Updated upstream
+=======
+"ogc" = (
+/obj/structure/table/reinforced,
+/obj/item/paper_bin,
+/obj/item/pen/fourcolor,
+/turf/open/floor/carpet/red,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "oge" = (
 /obj/structure/lattice,
 /obj/effect/decal/cleanable/dirt{
@@ -31852,6 +32913,7 @@
 /turf/open/floor/plasteel/f13/vault_floor/neutral/neutralchess,
 /area/f13/vault/overseer)
 "onR" = (
+<<<<<<< Updated upstream
 /obj/structure/table/reinforced,
 /obj/machinery/chem_dispenser/drinks/beer,
 /obj/effect/decal/cleanable/dirt{
@@ -31859,6 +32921,13 @@
 	},
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
 /area/f13/brotherhood/operations)
+=======
+/obj/structure/table/wood,
+/obj/item/flashlight/lantern,
+/obj/machinery/light/small,
+/turf/open/floor/plating/rust,
+/area/f13/brotherhood/armory)
+>>>>>>> Stashed changes
 "oon" = (
 /obj/machinery/door/airlock/maintenance_hatch,
 /turf/open/floor/plasteel/f13/vault_floor/dark/darksolid,
@@ -32540,6 +33609,17 @@
 /obj/structure/bed/old,
 /turf/open/indestructible/ground/inside/mountain,
 /area/f13/sewer)
+<<<<<<< Updated upstream
+=======
+"oCL" = (
+/obj/structure/chair/f13chair1{
+	dir = 1
+	},
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/turf/open/floor/wood_common,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "oCO" = (
 /obj/structure/table/glass,
 /obj/item/integrated_circuit_printer,
@@ -32684,6 +33764,7 @@
 /turf/open/indestructible/ground/inside/subway,
 /area/f13/sewer)
 "oFJ" = (
+<<<<<<< Updated upstream
 /obj/effect/decal/cleanable/dirt{
 	color = "000000"
 	},
@@ -32694,6 +33775,12 @@
 	dir = 1
 	},
 /area/f13/brotherhood/reactor)
+=======
+/obj/structure/table/reinforced/brass,
+/obj/structure/closet/crate/footchest,
+/turf/open/floor/plasteel/cult,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "oFK" = (
 /obj/structure/wreck/trash/five_tires,
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
@@ -32801,6 +33888,12 @@
 	},
 /turf/open/indestructible/ground/inside/mountain,
 /area/f13/sewer)
+"oIp" = (
+/mob/living/simple_animal/hostile/ghoul/reaver/ncr_helmet{
+	name = "Monarch"
+	},
+/turf/open/indestructible/ground/inside/mountain,
+/area/f13/caves)
 "oIz" = (
 /obj/structure/barricade/wooden/strong,
 /turf/open/indestructible/ground/inside/mountain,
@@ -32827,8 +33920,22 @@
 	},
 /area/f13/building/abandoned/o)
 "oJi" = (
+<<<<<<< Updated upstream
 /obj/effect/landmark/start/f13/elder,
 /turf/open/floor/carpet/royalblack,
+=======
+/obj/effect/turf_decal/stripes/line,
+/turf/open/floor/plasteel/f13/vault_floor/red/side{
+	dir = 1
+	},
+/area/f13/brotherhood/armory)
+"oJo" = (
+/obj/machinery/light{
+	dir = 1;
+	light_color = "#e8eaff"
+	},
+/turf/open/floor/plasteel/cult,
+>>>>>>> Stashed changes
 /area/f13/brotherhood/operations)
 "oJs" = (
 /obj/effect/decal/waste{
@@ -33546,6 +34653,13 @@
 /obj/effect/decal/cleanable/oil/slippery,
 /turf/open/floor/plating/tunnel,
 /area/f13/bunker/bunkerthree)
+"paA" = (
+/obj/structure/lattice,
+/obj/effect/decal/cleanable/greenglow,
+/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
+	icon_state = "engine"
+	},
+/area/f13/brotherhood/reactor)
 "paD" = (
 /obj/effect/decal/cleanable/dirt{
 	color = "000000"
@@ -33675,6 +34789,7 @@
 /turf/open/floor/plasteel/f13/vault_floor/yellow/whiteyellowfull,
 /area/f13/enclave)
 "pcy" = (
+<<<<<<< Updated upstream
 /obj/effect/decal/cleanable/dirt{
 	color = "000000"
 	},
@@ -33690,6 +34805,21 @@
 	dir = 4
 	},
 /area/f13/brotherhood/armory)
+=======
+/obj/structure/railing{
+	color = "#A47449";
+	dir = 10
+	},
+/turf/open/floor/plasteel/cult,
+/area/f13/brotherhood/operations)
+"pcL" = (
+/obj/structure/chair/f13chair1{
+	dir = 1
+	},
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/turf/open/floor/wood_common,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "pdc" = (
 /mob/living/simple_animal/hostile/giantantqueen,
 /turf/open/indestructible/ground/inside/mountain,
@@ -33833,11 +34963,23 @@
 /turf/open/floor/plasteel/dark,
 /area/f13/bunker/bunkereight)
 "phC" = (
+<<<<<<< Updated upstream
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plasteel/f13/vault_floor/blue/side{
 	dir = 4
 	},
 /area/f13/brotherhood/rnd)
+=======
+/obj/machinery/biogenerator,
+/obj/machinery/light{
+	dir = 8;
+	flickering = 1
+	},
+/turf/open/floor/plasteel/f13/vault_floor/green/side{
+	dir = 4
+	},
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "phE" = (
 /obj/machinery/door/airlock/maintenance_hatch,
 /obj/effect/decal/cleanable/dirt/dust,
@@ -33929,9 +35071,17 @@
 /turf/open/floor/f13/wood,
 /area/f13/building/abandoned/o)
 "pkh" = (
+<<<<<<< Updated upstream
 /obj/structure/sign/departments/botany,
 /turf/closed/wall/r_wall,
 /area/f13/brotherhood/leisure)
+=======
+/obj/structure/table/glass,
+/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
+	icon_state = "whitedirtysolid"
+	},
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "pkm" = (
 /obj/machinery/iv_drip,
 /obj/effect/decal/cleanable/dirt,
@@ -33972,6 +35122,10 @@
 /mob/living/simple_animal/hostile/raider/sulphite,
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
 /area/f13/bunker)
+"plD" = (
+/obj/machinery/light,
+/turf/open/floor/wood_common,
+/area/f13/brotherhood/leisure)
 "plQ" = (
 /turf/open/indestructible/ground/inside/subway,
 /area/f13/caves)
@@ -34177,8 +35331,20 @@
 /turf/open/floor/plasteel/f13/vault_floor/yellow,
 /area/f13/sewer)
 "ppU" = (
+<<<<<<< Updated upstream
 /turf/open/floor/plasteel/f13/vault_floor/floor/floorsolid,
 /area/f13/brotherhood/reactor)
+=======
+/obj/effect/decal/cleanable/dirt{
+	color = "000000"
+	},
+/obj/structure/table/reinforced/brass,
+/obj/item/clothing/head/welding{
+	pixel_y = 14
+	},
+/turf/open/floor/plasteel/cult,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "ppW" = (
 /obj/effect/landmark/start/f13/knightcap,
 /turf/open/floor/carpet/royalblack,
@@ -34414,6 +35580,7 @@
 	color = "000000"
 	},
 /obj/effect/decal/cleanable/dirt,
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
 /turf/open/floor/plasteel/f13/vault_floor/plating,
 /area/f13/brotherhood/operating)
 "pwr" = (
@@ -34474,11 +35641,16 @@
 /area/f13/tunnel)
 "pxz" = (
 /obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+<<<<<<< Updated upstream
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plasteel/f13/vault_floor/neutral/white/side{
 	dir = 8
 	},
 /area/f13/brotherhood/operating)
+=======
+/turf/closed/wall/r_wall,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "pxD" = (
 /obj/effect/decal/waste,
 /turf/open/indestructible/ground/outside/ruins,
@@ -34772,8 +35944,21 @@
 /turf/closed/wall/f13/wood,
 /area/f13/sewer/powered)
 "pEl" = (
+<<<<<<< Updated upstream
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
 /area/f13/brotherhood/dorms)
+=======
+/obj/structure/curtain,
+/obj/structure/simple_door/bunker/glass{
+	req_access_txt = "120";
+	req_one_access_txt = "120"
+	},
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
+	icon_state = "whitedirtysolid"
+	},
+/area/f13/brotherhood/operating)
+>>>>>>> Stashed changes
 "pEp" = (
 /obj/structure/destructible/tribal_torch/wall,
 /turf/open/indestructible/ground/inside/mountain,
@@ -35255,6 +36440,13 @@
 	dir = 9
 	},
 /area/f13/brotherhood/armory)
+"pPl" = (
+/obj/machinery/light/small{
+	brightness = 3;
+	dir = 8
+	},
+/turf/open/indestructible/ground/inside/mountain,
+/area/f13/brotherhood/armory)
 "pPm" = (
 /turf/open/floor/plating/rust,
 /area/f13/caves)
@@ -35634,6 +36826,7 @@
 /turf/open/floor/plasteel/dark,
 /area/f13/bunker/bunkereight)
 "pWD" = (
+<<<<<<< Updated upstream
 /obj/structure/sink{
 	pixel_y = 22
 	},
@@ -35642,6 +36835,11 @@
 	},
 /turf/open/floor/plasteel/f13/vault_floor/misc/rarewhite,
 /area/f13/brotherhood/dorms)
+=======
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/carpet/red,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "pWF" = (
 /obj/structure/barricade/wooden,
 /obj/effect/decal/cleanable/dirt,
@@ -35658,8 +36856,13 @@
 /obj/effect/decal/cleanable/dirt{
 	color = "000000"
 	},
+<<<<<<< Updated upstream
 /turf/open/floor/plasteel/f13/vault_floor/floor/floorsolid,
 /area/f13/brotherhood/reactor)
+=======
+/turf/open/floor/wood_common,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "pWT" = (
 /obj/structure/cargocrate,
 /turf/open/indestructible/ground/inside/subway,
@@ -35677,6 +36880,13 @@
 /obj/effect/decal/cleanable/oil,
 /turf/open/floor/plasteel/f13/vault_floor/yellow/whiteyellowfull,
 /area/f13/enclave)
+"pXw" = (
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
+	color = "#c1ac99";
+	icon_state = "floorrustysolid"
+	},
+/area/f13/brotherhood/reactor)
 "pXB" = (
 /obj/structure/table/reinforced,
 /obj/machinery/computer/terminal{
@@ -35866,6 +37076,7 @@
 /turf/open/indestructible/ground/outside/ruins,
 /area/f13/sewer/powered)
 "qaR" = (
+<<<<<<< Updated upstream
 /obj/structure/window/reinforced{
 	dir = 8;
 	icon_state = "twindowold"
@@ -35877,6 +37088,10 @@
 /turf/open/floor/f13{
 	icon_state = "redmark"
 	},
+=======
+/obj/structure/table/wood,
+/turf/open/floor/wood_common,
+>>>>>>> Stashed changes
 /area/f13/brotherhood/operations)
 "qaU" = (
 /obj/effect/spawner/lootdrop/f13/medical/wasteland/meds,
@@ -35886,6 +37101,16 @@
 /obj/machinery/door/airlock/maintenance_hatch/abandoned,
 /turf/open/indestructible/ground/inside/subway,
 /area/f13/sewer)
+<<<<<<< Updated upstream
+=======
+"qba" = (
+/obj/machinery/light{
+	light_color = "#e8eaff"
+	},
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/turf/open/floor/plasteel/f13/vault_floor/yellow,
+/area/f13/brotherhood/reactor)
+>>>>>>> Stashed changes
 "qbe" = (
 /obj/structure/lattice,
 /obj/effect/decal/cleanable/dirt{
@@ -36028,11 +37253,16 @@
 	req_access = list(120)
 	},
 /obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+<<<<<<< Updated upstream
 /obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
 	icon_state = "neutralrustyfull"
 	},
 /area/f13/brotherhood/leisure)
+=======
+/turf/open/floor/plasteel/darkgreen,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "qej" = (
 /obj/structure/wreck/trash/five_tires{
 	pixel_y = 14
@@ -36199,7 +37429,12 @@
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
 /area/f13/bunker/bunkerthree)
 "qfW" = (
+<<<<<<< Updated upstream
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
+=======
+/obj/structure/sign/departments/medbay/alt,
+/turf/closed/wall/r_wall,
+>>>>>>> Stashed changes
 /area/f13/brotherhood/operations)
 "qgb" = (
 /mob/living/simple_animal/hostile/raider/ranged/junker/scavver,
@@ -36219,9 +37454,19 @@
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
 /area/f13/bunker/bunkernine)
 "qgp" = (
+<<<<<<< Updated upstream
 /obj/structure/rack,
 /obj/item/trash/f13/electronic/toaster/atomics,
 /turf/open/floor/plating/f13/inside,
+=======
+/obj/structure/chair/sofa/left{
+	dir = 1
+	},
+/obj/effect/landmark/start/f13/Knight,
+/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
+	icon_state = "whitedirtysolid"
+	},
+>>>>>>> Stashed changes
 /area/f13/brotherhood/operations)
 "qgz" = (
 /obj/structure/wreck/trash/machinepile,
@@ -36303,6 +37548,17 @@
 	icon_state = "reddirtyfull"
 	},
 /area/f13/sewer/powered)
+<<<<<<< Updated upstream
+=======
+"qiD" = (
+/obj/structure/chair/sofa{
+	dir = 8
+	},
+/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
+	icon_state = "whitedirtysolid"
+	},
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "qiF" = (
 /obj/structure/flora/grass/jungle/b,
 /turf/open/water,
@@ -36389,6 +37645,7 @@
 /turf/open/floor/plasteel/f13/vault_floor/blue,
 /area/f13/enclave)
 "qkl" = (
+<<<<<<< Updated upstream
 /obj/effect/decal/cleanable/dirt{
 	color = "000000"
 	},
@@ -36396,6 +37653,12 @@
 	dir = 8
 	},
 /area/f13/brotherhood/reactor)
+=======
+/obj/machinery/hydroponics/constructable,
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/turf/open/floor/plasteel/f13/vault_floor/green/side,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "qkm" = (
 /obj/structure/table,
 /obj/effect/spawner/lootdrop/f13/blueprintMid,
@@ -36502,6 +37765,7 @@
 /turf/open/floor/plasteel/f13/vault_floor/floor,
 /area/ruin/powered)
 "qmx" = (
+<<<<<<< Updated upstream
 /obj/machinery/door/airlock/hatch{
 	name = "Backup Power";
 	req_access_txt = "120"
@@ -36509,6 +37773,12 @@
 /obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
 /turf/open/floor/plasteel/f13/vault_floor/yellow/whiteyellowfull,
 /area/f13/brotherhood/armory)
+=======
+/obj/structure/table/reinforced/brass,
+/obj/item/flashlight/lantern,
+/turf/open/floor/plasteel/cult,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "qmH" = (
 /obj/structure/destructible/tribal_torch/wall/lit,
 /obj/effect/spawner/lootdrop/f13/junkspawners,
@@ -36602,6 +37872,7 @@
 /obj/effect/decal/cleanable/dirt{
 	color = "000000"
 	},
+<<<<<<< Updated upstream
 /obj/machinery/power/apc/auto_name/east,
 /obj/structure/cable{
 	icon_state = "0-1"
@@ -36610,6 +37881,28 @@
 	dir = 6
 	},
 /area/f13/brotherhood/armory)
+=======
+/obj/structure/closet/anchored,
+/obj/item/clothing/under/f13/bosformgold_m,
+/obj/item/clothing/under/f13/bosformgold_m,
+/obj/item/clothing/under/f13/bosformgold_f,
+/obj/item/clothing/under/f13/bosformgold_f,
+/obj/item/clothing/under/f13/bosformsilver_f,
+/obj/item/clothing/under/f13/bosformsilver_f,
+/obj/item/clothing/under/f13/bosformsilver_m,
+/obj/item/clothing/under/f13/bosformsilver_m,
+/obj/item/clothing/neck/mantle/bos/left,
+/obj/item/clothing/neck/mantle/bos/right,
+/obj/item/clothing/gloves/color/white/bos,
+/obj/item/clothing/gloves/color/white/bos,
+/obj/item/clothing/gloves/color/white/bos,
+/obj/item/clothing/gloves/color/white/bos,
+/obj/item/clothing/neck/mantle/bos/paladin,
+/obj/item/clothing/neck/mantle/bos/paladin,
+/obj/item/clothing/neck/mantle/bos/paladin,
+/turf/open/floor/plasteel/cult,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "qoq" = (
 /obj/item/clothing/head/cone{
 	pixel_x = 4;
@@ -36881,11 +38174,17 @@
 	color = "000000"
 	},
 /obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+<<<<<<< Updated upstream
 /turf/open/floor/f13{
 	dir = 10;
 	icon_state = "redmark"
 	},
 /area/f13/brotherhood/armory)
+=======
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/turf/closed/wall/r_wall,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "qum" = (
 /obj/item/cigbutt/roach,
 /turf/open/indestructible/ground/inside/subway,
@@ -37326,6 +38625,7 @@
 /turf/open/floor/plasteel/bar,
 /area/f13/bunker/bunkerthree)
 "qCi" = (
+<<<<<<< Updated upstream
 /obj/effect/decal/cleanable/dirt{
 	color = "000000"
 	},
@@ -37334,6 +38634,11 @@
 	},
 /obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
 /turf/open/floor/plating/f13/inside,
+=======
+/obj/structure/table/reinforced/brass,
+/obj/item/candle,
+/turf/open/floor/plasteel/cult,
+>>>>>>> Stashed changes
 /area/f13/brotherhood/operations)
 "qCo" = (
 /obj/machinery/workbench/advanced,
@@ -37632,11 +38937,15 @@
 /obj/effect/decal/cleanable/dirt{
 	color = "000000"
 	},
+<<<<<<< Updated upstream
 /obj/item/flashlight/lamp,
 /turf/open/floor/plasteel/f13/vault_floor/red/side{
 	dir = 1
 	},
 /area/f13/brotherhood/reactor)
+=======
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "qIe" = (
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/f13/wood,
@@ -37961,6 +39270,40 @@
 /turf/open/floor/plasteel/f13/vault_floor/red/side{
 	dir = 10
 	},
+<<<<<<< Updated upstream
+=======
+/obj/effect/turf_decal/stripes/white/line,
+/obj/effect/turf_decal/stripes/white/line{
+	dir = 8
+	},
+/obj/item/stock_parts/cell/ammo/mfc,
+/obj/item/stock_parts/cell/ammo/mfc,
+/obj/item/stock_parts/cell/ammo/mfc,
+/obj/item/stock_parts/cell/ammo/mfc,
+/obj/item/stock_parts/cell/ammo/mfc,
+/obj/item/stock_parts/cell/ammo/mfc,
+/obj/item/stock_parts/cell/ammo/mfc,
+/obj/item/stock_parts/cell/ammo/mfc,
+/obj/item/stock_parts/cell/ammo/mfc,
+/obj/item/stock_parts/cell/ammo/mfc,
+/obj/item/stock_parts/cell/ammo/mfc,
+/obj/item/stock_parts/cell/ammo/mfc,
+/obj/item/stock_parts/cell/ammo/ec,
+/obj/item/stock_parts/cell/ammo/ec,
+/obj/item/stock_parts/cell/ammo/ec,
+/obj/item/stock_parts/cell/ammo/ec,
+/obj/item/stock_parts/cell/ammo/ec,
+/obj/item/stock_parts/cell/ammo/ec,
+/obj/item/stock_parts/cell/ammo/ec,
+/obj/item/stock_parts/cell/ammo/ec,
+/obj/item/stock_parts/cell/ammo/ec,
+/obj/item/stock_parts/cell/ammo/ec,
+/obj/item/stock_parts/cell/ammo/ec,
+/obj/item/stock_parts/cell/ammo/ec,
+/obj/item/stock_parts/cell/ammo/ec,
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/turf/open/floor/holofloor/plating,
+>>>>>>> Stashed changes
 /area/f13/brotherhood/armory)
 "qOV" = (
 /obj/structure/barricade/wooden/strong,
@@ -38120,6 +39463,7 @@
 /area/f13/enclave)
 "qSM" = (
 /obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+<<<<<<< Updated upstream
 /obj/effect/decal/cleanable/dirt{
 	color = "000000"
 	},
@@ -38127,6 +39471,9 @@
 	color = "000000"
 	},
 /turf/open/floor/plating/f13/inside,
+=======
+/turf/open/floor/wood_common,
+>>>>>>> Stashed changes
 /area/f13/brotherhood/operations)
 "qSP" = (
 /obj/structure/closet/fridge/cannibal,
@@ -38283,6 +39630,15 @@
 	icon_state = "yellowdirtyfull"
 	},
 /area/f13/tunnel)
+"qWF" = (
+/obj/machinery/light/small{
+	brightness = 3;
+	dir = 8
+	},
+/turf/open/floor/f13{
+	icon_state = "floorrusty"
+	},
+/area/f13/brotherhood/armory)
 "qWM" = (
 /obj/structure/rack,
 /obj/item/twohanded/steelsaw/autoaxe,
@@ -38653,11 +40009,16 @@
 /obj/machinery/power/terminal{
 	dir = 1
 	},
+<<<<<<< Updated upstream
 /obj/structure/cable{
 	icon_state = "0-2"
 	},
 /turf/open/floor/plasteel/f13/vault_floor/floor/floorsolid,
 /area/f13/brotherhood/reactor)
+=======
+/turf/open/floor/plasteel/cult,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "rfS" = (
 /obj/structure/table/reinforced,
 /obj/item/paper/secretrecipe,
@@ -39407,6 +40768,7 @@
 /turf/open/floor/f13/wood,
 /area/f13/bar/heaven)
 "rwV" = (
+<<<<<<< Updated upstream
 /obj/structure/table/reinforced,
 /obj/item/kitchen/knife/butcher,
 /obj/item/kitchen/rollingpin,
@@ -39414,6 +40776,12 @@
 	icon_state = "tealwhrusty_chess2"
 	},
 /area/f13/brotherhood/leisure)
+=======
+/obj/structure/sign/departments/medbay,
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/turf/closed/wall/r_wall,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "rwW" = (
 /mob/living/simple_animal/hostile/raider/firefighter,
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
@@ -39814,7 +41182,13 @@
 	faction = list("BOS");
 	req_access = list(120)
 	},
+<<<<<<< Updated upstream
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
+=======
+/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
+	icon_state = "floorrustysolid"
+	},
+>>>>>>> Stashed changes
 /area/f13/brotherhood/operations)
 "rHe" = (
 /obj/item/fishy/crawdad{
@@ -39874,7 +41248,16 @@
 /obj/structure/cable{
 	icon_state = "0-2"
 	},
+<<<<<<< Updated upstream
 /turf/open/floor/carpet/royalblack,
+=======
+/obj/item/book{
+	pixel_y = 6;
+	name = "the Codex";
+	desc = "By chains, we are bound. By steel, we are forged. By blood, we are made."
+	},
+/turf/open/floor/plasteel/cult,
+>>>>>>> Stashed changes
 /area/f13/brotherhood/operations)
 "rIj" = (
 /obj/effect/decal/cleanable/dirt,
@@ -40596,7 +41979,13 @@
 	pixel_y = 2
 	},
 /obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+<<<<<<< Updated upstream
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
+=======
+/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
+	icon_state = "floorrustysolid"
+	},
+>>>>>>> Stashed changes
 /area/f13/brotherhood/operations)
 "rWC" = (
 /obj/effect/gibspawner/human,
@@ -40649,6 +42038,16 @@
 /obj/structure/wreck/trash/four_barrels,
 /turf/open/indestructible/ground/inside/subway,
 /area/f13/followers)
+<<<<<<< Updated upstream
+=======
+"rYR" = (
+/obj/structure/table/glass,
+/obj/item/stack/f13Cash/caps/fivezero,
+/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
+	icon_state = "whitedirtysolid"
+	},
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "rYW" = (
 /obj/effect/landmark/start/f13/vaultsecurityofficer,
 /turf/open/floor/plasteel/darkred/side{
@@ -40712,7 +42111,13 @@
 /turf/open/floor/plasteel/f13/vault_floor/neutral/white/side{
 	dir = 1
 	},
+<<<<<<< Updated upstream
 /area/f13/brotherhood/operating)
+=======
+/obj/item/flashlight/lantern,
+/turf/open/floor/plasteel/cult,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "rZJ" = (
 /obj/structure/lattice/catwalk,
 /turf/open/floor/plasteel/f13/vault_floor/plating,
@@ -40895,6 +42300,7 @@
 	},
 /area/f13/enclave)
 "seR" = (
+<<<<<<< Updated upstream
 /obj/structure/lattice{
 	layer = 3
 	},
@@ -40903,6 +42309,11 @@
 	},
 /obj/machinery/pdapainter,
 /turf/open/floor/plasteel/f13/vault_floor/plating,
+=======
+/obj/item/bedsheet/hos,
+/obj/structure/bed,
+/turf/open/floor/wood_common,
+>>>>>>> Stashed changes
 /area/f13/brotherhood/operations)
 "sfb" = (
 /obj/effect/turf_decal/weather/dirt{
@@ -41569,11 +42980,14 @@
 	},
 /area/f13/bunker/bunkerthree)
 "sug" = (
+<<<<<<< Updated upstream
 /obj/machinery/hydroponics/constructable,
 /obj/structure/lattice/catwalk,
 /obj/effect/decal/cleanable/dirt{
 	color = "000000"
 	},
+=======
+>>>>>>> Stashed changes
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
 	barefootstep = "water";
 	clawfootstep = "water";
@@ -41584,7 +42998,11 @@
 	icon_state = "riverwater_motion";
 	name = "water"
 	},
+<<<<<<< Updated upstream
 /area/f13/brotherhood/leisure)
+=======
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "suj" = (
 /obj/effect/gibspawner/human/bodypartless,
 /obj/effect/decal/cleanable/dirt/dust,
@@ -41929,6 +43347,23 @@
 /obj/effect/spawner/lootdrop/f13/foodspawner,
 /turf/open/floor/plasteel/dark,
 /area/f13/caves)
+<<<<<<< Updated upstream
+=======
+"sCb" = (
+/obj/structure/closet/cabinet{
+	anchored = 1;
+	name = "formal attire cabinet"
+	},
+/obj/item/clothing/under/f13/bosformgold_f,
+/obj/item/clothing/under/f13/bosformgold_m,
+/obj/effect/decal/cleanable/dirt,
+/obj/item/clothing/neck/mantle/bos/paladin,
+/obj/item/clothing/neck/mantle/bos/left,
+/obj/item/clothing/neck/mantle/bos/right,
+/obj/item/clothing/neck/mantle/commander,
+/turf/open/floor/wood_common,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "sCv" = (
 /obj/effect/decal/cleanable/oil{
 	icon_state = "floor6";
@@ -41999,6 +43434,19 @@
 /obj/effect/spawner/bundle/f13/armor/combat,
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
 /area/f13/bunker/bunkerthree)
+<<<<<<< Updated upstream
+=======
+"sDP" = (
+/obj/structure/table/glass,
+/obj/item/seeds/poppy/broc{
+	pixel_x = -5
+	},
+/obj/item/seeds/xander{
+	pixel_x = 5
+	},
+/turf/open/floor/plasteel/f13/vault_floor/green/side,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "sDV" = (
 /obj/machinery/door/airlock/maintenance_hatch/abandoned,
 /turf/open/floor/plasteel/f13/vault_floor/floor/floorsolid,
@@ -42093,7 +43541,10 @@
 /obj/structure/chair/left{
 	dir = 4
 	},
+<<<<<<< Updated upstream
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
+=======
+>>>>>>> Stashed changes
 /area/f13/brotherhood/operations)
 "sFV" = (
 /obj/structure/simple_door/bunker,
@@ -42229,11 +43680,19 @@
 /turf/closed/mineral/random/low_chance,
 /area/f13/sewer/powered)
 "sJq" = (
+<<<<<<< Updated upstream
 /obj/structure/chair/sofa/right,
 /obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
 /obj/effect/landmark/start/f13/initiate,
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
 /area/f13/brotherhood/dorms)
+=======
+/obj/structure/table/reinforced,
+/turf/open/floor/plasteel/f13/vault_floor/red/corner{
+	dir = 1
+	},
+/area/f13/brotherhood/armory)
+>>>>>>> Stashed changes
 "sJQ" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/robot_debris/limb,
@@ -42243,6 +43702,7 @@
 /obj/machinery/light/small{
 	dir = 1
 	},
+<<<<<<< Updated upstream
 /obj/effect/decal/cleanable/dirt{
 	color = "000000"
 	},
@@ -42255,6 +43715,9 @@
 	dir = 1
 	},
 /area/f13/brotherhood/reactor)
+=======
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "sKe" = (
 /obj/structure/window/fulltile/house{
 	icon_state = "storewindowbottom"
@@ -42415,6 +43878,12 @@
 /obj/structure/debris/v3,
 /turf/open/indestructible/ground/inside/subway,
 /area/f13/sewer)
+"sNR" = (
+/obj/machinery/light/small{
+	dir = 1
+	},
+/turf/open/indestructible/ground/inside/mountain,
+/area/f13/brotherhood/mining)
 "sNS" = (
 /obj/structure/table,
 /turf/open/floor/plating/tunnel,
@@ -43736,6 +45205,10 @@
 /mob/living/simple_animal/hostile/raider/firefighter,
 /turf/open/indestructible/ground/outside/ruins,
 /area/f13/caves)
+"trn" = (
+/obj/machinery/light/floor,
+/turf/open/floor/plating,
+/area/f13/brotherhood/armory)
 "tro" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/fermenting_barrel,
@@ -43752,7 +45225,15 @@
 /turf/open/floor/plasteel/f13/vault_floor/misc/cafeteria{
 	icon_state = "tealwhrusty_chess2"
 	},
+<<<<<<< Updated upstream
 /area/f13/brotherhood/leisure)
+=======
+/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
+	color = "#c1ac99";
+	icon_state = "floorrustysolid"
+	},
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "trV" = (
 /obj/effect/decal/cleanable/dirt{
 	color = "#363636"
@@ -43857,8 +45338,21 @@
 /obj/structure/reagent_dispensers/peppertank{
 	pixel_x = 5
 	},
+<<<<<<< Updated upstream
 /turf/closed/wall/r_wall,
 /area/f13/brotherhood/armory)
+=======
+/obj/effect/decal/cleanable/dirt{
+	color = "000000"
+	},
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/turf/open/floor/f13{
+	dir = 10;
+	icon_state = "redmark"
+	},
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "ttV" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/wreck/trash/machinepiletwo,
@@ -44056,6 +45550,10 @@
 /area/f13/enclave)
 "tyq" = (
 /obj/structure/dresser,
+/obj/machinery/light{
+	dir = 1;
+	flickering = 1
+	},
 /turf/open/floor/carpet/black,
 /area/f13/brotherhood/dorms)
 "tyU" = (
@@ -44376,6 +45874,7 @@
 /turf/open/floor/plasteel/f13/vault_floor/red,
 /area/ruin/powered)
 "tFX" = (
+<<<<<<< Updated upstream
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/noticeboard{
 	dir = 1;
@@ -44384,6 +45883,12 @@
 	},
 /turf/open/floor/plasteel/f13/vault_floor/blue/side,
 /area/f13/brotherhood/rnd)
+=======
+/obj/effect/landmark/start/f13/elder,
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/turf/open/floor/carpet/red,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "tGh" = (
 /obj/item/bedsheet{
 	icon_state = "sheetcmo";
@@ -44536,6 +46041,19 @@
 /obj/structure/table/wood,
 /turf/open/floor/plasteel/f13/stone/rugged,
 /area/f13/shack)
+<<<<<<< Updated upstream
+=======
+"tJB" = (
+/obj/structure/curtain,
+/obj/structure/simple_door/bunker/glass{
+	req_access_txt = "120";
+	req_one_access_txt = "120"
+	},
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/turf/open/floor/plasteel/darkgreen,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "tJI" = (
 /obj/item/instrument/guitar,
 /obj/structure/rack,
@@ -44669,6 +46187,12 @@
 	},
 /turf/open/indestructible/ground/inside/mountain,
 /area/f13/sewer)
+"tNh" = (
+/obj/machinery/light{
+	light_color = "#e8eaff"
+	},
+/turf/open/floor/plasteel/cult,
+/area/f13/brotherhood/operations)
 "tNi" = (
 /obj/item/pickaxe{
 	pixel_x = 8;
@@ -45025,6 +46549,7 @@
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
 /area/f13/bunker/bunkerthree)
 "tTK" = (
+<<<<<<< Updated upstream
 /obj/effect/decal/cleanable/dirt{
 	color = "000000"
 	},
@@ -45032,6 +46557,22 @@
 	dir = 8
 	},
 /area/f13/brotherhood/armory)
+=======
+/obj/structure/bed/double,
+/turf/open/floor/carpet/black,
+/area/f13/brotherhood/dorms)
+"tTX" = (
+/obj/effect/decal/cleanable/dirt{
+	color = "000000"
+	},
+/obj/structure/lattice,
+/obj/effect/decal/waste{
+	icon_state = "goo10"
+	},
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/turf/open/floor/plating/rust,
+/area/f13/brotherhood/reactor)
+>>>>>>> Stashed changes
 "tUi" = (
 /obj/structure/toilet{
 	pixel_y = 13
@@ -45217,7 +46758,13 @@
 /area/f13/brotherhood/armory)
 "tXl" = (
 /obj/item/kirbyplants/random,
+<<<<<<< Updated upstream
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
+=======
+/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
+	icon_state = "whitedirtysolid"
+	},
+>>>>>>> Stashed changes
 /area/f13/brotherhood/operations)
 "tXw" = (
 /obj/effect/decal/cleanable/dirt,
@@ -45271,12 +46818,21 @@
 	},
 /turf/closed/indestructible/f13vaultrusted,
 /area/f13/bunker/bunkerseven)
+"uaB" = (
+/obj/machinery/light,
+/turf/open/floor/carpet/black,
+/area/f13/brotherhood/dorms)
 "uaD" = (
 /obj/machinery/autolathe,
 /turf/open/floor/plasteel/f13/vault_floor/yellow{
 	icon_state = "yellowdirtyfull"
 	},
 /area/f13/tunnel)
+"uaV" = (
+/obj/structure/table/wood,
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/turf/open/floor/wood_common,
+/area/f13/brotherhood/leisure)
 "ubd" = (
 /obj/machinery/vending/medical/free,
 /obj/effect/turf_decal/delivery,
@@ -45956,12 +47512,17 @@
 /turf/open/floor/plating/tunnel,
 /area/f13/building/firestation)
 "upz" = (
+<<<<<<< Updated upstream
 /obj/effect/decal/cleanable/dirt{
 	color = "000000"
 	},
 /obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
 /turf/open/floor/plasteel/f13/vault_floor/yellow/side,
 /area/f13/brotherhood/reactor)
+=======
+/turf/open/floor/plasteel/cult,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "upE" = (
 /mob/living/simple_animal/hostile/handy/protectron{
 	auto_fire_delay = 2;
@@ -45974,6 +47535,14 @@
 	},
 /turf/open/floor/f13,
 /area/ruin/powered)
+<<<<<<< Updated upstream
+=======
+"upF" = (
+/obj/structure/sign/departments/botany,
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/turf/closed/wall/r_wall,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "upG" = (
 /obj/machinery/light/small{
 	dir = 1;
@@ -46052,7 +47621,25 @@
 	icon_state = "riverwater_motion";
 	name = "water"
 	},
+<<<<<<< Updated upstream
 /area/f13/brotherhood/leisure)
+=======
+/obj/item/card/id/dogtag{
+	pixel_x = 4
+	},
+/obj/item/encryptionkey/headset_bos{
+	pixel_x = -8
+	},
+/obj/item/encryptionkey/headset_bos{
+	pixel_x = -8
+	},
+/obj/item/encryptionkey/headset_bos{
+	pixel_x = -8
+	},
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/turf/open/floor/carpet/red,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "urc" = (
 /obj/effect/spawner/lootdrop/lighter,
 /obj/structure/rack/shelf_metal,
@@ -46097,8 +47684,17 @@
 	},
 /area/f13/brotherhood/operating)
 "urF" = (
+<<<<<<< Updated upstream
 /turf/open/floor/plasteel/f13/vault_floor/yellow/side,
 /area/f13/brotherhood/reactor)
+=======
+/obj/effect/decal/cleanable/dirt{
+	color = "000000"
+	},
+/obj/structure/table/reinforced/brass,
+/turf/open/floor/plasteel/cult,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "urS" = (
 /obj/effect/turf_decal/weather/dirt{
 	dir = 9
@@ -46668,10 +48264,6 @@
 /obj/effect/decal/cleanable/dirt{
 	color = "000000"
 	},
-/obj/machinery/light/small{
-	brightness = 3;
-	dir = 8
-	},
 /turf/open/floor/plasteel/f13/vault_floor/red/side{
 	dir = 8
 	},
@@ -47060,9 +48652,14 @@
 	},
 /area/f13/sewer/powered)
 "uME" = (
+<<<<<<< Updated upstream
 /obj/structure/simple_door/metal/ventilation,
 /obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
 /turf/open/floor/plasteel/f13/vault_floor/yellow/whiteyellowfull,
+=======
+/obj/structure/table/reinforced/brass,
+/turf/open/floor/plasteel/cult,
+>>>>>>> Stashed changes
 /area/f13/brotherhood/operations)
 "uMJ" = (
 /obj/effect/decal/cleanable/dirt,
@@ -47162,11 +48759,20 @@
 /turf/open/indestructible/ground/inside/subway,
 /area/f13/sewer)
 "uOn" = (
+<<<<<<< Updated upstream
 /obj/structure/chair/middle{
 	dir = 4
 	},
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
 /area/f13/brotherhood/operations)
+=======
+/obj/machinery/light/small,
+/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
+	color = "#c1ac99";
+	icon_state = "floorrustysolid"
+	},
+/area/f13/brotherhood/armory)
+>>>>>>> Stashed changes
 "uOp" = (
 /obj/machinery/microwave/stove,
 /obj/effect/decal/cleanable/cobweb/cobweb2,
@@ -48191,12 +49797,16 @@
 /turf/open/floor/f13,
 /area/ruin/powered)
 "vlM" = (
+<<<<<<< Updated upstream
 /obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
 /obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
 /obj/effect/decal/cleanable/dirt{
 	color = "000000"
 	},
 /turf/open/floor/plating/f13/inside,
+=======
+/turf/open/floor/plasteel/f13/vault_floor/green/side,
+>>>>>>> Stashed changes
 /area/f13/brotherhood/operations)
 "vlT" = (
 /obj/effect/turf_decal/stripes/corner,
@@ -48718,6 +50328,12 @@
 	dir = 5
 	},
 /area/f13/tcoms)
+<<<<<<< Updated upstream
+=======
+"vxp" = (
+/turf/open/floor/plasteel/f13/vault_floor/green/corner,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "vxL" = (
 /mob/living/simple_animal/hostile/handy/gutsy{
 	icon_living = "pvtgutsy";
@@ -48768,7 +50384,13 @@
 /turf/open/floor/plating/tunnel,
 /area/f13/sewer)
 "vyu" = (
+<<<<<<< Updated upstream
 /turf/open/floor/plating/f13/inside,
+=======
+/turf/open/floor/plasteel/f13/vault_floor/green/side{
+	dir = 4
+	},
+>>>>>>> Stashed changes
 /area/f13/brotherhood/operations)
 "vyv" = (
 /obj/structure/closet/toolcloset{
@@ -49195,10 +50817,24 @@
 /turf/open/floor/plasteel/f13/vault_floor/blue/side{
 	dir = 6
 	},
+<<<<<<< Updated upstream
 /area/f13/brotherhood/rnd)
 "vJB" = (
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
 /area/f13/brotherhood/armory)
+=======
+/turf/open/floor/plasteel/f13/vault_floor/plating,
+/area/f13/brotherhood/operations)
+"vJB" = (
+/obj/machinery/light{
+	light_color = "#e8eaff"
+	},
+/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
+	color = "#c1ac99";
+	icon_state = "floorrustysolid"
+	},
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "vJF" = (
 /obj/structure/flora/wasteplant/wild_fungus,
 /obj/effect/decal/cleanable/dirt,
@@ -49382,7 +51018,12 @@
 	icon_state = "riverwater_motion";
 	name = "water"
 	},
+<<<<<<< Updated upstream
 /area/f13/brotherhood/leisure)
+=======
+/turf/open/floor/plasteel/cult,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "vMN" = (
 /obj/structure/rack,
 /obj/effect/spawner/lootdrop/f13/weapon/melee/tier4,
@@ -49390,6 +51031,13 @@
 /obj/effect/spawner/lootdrop/f13/weapon/gun/energy/superhigh,
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
 /area/f13/bunker)
+<<<<<<< Updated upstream
+=======
+"vMX" = (
+/obj/effect/landmark/start/f13/seniorpaladin,
+/turf/open/floor/carpet/red,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "vNk" = (
 /obj/structure/dresser,
 /obj/effect/turf_decal/siding/wood{
@@ -49546,7 +51194,13 @@
 /area/f13/bunker/bighornbunker)
 "vQs" = (
 /obj/item/flag/bos,
+<<<<<<< Updated upstream
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
+=======
+/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
+	icon_state = "floorrustysolid"
+	},
+>>>>>>> Stashed changes
 /area/f13/brotherhood/operations)
 "vQu" = (
 /obj/structure/table/wood,
@@ -49604,6 +51258,14 @@
 /obj/structure/table,
 /turf/open/floor/plasteel/f13/vault_floor/blue,
 /area/f13/bunker/bunkereight)
+<<<<<<< Updated upstream
+=======
+"vRY" = (
+/obj/item/kirbyplants/random,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/carpet/red,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "vSk" = (
 /obj/structure/table/glass,
 /obj/machinery/chem_heater{
@@ -49791,6 +51453,16 @@
 	},
 /turf/open/floor/plasteel/f13/vault_floor/plating,
 /area/f13/vault/reactor)
+<<<<<<< Updated upstream
+=======
+"vWn" = (
+/obj/structure/railing{
+	color = "#A47449";
+	dir = 8
+	},
+/turf/open/floor/plasteel/cult,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "vWM" = (
 /obj/structure/frame/machine{
 	anchored = 1
@@ -49897,6 +51569,7 @@
 /turf/open/floor/plating/tunnel,
 /area/ruin/powered)
 "vZC" = (
+<<<<<<< Updated upstream
 /obj/structure/decoration/hatch{
 	dir = 8
 	},
@@ -49904,6 +51577,17 @@
 	dir = 4;
 	pixel_x = -13
 	},
+=======
+/obj/structure/closet/crate/bin/trashbin,
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/turf/open/floor/plasteel/f13/vault_floor/yellow,
+/area/f13/brotherhood/operations)
+"vZG" = (
+/obj/structure/bookcase/manuals,
+/obj/item/book/manual/wiki/research_and_development,
+/obj/item/book/manual/wiki/robotics_cyborgs,
+/obj/item/book/manual/wiki/surgery,
+>>>>>>> Stashed changes
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plasteel/f13/vault_floor/misc/cafeteria{
 	icon_state = "tealwhrusty_chess2"
@@ -50055,12 +51739,39 @@
 	},
 /turf/open/floor/plasteel/floorgrime,
 /area/f13/sewer)
+<<<<<<< Updated upstream
+=======
+"wdU" = (
+/obj/structure/table/reinforced,
+/obj/item/reagent_containers/food/snacks/f13/mre,
+/obj/item/reagent_containers/food/snacks/f13/mre{
+	pixel_x = -7
+	},
+/obj/item/reagent_containers/glass/beaker/waterbottle{
+	pixel_x = 10;
+	pixel_y = 3
+	},
+/obj/item/reagent_containers/glass/beaker/waterbottle{
+	pixel_x = 12
+	},
+/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
+	icon_state = "floorrustysolid"
+	},
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "wec" = (
 /obj/machinery/light/small{
 	dir = 1;
 	pixel_x = 8
 	},
+<<<<<<< Updated upstream
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
+=======
+/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
+	color = "#c1ac99";
+	icon_state = "floorrustysolid"
+	},
+>>>>>>> Stashed changes
 /area/f13/brotherhood/operations)
 "wer" = (
 /obj/structure/chair/right{
@@ -50228,8 +51939,19 @@
 	req_access_txt = "120";
 	req_one_access_txt = "120"
 	},
+<<<<<<< Updated upstream
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
 /area/f13/brotherhood/dorms)
+=======
+/obj/structure/toilet{
+	pixel_y = 10
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/f13{
+	icon_state = "redmark"
+	},
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "wiv" = (
 /obj/structure/closet/cabinet{
 	anchored = 1
@@ -50468,6 +52190,7 @@
 	color = "000000"
 	},
 /obj/effect/decal/cleanable/dirt,
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
 /turf/open/floor/plasteel/f13/vault_floor/plating,
 /area/f13/brotherhood/operating)
 "wmL" = (
@@ -50487,7 +52210,13 @@
 /obj/structure/frame/machine{
 	anchored = 1
 	},
+<<<<<<< Updated upstream
 /turf/open/floor/plating/f13/inside,
+=======
+/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
+	icon_state = "whitedirtysolid"
+	},
+>>>>>>> Stashed changes
 /area/f13/brotherhood/operations)
 "wmX" = (
 /obj/machinery/autolathe/ammo/unlocked_basic,
@@ -50870,6 +52599,7 @@
 /turf/open/indestructible/ground/inside/subway,
 /area/f13/sewer)
 "wvA" = (
+<<<<<<< Updated upstream
 /obj/machinery/light/small{
 	dir = 8;
 	light_color = "red"
@@ -50879,6 +52609,11 @@
 	dir = 10
 	},
 /area/f13/brotherhood/reactor)
+=======
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/turf/closed/wall/r_wall,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "wvF" = (
 /obj/structure/lattice,
 /obj/structure/simple_door/bunker,
@@ -51833,6 +53568,16 @@
 	icon_state = "floorrustysolid"
 	},
 /area/f13/radiation)
+"wQp" = (
+/obj/structure/lattice{
+	layer = 3
+	},
+/obj/machinery/light{
+	dir = 4;
+	flickering = 1
+	},
+/turf/open/floor/plasteel/f13/vault_floor/plating,
+/area/f13/brotherhood/operations)
 "wQr" = (
 /obj/effect/turf_decal/stripes/red/line,
 /turf/open/floor/plasteel/f13/vault_floor/neutral/neutralchess,
@@ -51908,6 +53653,7 @@
 /turf/open/indestructible/ground/inside/mountain,
 /area/f13/bunker/bighornbunker)
 "wRE" = (
+<<<<<<< Updated upstream
 /obj/structure/toilet{
 	pixel_y = 13
 	},
@@ -51920,6 +53666,10 @@
 	},
 /turf/open/floor/plasteel/f13/vault_floor/misc/rarewhite,
 /area/f13/brotherhood/dorms)
+=======
+/turf/open/floor/carpet/red,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "wRM" = (
 /obj/structure/table/reinforced,
 /obj/item/gun/ballistic/automatic/m1carbine/compact,
@@ -52038,6 +53788,18 @@
 /obj/structure/chair/bench,
 /turf/open/indestructible/ground/inside/mountain,
 /area/f13/caves)
+<<<<<<< Updated upstream
+=======
+"wUS" = (
+/obj/structure/bed/mattress{
+	icon_state = "mattress4";
+	pixel_x = 9;
+	pixel_y = -11
+	},
+/obj/machinery/light/floor,
+/turf/open/floor/plating/rust,
+/area/f13/brotherhood/armory)
+>>>>>>> Stashed changes
 "wVb" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/kitchenspike,
@@ -52229,7 +53991,13 @@
 	name = "Secuirty Camera";
 	network = list("BoS")
 	},
+<<<<<<< Updated upstream
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
+=======
+/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
+	icon_state = "floorrustysolid"
+	},
+>>>>>>> Stashed changes
 /area/f13/brotherhood/operations)
 "wZI" = (
 /obj/structure/wreck/trash/machinepiletwo,
@@ -52391,9 +54159,15 @@
 /obj/effect/decal/cleanable/dirt{
 	color = "000000"
 	},
+<<<<<<< Updated upstream
 /obj/structure/decoration/vent,
 /turf/open/floor/plasteel/f13/vault_floor/misc/rarewhite,
 /area/f13/brotherhood/dorms)
+=======
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/turf/open/floor/wood_common,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "xdt" = (
 /obj/structure/timeddoor,
 /turf/open/indestructible/ground/inside/mountain,
@@ -52405,6 +54179,14 @@
 	icon_state = "yellowdirtysolid"
 	},
 /area/f13/bunker/bunkerfive)
+<<<<<<< Updated upstream
+=======
+"xdF" = (
+/obj/structure/table/glass,
+/obj/item/storage/box/disks_plantgene,
+/turf/open/floor/plasteel/f13/vault_floor/green/side,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "xdI" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt/dust,
@@ -52746,7 +54528,18 @@
 	color = "000000"
 	},
 /obj/item/kirbyplants/random,
+<<<<<<< Updated upstream
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
+=======
+/obj/machinery/light{
+	dir = 1;
+	light_color = "#e8eaff"
+	},
+/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
+	color = "#c1ac99";
+	icon_state = "floorrustysolid"
+	},
+>>>>>>> Stashed changes
 /area/f13/brotherhood/operations)
 "xjG" = (
 /obj/effect/turf_decal/weather/dirt{
@@ -52827,6 +54620,18 @@
 	},
 /turf/open/floor/plating/tunnel,
 /area/f13/building/firestation)
+<<<<<<< Updated upstream
+=======
+"xlI" = (
+/obj/effect/decal/cleanable/dirt{
+	color = "000000"
+	},
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
+	icon_state = "floorrustysolid"
+	},
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "xlJ" = (
 /obj/structure/barricade/bars,
 /obj/structure/table,
@@ -52881,9 +54686,16 @@
 /turf/open/floor/plasteel/dark,
 /area/f13/enclave)
 "xnb" = (
+<<<<<<< Updated upstream
 /obj/structure/sign/poster/contraband/pinup_ride,
 /turf/closed/wall/r_wall,
 /area/f13/brotherhood/dorms)
+=======
+/obj/machinery/vending/cigarette/syndicate,
+/obj/machinery/light,
+/turf/open/floor/wood_common,
+/area/f13/brotherhood/leisure)
+>>>>>>> Stashed changes
 "xni" = (
 /obj/structure/simple_door/bunker,
 /obj/machinery/door/poddoor/shutters/radiation,
@@ -53222,8 +55034,14 @@
 /obj/effect/decal/cleanable/dirt{
 	color = "000000"
 	},
+<<<<<<< Updated upstream
 /turf/open/floor/plasteel/f13/vault_floor/misc/rarewhite,
 /area/f13/brotherhood/dorms)
+=======
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/turf/open/floor/carpet/red,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "xuS" = (
 /obj/effect/turf_decal/stripes/red/line{
 	dir = 1
@@ -53387,6 +55205,14 @@
 	icon_state = "housewood3-broken"
 	},
 /area/f13/bunker)
+<<<<<<< Updated upstream
+=======
+"xyq" = (
+/obj/structure/sign/poster/random,
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/turf/closed/wall/r_wall,
+/area/f13/brotherhood/leisure)
+>>>>>>> Stashed changes
 "xyr" = (
 /obj/structure/debris/v4,
 /obj/structure/debris/v3,
@@ -53834,10 +55660,16 @@
 	},
 /area/f13/sewer)
 "xHM" = (
+<<<<<<< Updated upstream
 /obj/structure/simple_door/metal/ventilation,
 /obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
 /turf/open/floor/plating/f13/inside,
 /area/f13/brotherhood/armory)
+=======
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/turf/closed/wall/r_wall,
+/area/f13/brotherhood/leisure)
+>>>>>>> Stashed changes
 "xIq" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/machinery/chem_dispenser/drinks/beer,
@@ -54163,7 +55995,11 @@
 /obj/effect/decal/cleanable/dirt{
 	color = "000000"
 	},
+<<<<<<< Updated upstream
 /turf/open/floor/plating/f13/inside,
+=======
+/turf/open/floor/carpet/red,
+>>>>>>> Stashed changes
 /area/f13/brotherhood/operations)
 "xRz" = (
 /obj/structure/fence{
@@ -54388,6 +56224,15 @@
 	},
 /turf/open/floor/plating/tunnel,
 /area/f13/enclave)
+"xVn" = (
+/obj/machinery/light{
+	dir = 4;
+	light_color = "#c1caff"
+	},
+/turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
+	icon_state = "floorrustysolid"
+	},
+/area/f13/brotherhood/operations)
 "xVC" = (
 /obj/structure/fluff/rails,
 /obj/structure/debris/v3,
@@ -54482,6 +56327,7 @@
 /obj/effect/decal/cleanable/dirt{
 	color = "000000"
 	},
+<<<<<<< Updated upstream
 /obj/effect/decal/cleanable/dirt{
 	color = "000000"
 	},
@@ -54490,6 +56336,10 @@
 	icon_state = "neutralrustyfull"
 	},
 /area/f13/brotherhood/leisure)
+=======
+/turf/open/floor/wood_common,
+/area/f13/brotherhood/operations)
+>>>>>>> Stashed changes
 "xYr" = (
 /obj/structure/simple_door/bunker,
 /turf/open/floor/f13{
@@ -54638,8 +56488,12 @@
 	dir = 4;
 	light_color = "#d8b1b1"
 	},
+<<<<<<< Updated upstream
 /obj/machinery/atmospherics/components/unary/thermomachine/freezer,
 /turf/open/floor/plating/f13/inside,
+=======
+/turf/open/floor/plasteel/f13/vault_floor/green/side,
+>>>>>>> Stashed changes
 /area/f13/brotherhood/operations)
 "ycf" = (
 /obj/structure/table/wood,
@@ -54730,10 +56584,14 @@
 	brightness = 7;
 	dir = 8
 	},
+<<<<<<< Updated upstream
 /obj/effect/decal/cleanable/dirt{
 	color = "000000"
 	},
 /turf/open/floor/plasteel/f13/vault_floor/plating,
+=======
+/turf/open/floor/wood_common,
+>>>>>>> Stashed changes
 /area/f13/brotherhood/operations)
 "yeC" = (
 /obj/structure/lattice,
@@ -54752,6 +56610,7 @@
 /turf/open/floor/mineral/plastitanium,
 /area/ruin/powered)
 "yeV" = (
+<<<<<<< Updated upstream
 /obj/structure/rack,
 /obj/item/reagent_containers/food/snacks/f13/mre,
 /obj/item/reagent_containers/food/snacks/f13/mre,
@@ -54761,6 +56620,9 @@
 	color = "000000"
 	},
 /turf/open/floor/plating/f13/inside,
+=======
+/turf/closed/wall/r_wall,
+>>>>>>> Stashed changes
 /area/f13/brotherhood/operations)
 "yfa" = (
 /obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
@@ -54919,8 +56781,18 @@
 	},
 /area/f13/bunker)
 "yjV" = (
+<<<<<<< Updated upstream
 /obj/structure/sign/poster/contraband/pinup_vixen,
 /turf/closed/wall/r_wall,
+=======
+/obj/effect/landmark/start/f13/sentinel,
+/obj/machinery/light/small{
+	brightness = 7;
+	dir = 4
+	},
+/obj/effect/mapping_helpers/network_builder/power_cable/red/auto,
+/turf/open/floor/carpet/red,
+>>>>>>> Stashed changes
 /area/f13/brotherhood/operations)
 "yjZ" = (
 /turf/closed/indestructible/f13/obsidian,
@@ -54977,6 +56849,18 @@
 	icon_state = "darkrusty"
 	},
 /area/f13/bunker/bighornbunker)
+"yld" = (
+/obj/effect/decal/cleanable/dirt{
+	color = "000000"
+	},
+/obj/machinery/light/small{
+	brightness = 3;
+	dir = 8
+	},
+/turf/open/floor/plasteel/f13/vault_floor/red/side{
+	dir = 8
+	},
+/area/f13/brotherhood/armory)
 "ylu" = (
 /obj/structure/debris/v3,
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust,
@@ -93587,7 +95471,7 @@ yhR
 oEb
 yhR
 yhR
-yhR
+nuI
 yhR
 yhR
 yhR
@@ -93887,7 +95771,46 @@ bgK
 yhR
 yhR
 yhR
+<<<<<<< Updated upstream
 oEb
+=======
+yhR
+yhR
+yhR
+yhR
+yhR
+yhR
+yhR
+ohv
+ohv
+yhR
+yhR
+yhR
+yhR
+yhR
+yhR
+yhR
+xHG
+omW
+iAV
+xFd
+fla
+uDl
+aqH
+mMm
+ogc
+mMm
+wRE
+yeV
+lZy
+aGf
+aGs
+aGs
+csR
+aGs
+jjA
+yeV
+>>>>>>> Stashed changes
 yhR
 yhR
 yhR
@@ -94150,6 +96073,7 @@ yhR
 yhR
 oEb
 bgK
+<<<<<<< Updated upstream
 vOm
 ueC
 dDT
@@ -94159,6 +96083,23 @@ iPM
 ueC
 dum
 kKl
+=======
+yhR
+yhR
+yhR
+yhR
+yhR
+yhR
+yhR
+yhR
+yhR
+yhR
+ohv
+dvx
+ohv
+yhR
+yhR
+>>>>>>> Stashed changes
 uDl
 uDl
 uDl
@@ -94452,6 +96393,7 @@ yhR
 yhR
 oEb
 bgK
+<<<<<<< Updated upstream
 vOm
 ueC
 dDT
@@ -94492,6 +96434,49 @@ bgK
 yhR
 yhR
 yhR
+=======
+bgK
+yhR
+yhR
+yhR
+yhR
+yhR
+yhR
+yhR
+yhR
+yhR
+yhR
+nuI
+ohv
+oIp
+ohv
+yhR
+uDl
+uTK
+qFJ
+mpS
+aPF
+uDl
+msR
+vrw
+vrw
+lNB
+uDl
+wRE
+vMX
+bNX
+gXb
+wRE
+yeV
+pWN
+aGf
+aGs
+eHW
+yeV
+aGs
+aGs
+yeV
+>>>>>>> Stashed changes
 oEb
 yhR
 yhR
@@ -94754,11 +96739,30 @@ yhR
 yhR
 yhR
 bgK
+<<<<<<< Updated upstream
 vOm
 ueC
 ggl
 ueC
 ueC
+=======
+qui
+wvA
+wvA
+wvA
+wvA
+wvA
+wvA
+qui
+yhR
+yhR
+yhR
+yhR
+ohv
+ohv
+nuI
+yhR
+>>>>>>> Stashed changes
 uDl
 uDl
 uDl
@@ -94788,12 +96792,21 @@ xuQ
 xuQ
 kAW
 xde
+<<<<<<< Updated upstream
 tnL
 fJY
 bgK
 yhR
 yhR
 yhR
+=======
+lZy
+oCL
+wvA
+adB
+aIc
+yeV
+>>>>>>> Stashed changes
 yhR
 yhR
 yhR
@@ -95065,6 +97078,7 @@ hLk
 mkj
 baQ
 wvA
+<<<<<<< Updated upstream
 uDl
 cdK
 dsc
@@ -95072,6 +97086,24 @@ cdK
 vhR
 cdK
 woS
+=======
+oFJ
+uME
+upz
+upz
+upz
+tNh
+qui
+wvA
+wvA
+cJo
+uDl
+iYp
+iYp
+uDl
+uDl
+rys
+>>>>>>> Stashed changes
 mQE
 nnI
 jzw
@@ -95087,6 +97119,7 @@ ueC
 tnL
 tnL
 pWD
+<<<<<<< Updated upstream
 ozU
 tnL
 tnL
@@ -95096,6 +97129,18 @@ bgK
 bgK
 bgK
 yhR
+=======
+pWD
+yeV
+kAW
+aGs
+aGs
+pcL
+yeV
+aGs
+dsc
+yeV
+>>>>>>> Stashed changes
 yhR
 oEb
 yhR
@@ -95357,6 +97402,7 @@ yhR
 yhR
 yhR
 bgK
+<<<<<<< Updated upstream
 fJY
 ueC
 ueC
@@ -95374,6 +97420,25 @@ krG
 cdK
 cdK
 woS
+=======
+wvA
+oJo
+upz
+upz
+upz
+upz
+upz
+gsa
+ppU
+urF
+rys
+gRo
+gix
+gix
+hLy
+gix
+bIp
+>>>>>>> Stashed changes
 uHp
 skA
 xpI
@@ -95391,6 +97456,7 @@ aYn
 xuQ
 xuQ
 kAW
+<<<<<<< Updated upstream
 xde
 tnL
 fJY
@@ -95398,6 +97464,15 @@ fJY
 fJY
 bgK
 yhR
+=======
+aGs
+aGs
+lZy
+yeV
+aGs
+jwK
+yeV
+>>>>>>> Stashed changes
 yhR
 yhR
 oEb
@@ -95681,11 +97756,32 @@ eDZ
 xpI
 kRg
 jHy
+<<<<<<< Updated upstream
 iGM
 qVD
 unG
 woS
 wIG
+=======
+pXw
+pXw
+aGI
+qba
+rys
+wvA
+wvA
+bdL
+yeV
+yeV
+yeV
+yeV
+yeV
+yeV
+qSM
+yeV
+yeV
+yeV
+>>>>>>> Stashed changes
 yeV
 ueC
 tnL
@@ -95971,8 +98067,15 @@ xZa
 ipI
 rfP
 gKq
+<<<<<<< Updated upstream
 gYT
 eCE
+=======
+rys
+bAQ
+paA
+gBR
+>>>>>>> Stashed changes
 cdK
 cdK
 cdK
@@ -95996,12 +98099,21 @@ xuQ
 xuQ
 tnL
 ocx
+<<<<<<< Updated upstream
 dCo
 jcL
 tnL
 fJY
 bgK
 yhR
+=======
+yeV
+lZy
+aIc
+aIc
+qaR
+yeV
+>>>>>>> Stashed changes
 yhR
 yhR
 yhR
@@ -96274,12 +98386,21 @@ tee
 cca
 upz
 rys
+<<<<<<< Updated upstream
 cdK
 krG
 cdK
 cdK
 cdK
 kZP
+=======
+gix
+gix
+rAk
+rAk
+iGp
+uDl
+>>>>>>> Stashed changes
 eAi
 aNn
 xaM
@@ -96288,8 +98409,26 @@ uED
 qZz
 rJZ
 vrw
+<<<<<<< Updated upstream
 woS
 wIG
+=======
+vrw
+cLN
+yeV
+sCb
+kKl
+kKl
+aGs
+yeV
+kXV
+xYo
+yeV
+lZy
+aGs
+aGs
+qaR
+>>>>>>> Stashed changes
 yeV
 ueC
 ueC
@@ -96565,6 +98704,7 @@ yhR
 yhR
 yhR
 bgK
+<<<<<<< Updated upstream
 fJY
 ueC
 dDT
@@ -96575,6 +98715,24 @@ nDM
 tee
 ach
 mVt
+=======
+wvA
+fTO
+rZI
+upz
+eub
+eub
+upz
+upz
+upz
+tNh
+rys
+mLw
+tTX
+mLw
+mLw
+mLw
+>>>>>>> Stashed changes
 uDl
 mda
 eCE
@@ -96602,10 +98760,17 @@ wit
 dCo
 dCo
 jRc
+<<<<<<< Updated upstream
 tnL
 fJY
 fJY
 bgK
+=======
+aGs
+aGs
+izz
+yeV
+>>>>>>> Stashed changes
 yhR
 yhR
 yhR
@@ -96867,6 +99032,7 @@ yhR
 oEb
 yhR
 bgK
+<<<<<<< Updated upstream
 fJY
 ueC
 dDT
@@ -96876,6 +99042,17 @@ kqf
 tkZ
 tee
 aqG
+=======
+wvA
+fTO
+rIf
+upz
+eub
+eub
+upz
+upz
+upz
+>>>>>>> Stashed changes
 qmx
 tee
 gix
@@ -97204,8 +99381,13 @@ tnL
 aZU
 tnL
 pId
+<<<<<<< Updated upstream
 dCo
 dCo
+=======
+pHi
+lZy
+>>>>>>> Stashed changes
 aGs
 tnL
 fJY
@@ -97493,7 +99675,11 @@ iKj
 trK
 vZC
 fwv
+<<<<<<< Updated upstream
 pHi
+=======
+sug
+>>>>>>> Stashed changes
 sug
 wmt
 xDh
@@ -97503,6 +99689,7 @@ tnL
 pSA
 dCo
 jcL
+<<<<<<< Updated upstream
 dCo
 dCo
 dCo
@@ -97512,6 +99699,18 @@ aSA
 tnL
 fJY
 bgK
+=======
+jcL
+jcL
+hLk
+pId
+pHi
+lZy
+aGs
+fTu
+nHC
+yeV
+>>>>>>> Stashed changes
 yhR
 yhR
 yhR
@@ -97785,6 +99984,7 @@ gRo
 qoc
 omW
 haX
+<<<<<<< Updated upstream
 kIr
 pWN
 wHI
@@ -97795,10 +99995,25 @@ lPN
 trK
 mTV
 fWs
+=======
+iVq
+iVq
+sug
+sug
+sug
+sug
+nNC
+sug
+ljc
+sug
+sug
+vJB
+>>>>>>> Stashed changes
 pHi
 fTO
 wmt
 rNo
+<<<<<<< Updated upstream
 xYo
 diq
 tnL
@@ -97808,6 +100023,17 @@ dCo
 dCo
 dCo
 mJs
+=======
+afm
+afm
+pIq
+hmU
+jcL
+sXx
+sXx
+bSQ
+bSQ
+>>>>>>> Stashed changes
 joH
 jEO
 jEO
@@ -98083,6 +100309,7 @@ tee
 eLm
 aiA
 qui
+<<<<<<< Updated upstream
 tee
 tee
 tee
@@ -98100,11 +100327,38 @@ mTV
 llC
 fTO
 wmt
+=======
+fjz
+vMM
+upz
+qCi
+uME
+tNh
+qui
+wvA
+wvA
+qui
+qIa
+iVq
+iVq
+sug
+sug
+sug
+sug
+nNC
+sug
+ljc
+sug
+sug
+sug
+pHi
+>>>>>>> Stashed changes
 wLP
 xYo
 afm
 tnL
 hmU
+<<<<<<< Updated upstream
 dCo
 tnL
 tnL
@@ -98113,6 +100367,14 @@ mJs
 jEO
 jEO
 eOY
+=======
+jcL
+sXx
+sXx
+bSQ
+plD
+tnL
+>>>>>>> Stashed changes
 tnL
 fJY
 bgK
@@ -98373,6 +100635,7 @@ yhR
 yhR
 bgK
 fJY
+<<<<<<< Updated upstream
 ueC
 ueC
 ueC
@@ -98401,15 +100664,59 @@ mTV
 mTV
 fAe
 xDh
+=======
+rFi
+eEr
+odX
+bfF
+wvA
+oJo
+upz
+upz
+upz
+upz
+upz
+iZL
+lFO
+sug
+yeV
+sJS
+iVq
+iVq
+sug
+sug
+iVq
+mqC
+qfW
+sug
+ljc
+sug
+sug
+sug
+>>>>>>> Stashed changes
 wmt
 hmq
 wmt
 axF
 pIq
+<<<<<<< Updated upstream
 dCo
 dCo
 maT
 nbm
+=======
+hmU
+jcL
+sXx
+sXx
+bSQ
+sXx
+jKg
+eTY
+eTY
+eTY
+akt
+>>>>>>> Stashed changes
 tnL
 tdC
 jEO
@@ -98675,6 +100982,7 @@ oEb
 yhR
 bgK
 fJY
+<<<<<<< Updated upstream
 ueC
 kaE
 loq
@@ -98686,11 +100994,25 @@ xHM
 iZL
 aZT
 aZT
+=======
+vhR
+trn
+eEr
+bfF
+wvA
+upz
+upz
+upz
+upz
+upz
+upz
+>>>>>>> Stashed changes
 czv
 gqZ
 lFO
 tee
 lYb
+<<<<<<< Updated upstream
 qhz
 cxP
 xFd
@@ -98698,6 +101020,15 @@ ueC
 cea
 hFH
 qfW
+=======
+iVq
+iVq
+sug
+sug
+iVq
+wdU
+yeV
+>>>>>>> Stashed changes
 trK
 mTV
 lTn
@@ -98707,6 +101038,7 @@ wmt
 puw
 wmt
 ggL
+<<<<<<< Updated upstream
 tnL
 dCo
 dCo
@@ -98714,6 +101046,15 @@ maT
 nbm
 tnL
 mJs
+=======
+pIq
+hmU
+jcL
+sXx
+bSQ
+cjU
+uaV
+>>>>>>> Stashed changes
 jEO
 jEO
 cOK
@@ -98991,6 +101332,7 @@ tee
 tee
 fat
 lFO
+<<<<<<< Updated upstream
 tee
 ueC
 ueC
@@ -99002,13 +101344,44 @@ hFH
 lPN
 trK
 mTV
+=======
+cCi
+yeV
+iVq
+iVq
+iVq
+sug
+sug
+iVq
+hFH
+yeV
+sug
+ljc
+>>>>>>> Stashed changes
 nsx
 pHi
 jXt
 wtD
 loz
+<<<<<<< Updated upstream
 rfL
 qdV
+=======
+afm
+hmU
+hmU
+rtw
+sXx
+sXx
+bSQ
+cPd
+mJs
+jEO
+tyq
+eTY
+eTY
+uaB
+>>>>>>> Stashed changes
 tnL
 rtw
 pEl
@@ -99286,12 +101659,19 @@ uuv
 vqY
 pWn
 bZQ
+<<<<<<< Updated upstream
+=======
+eVf
+pWn
+qWF
+>>>>>>> Stashed changes
 pPd
 uCZ
-hTr
+yld
 bGu
 noV
 ljc
+<<<<<<< Updated upstream
 qfW
 cmM
 cCi
@@ -99299,11 +101679,21 @@ cCi
 qfW
 qfW
 eNP
+=======
+sug
+cmM
+cCi
+cCi
+sug
+sug
+sug
+>>>>>>> Stashed changes
 bRN
 hFH
 lPN
 trK
 rwV
+<<<<<<< Updated upstream
 aIc
 pHi
 pHi
@@ -99315,6 +101705,24 @@ aZU
 bSQ
 pEl
 kPi
+=======
+wvA
+wvA
+wvA
+pHi
+xHM
+xHM
+xHM
+xyq
+bSQ
+bSQ
+fvy
+bSQ
+cPd
+mJs
+jEO
+hQa
+>>>>>>> Stashed changes
 eTY
 tyq
 tnL
@@ -99600,6 +102008,7 @@ oez
 oez
 oez
 cCi
+<<<<<<< Updated upstream
 qfW
 qfW
 ljc
@@ -99611,13 +102020,33 @@ fPf
 bol
 ueC
 xmd
+=======
+sug
+iVq
+lkP
+ldy
+cCi
+lFO
+sFT
+sFT
+jQQ
+jQQ
+jQQ
+>>>>>>> Stashed changes
 qgp
 ueC
 sJq
 bSQ
+<<<<<<< Updated upstream
 pEl
 tnL
 jMb
+=======
+sXx
+sXx
+sXx
+sXx
+>>>>>>> Stashed changes
 sXx
 aZU
 fJY
@@ -99897,10 +102326,17 @@ dqS
 tee
 ljc
 cCi
+<<<<<<< Updated upstream
 ueC
 qfW
 qfW
 mNI
+=======
+yeV
+vQs
+xVn
+oez
+>>>>>>> Stashed changes
 ljc
 hFH
 hFH
@@ -100203,7 +102639,11 @@ ueC
 ueC
 ueC
 jeP
+<<<<<<< Updated upstream
 qfW
+=======
+sug
+>>>>>>> Stashed changes
 eYs
 ueC
 ueC
@@ -100501,6 +102941,7 @@ nEO
 tmA
 sjp
 cCi
+<<<<<<< Updated upstream
 ueC
 oez
 oez
@@ -100524,6 +102965,31 @@ pEl
 pEl
 tnL
 xBS
+=======
+yeV
+klD
+diq
+oez
+sug
+cCi
+sug
+dOq
+yeV
+yeV
+lFO
+mda
+sFT
+sFT
+sFT
+yeV
+yeV
+pHi
+ajk
+sXx
+sXx
+kPi
+sXx
+>>>>>>> Stashed changes
 sXx
 xnb
 fJY
@@ -100801,6 +103267,7 @@ pqN
 pqN
 eNZ
 nwq
+<<<<<<< Updated upstream
 hFH
 qfW
 ueC
@@ -100813,6 +103280,20 @@ qfW
 cCi
 cCi
 ueC
+=======
+lFO
+sug
+yeV
+rWq
+iVq
+sug
+sug
+cCi
+sug
+bxs
+bxs
+yeV
+>>>>>>> Stashed changes
 ljc
 cCi
 sFT
@@ -101100,8 +103581,14 @@ pWn
 bZQ
 mEc
 mYd
+<<<<<<< Updated upstream
 bYx
 fjz
+=======
+mYd
+uOn
+fJY
+>>>>>>> Stashed changes
 tee
 hFH
 cCi
@@ -101416,6 +103903,7 @@ vSU
 vSU
 beH
 rGJ
+<<<<<<< Updated upstream
 ueC
 qfW
 qfW
@@ -101423,6 +103911,14 @@ cCi
 cCi
 qfW
 ljc
+=======
+yeV
+sug
+sug
+cCi
+cCi
+sug
+>>>>>>> Stashed changes
 ljc
 ljc
 ouH
@@ -101695,6 +104191,7 @@ yhR
 yhR
 bgK
 fJY
+<<<<<<< Updated upstream
 ueC
 aGI
 loq
@@ -101712,13 +104209,38 @@ cCi
 ueC
 fId
 beH
+=======
+vhR
+wUS
+eEr
+bfF
+eVf
+pWn
+pWn
+mEc
+mYd
+mYd
+mYd
+urv
+eEr
+lgc
+yeV
+kSu
+wQp
+>>>>>>> Stashed changes
 vSU
 vSU
 vSU
 vSU
+<<<<<<< Updated upstream
 beH
 vQs
 ueC
+=======
+wQp
+vQs
+yeV
+>>>>>>> Stashed changes
 wec
 qfW
 aFE
@@ -102005,6 +104527,7 @@ aGI
 ueC
 wym
 xQC
+<<<<<<< Updated upstream
 oTo
 rtK
 vsQ
@@ -102014,15 +104537,34 @@ cCi
 ueC
 ueC
 ueC
+=======
+nlw
+fJY
+fJY
+nlw
+fJY
+fJY
+wvA
+wvA
+yeV
+>>>>>>> Stashed changes
 vSU
 vSU
 vSU
 vSU
+<<<<<<< Updated upstream
 ueC
 ueC
 ueC
 qfW
 qfW
+=======
+yeV
+yeV
+yeV
+sug
+sFT
+>>>>>>> Stashed changes
 lYY
 rMQ
 dkQ
@@ -102030,6 +104572,7 @@ gCc
 sAG
 lor
 gMF
+<<<<<<< Updated upstream
 pEl
 pEl
 ybq
@@ -102047,6 +104590,25 @@ yhR
 yhR
 yhR
 oEb
+=======
+beH
+qpN
+tnL
+pEe
+fMp
+lVC
+jEO
+tGj
+tGj
+xWV
+xWV
+tnL
+hTW
+hTW
+hTW
+hTW
+hTW
+>>>>>>> Stashed changes
 oEb
 oEb
 yhR
@@ -102302,6 +104864,7 @@ fJY
 fJY
 fJY
 fJY
+<<<<<<< Updated upstream
 ueC
 aGI
 ueC
@@ -102316,6 +104879,22 @@ cCi
 ueC
 ueC
 ueC
+=======
+fJY
+wtD
+cYb
+cYb
+fJY
+nlw
+rtK
+fAl
+maT
+sjp
+hOG
+hOG
+sjp
+yeV
+>>>>>>> Stashed changes
 kAB
 vSU
 vSU
@@ -102323,8 +104902,13 @@ vSU
 ueC
 ueC
 dbi
+<<<<<<< Updated upstream
 aRB
 qfW
+=======
+sug
+sFT
+>>>>>>> Stashed changes
 qDb
 kev
 wXq
@@ -102336,6 +104920,7 @@ pEl
 pEl
 tnL
 xhB
+<<<<<<< Updated upstream
 sXx
 tnL
 fJY
@@ -102349,6 +104934,21 @@ yhR
 yhR
 yhR
 oEb
+=======
+pEe
+pEe
+jEO
+gYT
+tGj
+tGj
+mSy
+tnL
+eHY
+eHY
+eHY
+joW
+hTW
+>>>>>>> Stashed changes
 oEb
 oEb
 yhR
@@ -102600,6 +105200,7 @@ yhR
 yhR
 yhR
 bgK
+<<<<<<< Updated upstream
 bgK
 bgK
 bgK
@@ -102609,6 +105210,17 @@ loq
 ueC
 rIf
 mwx
+=======
+tee
+vhR
+pPl
+vhR
+tee
+wcC
+pWn
+pWn
+oJi
+>>>>>>> Stashed changes
 mYy
 eVf
 kXV
@@ -102625,8 +105237,13 @@ vSU
 ueC
 ueC
 jiB
+<<<<<<< Updated upstream
 aRB
 qfW
+=======
+sug
+sFT
+>>>>>>> Stashed changes
 lor
 fpr
 oKj
@@ -102637,6 +105254,7 @@ wsX
 tnL
 qpN
 tnL
+<<<<<<< Updated upstream
 tnL
 tnL
 tnL
@@ -102651,6 +105269,22 @@ yhR
 yhR
 yhR
 oEb
+=======
+fMp
+kYz
+cjE
+jEO
+ncX
+tGj
+llC
+eOY
+tnL
+eHY
+kuz
+fHU
+qFn
+hTW
+>>>>>>> Stashed changes
 oEb
 oEb
 yhR
@@ -102927,7 +105561,11 @@ ueC
 ueC
 ueC
 tXl
+<<<<<<< Updated upstream
 qfW
+=======
+sug
+>>>>>>> Stashed changes
 lPN
 lor
 yfa
@@ -103248,6 +105886,7 @@ cZu
 cZu
 sqC
 hTW
+<<<<<<< Updated upstream
 nbK
 ohv
 yhR
@@ -103256,6 +105895,9 @@ yhR
 yhR
 yhR
 yhR
+=======
+sNR
+>>>>>>> Stashed changes
 yhR
 yhR
 yhR
@@ -103533,12 +106175,28 @@ uVv
 fHN
 aGf
 oNz
+<<<<<<< Updated upstream
 bxs
 pxz
 dIT
 dIT
 mfS
 uVv
+=======
+beH
+qrv
+beH
+beH
+beH
+beH
+wsX
+beH
+beH
+beH
+beH
+beH
+xLy
+>>>>>>> Stashed changes
 qSn
 lTM
 eHY
@@ -103550,6 +106208,7 @@ eHY
 eHY
 bxZ
 xLy
+<<<<<<< Updated upstream
 ohv
 ohv
 yhR
@@ -103560,6 +106219,11 @@ yhR
 yhR
 yhR
 yhR
+=======
+mSk
+ohv
+ohv
+>>>>>>> Stashed changes
 yhR
 yhR
 oEb
@@ -103841,6 +106505,7 @@ lGX
 lGX
 gbm
 uVv
+<<<<<<< Updated upstream
 rhU
 hTW
 gVI
@@ -103848,10 +106513,43 @@ hTW
 liJ
 hTW
 fAK
+=======
+uVv
+quG
+dGq
+dGq
+dGq
+dGq
+dGq
+dIT
+dIT
+vkW
+dGq
+aqG
+dGq
+dGq
+dGq
+dGq
+aqG
+qrv
+aSA
+aSA
+aSA
+aSA
+iRs
+qSn
+lTM
+eHY
+fHU
+eHY
+jFG
+>>>>>>> Stashed changes
 eHY
 eHY
+fHU
 eHY
 xLy
+<<<<<<< Updated upstream
 ohv
 ohv
 yhR
@@ -103861,6 +106559,10 @@ oEb
 oEb
 yhR
 yhR
+=======
+mSk
+ohv
+>>>>>>> Stashed changes
 yhR
 yhR
 yhR
@@ -104138,6 +106840,7 @@ nNC
 aGf
 veX
 pop
+<<<<<<< Updated upstream
 gXb
 hPf
 lGX
@@ -104148,12 +106851,33 @@ ofQ
 ofQ
 ofQ
 ofQ
+=======
+aSA
+pop
+pop
+pop
+pop
+aSA
+beH
+qpN
+beH
+beH
+beH
+hTW
+rhU
+hTW
+gVI
+hTW
+liJ
+hTW
+>>>>>>> Stashed changes
 hTW
 hIv
 rej
 hTW
 hTW
 hTW
+<<<<<<< Updated upstream
 nbK
 ohv
 yhR
@@ -104162,6 +106886,9 @@ yhR
 yhR
 oEb
 oEb
+=======
+sNR
+>>>>>>> Stashed changes
 yhR
 yhR
 yhR
@@ -104439,6 +107166,7 @@ odp
 ygM
 ygM
 wyY
+<<<<<<< Updated upstream
 rZI
 nfd
 sBD
@@ -104455,6 +107183,26 @@ eHY
 eHY
 eHY
 joW
+=======
+beH
+qrv
+beH
+beH
+beH
+beH
+wsX
+beH
+qpN
+beH
+beH
+beH
+hTW
+qWo
+ofQ
+ofQ
+ofQ
+ofQ
+>>>>>>> Stashed changes
 hTW
 yhR
 yhR
@@ -105041,6 +107789,7 @@ pcg
 loq
 beH
 ckn
+<<<<<<< Updated upstream
 beH
 uVv
 uVv
@@ -105067,6 +107816,34 @@ yhR
 yhR
 yhR
 yhR
+=======
+ujj
+woS
+woS
+kVp
+woS
+woS
+woS
+woS
+tJB
+qdV
+qdV
+upF
+wvA
+wvA
+qui
+aiA
+aiA
+gho
+gho
+gho
+oEb
+oEb
+oEb
+oEb
+oEb
+oEb
+>>>>>>> Stashed changes
 yhR
 yhR
 yhR
@@ -105317,6 +108094,55 @@ yhR
 yhR
 yhR
 yhR
+<<<<<<< Updated upstream
+=======
+yhR
+yhR
+yhR
+fJY
+qhz
+tid
+nGh
+eVf
+ueC
+ueC
+ueC
+hmF
+jgz
+hwA
+sjp
+dza
+nfd
+cKw
+lGX
+xmd
+woS
+hEs
+jnJ
+pcg
+pcg
+inH
+pcg
+pmS
+axF
+iSH
+oCO
+nhg
+nhg
+lUc
+vxp
+vyu
+vyu
+dum
+phC
+mRZ
+wvA
+aiA
+aiA
+yhR
+yhR
+yhR
+>>>>>>> Stashed changes
 oEb
 yhR
 yhR
@@ -105645,6 +108471,7 @@ fJY
 fJY
 fJY
 ueC
+<<<<<<< Updated upstream
 ueC
 ueC
 ueC
@@ -105652,6 +108479,31 @@ ueC
 ueC
 ueC
 ueC
+=======
+hmF
+hmF
+jgz
+gbm
+uVv
+fId
+qrv
+beH
+beH
+jsV
+woS
+bCQ
+cea
+cea
+cea
+cea
+tdC
+cea
+wix
+cea
+aYb
+aYb
+pNK
+>>>>>>> Stashed changes
 tqN
 ycc
 hig
@@ -105921,6 +108773,50 @@ yhR
 oEb
 yhR
 oEb
+<<<<<<< Updated upstream
+=======
+oEb
+oEb
+nlw
+fJY
+fJY
+fJY
+fJY
+lCA
+gls
+jgz
+jgz
+jgz
+jgz
+fWs
+uVv
+xmd
+gAb
+aDy
+aDy
+xmd
+woS
+bna
+gqZ
+hsU
+iGM
+pcg
+aYu
+aYu
+kZC
+pcg
+pcg
+pcg
+cea
+rgg
+vlM
+hig
+hig
+vlM
+iPM
+vlM
+wvA
+>>>>>>> Stashed changes
 yhR
 yhR
 oEb
@@ -106223,10 +109119,54 @@ yhR
 yhR
 oEb
 oEb
+<<<<<<< Updated upstream
 yhR
 yhR
 yhR
 yhR
+=======
+oEb
+oEb
+fJY
+daZ
+oZF
+hIv
+oZF
+dnT
+eVf
+ciN
+dDY
+dDY
+kqf
+sJq
+uVv
+pag
+nfd
+beH
+beH
+bwP
+woS
+iCz
+pcg
+pcg
+pcg
+pcg
+aYu
+aYu
+kZC
+kZC
+kZC
+aYu
+qCp
+rOa
+vlM
+hig
+hig
+dpa
+iPM
+dpa
+wvA
+>>>>>>> Stashed changes
 yhR
 oEb
 yhR
@@ -107433,6 +110373,7 @@ oEb
 oEb
 yhR
 yhR
+<<<<<<< Updated upstream
 yhR
 yhR
 yhR
@@ -107452,6 +110393,48 @@ yhR
 oEb
 oEb
 oEb
+=======
+fJY
+dwB
+sMi
+nzE
+fDr
+eYa
+eVf
+aIj
+vXu
+pSA
+mkj
+vUO
+sjp
+ced
+bcD
+cIr
+beH
+jNz
+woS
+pMe
+wnm
+ntq
+gBV
+bna
+mNI
+tdC
+eao
+gBV
+rID
+rcU
+vZG
+woS
+sDP
+hig
+fAK
+dpa
+iPM
+dpa
+yeV
+bgK
+>>>>>>> Stashed changes
 yhR
 yhR
 yhR

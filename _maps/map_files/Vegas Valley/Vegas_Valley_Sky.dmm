@@ -1348,6 +1348,10 @@
 	name = "dirty floor"
 	},
 /area/f13/building/powered)
+"dT" = (
+/obj/structure/destructible/tribal_torch/wall/lit,
+/turf/open/floor/wood_fancy/wood_fancy_dark,
+/area/f13/brotherhood)
 "dU" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/blood{
@@ -1884,9 +1888,18 @@
 /turf/open/floor/wood_wide,
 /area/f13/legioncamp)
 "fx" = (
+<<<<<<< Updated upstream
 /obj/structure/debris/v4,
 /turf/open/indestructible/ground/outside/ruins,
 /area/f13/building/powered)
+=======
+/obj/structure/destructible/tribal_torch/wall/lit{
+	dir = 1;
+	pixel_y = 12
+	},
+/turf/open/floor/wood_fancy/wood_fancy_dark,
+/area/f13/brotherhood)
+>>>>>>> Stashed changes
 "fy" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/chair/wood{
@@ -3140,6 +3153,13 @@
 	name = "dirty floor"
 	},
 /area/f13/building/powered)
+<<<<<<< Updated upstream
+=======
+"jr" = (
+/obj/effect/decal/fakelattice,
+/turf/open/transparent/openspace,
+/area/f13/wasteland)
+>>>>>>> Stashed changes
 "js" = (
 /obj/structure/window/fulltile/store{
 	icon_state = "storewindowbottom"
@@ -8338,6 +8358,7 @@
 /turf/open/floor/carpet/royalblue,
 /area/f13/building/powered)
 "yD" = (
+<<<<<<< Updated upstream
 /obj/structure/junk/small/bed2,
 /turf/open/floor/f13{
 	color = "#ffe9de";
@@ -8345,6 +8366,14 @@
 	name = "dirty floor"
 	},
 /area/f13/brotherhood/offices1st)
+=======
+/obj/structure/table/wood,
+/obj/structure/destructible/tribal_torch/wall/lit{
+	dir = 8
+	},
+/turf/open/floor/wood_fancy/wood_fancy_dark,
+/area/f13/brotherhood)
+>>>>>>> Stashed changes
 "yE" = (
 /obj/structure/chair/f13chair1{
 	dir = 8
@@ -9076,6 +9105,12 @@
 /obj/structure/table/wood/settler,
 /turf/open/floor/f13/wood,
 /area/f13/ambientlighting/building/g)
+"AJ" = (
+/obj/structure/destructible/tribal_torch/wall/lit{
+	dir = 4
+	},
+/turf/open/floor/wood_fancy/wood_fancy_dark,
+/area/f13/brotherhood)
 "AK" = (
 /turf/open/floor/wood_wide,
 /area/f13/legioncamp)
@@ -10635,6 +10670,7 @@
 /turf/open/floor/wood_fancy,
 /area/f13/clinic)
 "Fn" = (
+<<<<<<< Updated upstream
 /obj/structure/junk/locker,
 /turf/open/floor/f13{
 	color = "#ffe9de";
@@ -10642,6 +10678,13 @@
 	name = "dirty floor"
 	},
 /area/f13/brotherhood/offices1st)
+=======
+/obj/structure/destructible/tribal_torch/wall/lit{
+	dir = 8
+	},
+/turf/open/floor/wood_fancy/wood_fancy_dark,
+/area/f13/brotherhood)
+>>>>>>> Stashed changes
 "Fo" = (
 /obj/effect/decal/cleanable/blood,
 /obj/effect/decal/cleanable/dirt,
@@ -11185,6 +11228,10 @@
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/carpet/red,
 /area/f13/building/powered)
+"GN" = (
+/obj/effect/decal/fakelattice,
+/turf/open/floor/plating/f13/outside/roof/metal/verdigris,
+/area/f13/wasteland)
 "GO" = (
 /obj/effect/decal/cleanable/greenglow,
 /obj/effect/decal/remains/human,
@@ -12244,9 +12291,17 @@
 /obj/effect/decal/cleanable/dirt{
 	color = "000000"
 	},
+<<<<<<< Updated upstream
 /obj/structure/table/wood,
 /turf/open/floor/carpet/black,
 /area/f13/brotherhood/offices1st)
+=======
+/obj/machinery/light{
+	pixel_x = 16
+	},
+/turf/open/floor/wood_common,
+/area/f13/brotherhood)
+>>>>>>> Stashed changes
 "JU" = (
 /obj/structure/debris/v4,
 /turf/open/floor/f13{
@@ -15525,6 +15580,7 @@
 	name = "dirty floor"
 	},
 /area/f13/building/powered)
+<<<<<<< Updated upstream
 "TC" = (
 /obj/machinery/light{
 	bulb_colour = "#BC8F8F";
@@ -15538,6 +15594,17 @@
 	name = "dirty floor"
 	},
 /area/f13/brotherhood/offices1st)
+=======
+"TD" = (
+/obj/structure/table/wood,
+/obj/effect/spawner/lootdrop/f13/foodspawner,
+/obj/machinery/light{
+	dir = 1;
+	pixel_x = -16
+	},
+/turf/open/floor/wood_common,
+/area/f13/brotherhood)
+>>>>>>> Stashed changes
 "TF" = (
 /obj/structure/table_frame,
 /obj/effect/decal/cleanable/dirt,
@@ -17037,6 +17104,10 @@
 	icon_state = "bluedirtychess2"
 	},
 /area/f13/building/powered)
+"Yd" = (
+/obj/effect/decal/fakelattice,
+/turf/open/floor/plating/f13/outside/roof/metal,
+/area/f13/wasteland)
 "Ye" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/spawner/structure/window/reinforced/tinted/electrochromatic,
@@ -51267,7 +51338,7 @@ Zt
 Zt
 Zt
 Zt
-xm
+Bs
 Zt
 Zt
 Zt
@@ -51567,10 +51638,10 @@ Zt
 Zt
 Zt
 Zt
-xm
-xm
-xm
-xm
+jr
+Bs
+Bs
+GN
 Zt
 xm
 Zt
@@ -51868,12 +51939,12 @@ Zt
 Zt
 Zt
 Zt
-xm
-xm
-xm
-xm
-xm
-xm
+Bs
+Bs
+Bs
+jr
+GN
+GN
 xm
 xm
 xm
@@ -52169,24 +52240,24 @@ Zt
 Zt
 Zt
 Zt
+GN
+Bs
+Bs
+jr
+xm
+jr
+Bs
 xm
 xm
 xm
 xm
-xm
-xm
-xm
-xm
-xm
-xm
-xm
-xm
-xm
-xm
-xm
-xm
-xm
-xm
+lw
+lw
+lw
+Yd
+lw
+jr
+jr
 xm
 xm
 xm
@@ -52470,25 +52541,25 @@ Zt
 Zt
 Zt
 Zt
+jr
+Bs
+jr
+jr
+xm
+xm
+jr
+GN
 xm
 xm
 xm
 xm
-xm
-xm
-xm
-xm
-xm
-xm
-xm
-xm
-xm
-xm
-xm
-xm
-xm
-xm
-xm
+lw
+lw
+Yd
+jr
+lw
+lw
+lw
 xm
 xm
 xm
@@ -52784,13 +52855,13 @@ xm
 xm
 xm
 xm
-xm
-xm
-xm
-xm
-xm
-xm
-xm
+lw
+lw
+lw
+Yd
+lw
+lw
+lw
 xm
 xm
 xm
@@ -53086,13 +53157,13 @@ xm
 xm
 xm
 xm
-xm
-xm
-xm
-xm
-xm
-xm
-xm
+lw
+lw
+jr
+lw
+lw
+jr
+jr
 xm
 xm
 xm
@@ -53388,12 +53459,23 @@ xm
 xm
 xm
 xm
+<<<<<<< Updated upstream
+=======
+lw
+lw
+jr
+Yd
+lw
+Yd
+lw
+>>>>>>> Stashed changes
 xm
 xm
 xm
 xm
 xm
 xm
+<<<<<<< Updated upstream
 Bs
 Bs
 Bs
@@ -53401,6 +53483,8 @@ kO
 Bs
 Bs
 Bs
+=======
+>>>>>>> Stashed changes
 xm
 xm
 xm
@@ -53690,6 +53774,7 @@ xm
 xm
 xm
 xm
+<<<<<<< Updated upstream
 xm
 xm
 xm
@@ -53700,6 +53785,15 @@ Bs
 Bs
 kO
 xm
+=======
+lw
+lw
+Yd
+jr
+lw
+lw
+Yd
+>>>>>>> Stashed changes
 xm
 xm
 Bs
@@ -53992,6 +54086,7 @@ xm
 xm
 xm
 xm
+<<<<<<< Updated upstream
 xm
 xm
 xm
@@ -54002,6 +54097,15 @@ Bs
 Bs
 Bs
 xm
+=======
+lw
+lw
+lw
+lw
+lw
+Yd
+jr
+>>>>>>> Stashed changes
 xm
 kO
 Bs
@@ -54294,6 +54398,7 @@ xm
 xm
 xm
 xm
+<<<<<<< Updated upstream
 xm
 xm
 xm
@@ -54304,6 +54409,15 @@ Bs
 Bs
 Bs
 xm
+=======
+lw
+lw
+lw
+lw
+lw
+lw
+Yd
+>>>>>>> Stashed changes
 xm
 xm
 kO
@@ -54607,8 +54721,24 @@ Bs
 xm
 xm
 xm
+<<<<<<< Updated upstream
 Bs
 Bs
+=======
+lw
+lw
+lw
+lw
+lw
+lw
+Yd
+xm
+xm
+xm
+xm
+xm
+xm
+>>>>>>> Stashed changes
 xm
 xm
 xm
@@ -54904,6 +55034,7 @@ Bs
 xm
 xm
 xm
+<<<<<<< Updated upstream
 Bs
 xm
 xm
@@ -54911,6 +55042,21 @@ xm
 kO
 kO
 Bs
+=======
+lw
+lw
+lw
+Yd
+jr
+lw
+lw
+xm
+xm
+xm
+xm
+xm
+xm
+>>>>>>> Stashed changes
 xm
 xm
 xm
@@ -55205,12 +55351,25 @@ xm
 Bs
 kO
 xm
+<<<<<<< Updated upstream
+=======
+lw
+lw
+lw
+jr
+jr
+lw
+lw
+>>>>>>> Stashed changes
 xm
 xm
 xm
 xm
+<<<<<<< Updated upstream
 xm
 Bs
+=======
+>>>>>>> Stashed changes
 xm
 xm
 xm
@@ -55485,6 +55644,14 @@ xm
 xm
 xm
 xm
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
 xm
 xm
 xm
@@ -55494,6 +55661,7 @@ xm
 xm
 xm
 xm
+<<<<<<< Updated upstream
 xm
 xm
 xm
@@ -55514,6 +55682,20 @@ Bs
 xm
 Bs
 Bs
+=======
+lw
+lw
+lw
+jr
+jr
+jr
+lw
+xm
+xm
+xm
+xm
+xm
+>>>>>>> Stashed changes
 xm
 xm
 xm
@@ -55785,6 +55967,16 @@ Zt
 xm
 xm
 xm
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
 xm
 xm
 xm
@@ -55794,11 +55986,22 @@ xm
 xm
 xm
 xm
+<<<<<<< Updated upstream
+=======
+lw
+lw
+lw
+lw
+jr
+Yd
+lw
+>>>>>>> Stashed changes
 xm
 xm
 xm
 xm
 xm
+<<<<<<< Updated upstream
 Bs
 xm
 Bs
@@ -55817,6 +56020,9 @@ xm
 xm
 Bs
 Bs
+=======
+xm
+>>>>>>> Stashed changes
 xm
 xm
 xm
@@ -56087,6 +56293,16 @@ Zt
 xm
 xm
 xm
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
 xm
 xm
 xm
@@ -56096,11 +56312,22 @@ xm
 xm
 xm
 xm
+<<<<<<< Updated upstream
+=======
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+>>>>>>> Stashed changes
 xm
 xm
 xm
 xm
 xm
+<<<<<<< Updated upstream
 kO
 xm
 kO
@@ -56119,6 +56346,9 @@ xm
 Bs
 Bs
 Bs
+=======
+xm
+>>>>>>> Stashed changes
 xm
 xm
 xm
@@ -56389,6 +56619,16 @@ Zt
 Zt
 xm
 xm
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
 xm
 xm
 xm
@@ -56398,6 +56638,7 @@ xm
 xm
 xm
 xm
+<<<<<<< Updated upstream
 xm
 xm
 xm
@@ -56415,6 +56656,15 @@ Bs
 Bs
 xm
 xm
+=======
+lw
+lw
+lw
+lw
+lw
+lw
+Yd
+>>>>>>> Stashed changes
 xm
 xm
 xm
@@ -56691,6 +56941,16 @@ Zt
 Zt
 xm
 xm
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
 xm
 xm
 xm
@@ -56700,23 +56960,13 @@ xm
 xm
 xm
 xm
-xm
-xm
-xm
-xm
-xm
-xm
-xm
-xm
-xm
-xm
-xm
-xm
-xm
-xm
-xm
-xm
-xm
+lw
+lw
+lw
+lw
+Yd
+lw
+Yd
 xm
 xm
 xm
@@ -56993,6 +57243,16 @@ Zt
 xm
 xm
 xm
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
 xm
 xm
 xm
@@ -57005,21 +57265,11 @@ xm
 xm
 xm
 xm
-xm
-xm
-xm
-xm
-xm
-xm
-xm
-xm
-xm
-xm
-xm
-xm
-xm
-xm
-xm
+jr
+jr
+lw
+Yd
+lw
 xm
 xm
 xm
@@ -57295,6 +57545,21 @@ Zt
 xm
 xm
 xm
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+zi
+zi
+zi
+zi
+zi
 xm
 xm
 xm
@@ -57302,6 +57567,7 @@ xm
 xm
 xm
 xm
+<<<<<<< Updated upstream
 xm
 xm
 pm
@@ -57314,6 +57580,13 @@ Yj
 Yj
 Yj
 eK
+=======
+lw
+jr
+jr
+jr
+Yd
+>>>>>>> Stashed changes
 xm
 xm
 xm
@@ -57324,6 +57597,7 @@ xm
 xm
 xm
 xm
+<<<<<<< Updated upstream
 xm
 xm
 xm
@@ -57332,6 +57606,8 @@ tQ
 sP
 bb
 cn
+=======
+>>>>>>> Stashed changes
 xm
 xm
 xm
@@ -57577,9 +57853,9 @@ xm
 xm
 xm
 xm
-xm
-xm
-xm
+jr
+Yd
+lw
 Zt
 Zt
 Zt
@@ -57596,6 +57872,22 @@ xm
 xm
 xm
 xm
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+zi
+zi
+zi
+zi
+zi
 xm
 Bs
 Bs
@@ -57629,11 +57921,29 @@ xm
 xm
 xm
 xm
+<<<<<<< Updated upstream
 TV
 sP
 cn
 tQ
 bb
+=======
+Yd
+lw
+lw
+jr
+jr
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+>>>>>>> Stashed changes
 xm
 xm
 xm
@@ -57877,10 +58187,10 @@ xm
 xm
 xm
 xm
+jr
 xm
 xm
-xm
-xm
+Yd
 Zt
 Zt
 Zt
@@ -57892,6 +58202,28 @@ Zt
 Zt
 Zt
 Zt
+lw
+xm
+xm
+xm
+xm
+xm
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+zi
+zi
+zi
+zi
+zi
 xm
 xm
 xm
@@ -57899,6 +58231,7 @@ xm
 xm
 xm
 xm
+<<<<<<< Updated upstream
 Bs
 Bs
 Bs
@@ -57925,17 +58258,31 @@ uR
 uR
 tJ
 eT
+=======
+jr
+Yd
+lw
+Yd
+jr
+xm
+xm
+xm
+xm
+>>>>>>> Stashed changes
 xm
 xm
 xm
 xm
 xm
 xm
+<<<<<<< Updated upstream
 BS
 tK
 wj
 sP
 fx
+=======
+>>>>>>> Stashed changes
 xm
 xm
 xm
@@ -58179,20 +58526,43 @@ xm
 xm
 xm
 xm
+Yd
+lw
+Yd
+Zt
+Zt
+Zt
+Zt
+Zt
+Zt
+Zt
+Zt
+Zt
+Zt
+Zt
+lw
+lw
 xm
 xm
 xm
-Zt
-Zt
-Zt
-Zt
-Zt
-Zt
-Zt
-Zt
-Zt
-Zt
-Zt
+xm
+xm
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+zi
+zi
+zi
+zi
+zi
 xm
 xm
 xm
@@ -58200,6 +58570,7 @@ xm
 xm
 xm
 xm
+<<<<<<< Updated upstream
 xm
 Bs
 Bs
@@ -58227,17 +58598,31 @@ Ab
 Ab
 Ab
 eT
+=======
+jr
+jr
+Yd
+lw
+Yd
+xm
+xm
+xm
+xm
+>>>>>>> Stashed changes
 xm
 xm
 xm
 xm
 xm
 xm
+<<<<<<< Updated upstream
 BS
 rc
 cn
 BS
 BS
+=======
+>>>>>>> Stashed changes
 xm
 xm
 xm
@@ -58482,8 +58867,8 @@ xm
 xm
 xm
 xm
-xm
-xm
+lw
+lw
 Zt
 Zt
 Zt
@@ -58494,20 +58879,27 @@ Zt
 Zt
 Zt
 Zt
+Yd
+lw
+jr
 xm
 xm
 xm
 xm
 xm
+<<<<<<< Updated upstream
 xm
 xm
 xm
 xm
+=======
+>>>>>>> Stashed changes
 Bs
 Bs
 Bs
 Bs
 Bs
+<<<<<<< Updated upstream
 xm
 xm
 xm
@@ -58529,6 +58921,18 @@ pU
 Ab
 au
 Pq
+=======
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+zi
+zi
+zi
+zi
+zi
 xm
 xm
 xm
@@ -58537,8 +58941,25 @@ xm
 xm
 xm
 xm
+xm
+xm
+xm
+xm
+xm
+>>>>>>> Stashed changes
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+<<<<<<< Updated upstream
 wT
 dj
+=======
+>>>>>>> Stashed changes
 xm
 xm
 xm
@@ -58784,8 +59205,8 @@ xm
 xm
 xm
 xm
-xm
-xm
+jr
+Yd
 Zt
 Zt
 Zt
@@ -58796,20 +59217,27 @@ Zt
 Zt
 Zt
 Zt
+lw
+jr
+lw
 xm
 xm
 xm
 xm
 xm
+<<<<<<< Updated upstream
 xm
 xm
 xm
 xm
+=======
+>>>>>>> Stashed changes
 Bs
 Bs
 Bs
 Bs
 Bs
+<<<<<<< Updated upstream
 xm
 xm
 xm
@@ -58831,6 +59259,18 @@ Fw
 Ab
 au
 Pq
+=======
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+zi
+zi
+zi
+zi
+zi
 xm
 xm
 xm
@@ -58839,8 +59279,25 @@ xm
 xm
 xm
 xm
+xm
+xm
+xm
+xm
+xm
+>>>>>>> Stashed changes
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+<<<<<<< Updated upstream
 kO
 wT
+=======
+>>>>>>> Stashed changes
 xm
 xm
 xm
@@ -59085,9 +59542,9 @@ xm
 xm
 xm
 xm
-xm
-xm
-xm
+lw
+Yd
+Yd
 Zt
 Zt
 Zt
@@ -59097,21 +59554,29 @@ Zt
 Zt
 Zt
 Zt
+lw
+lw
+lw
+lw
 xm
 xm
 xm
 xm
 xm
+<<<<<<< Updated upstream
 xm
 xm
 xm
 xm
 xm
+=======
+>>>>>>> Stashed changes
 Bs
 Bs
 Bs
 Bs
 Bs
+<<<<<<< Updated upstream
 xm
 xm
 xm
@@ -59133,6 +59598,18 @@ yZ
 Ab
 TP
 Pq
+=======
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+zi
+zi
+zi
+zi
+zi
 xm
 xm
 xm
@@ -59142,7 +59619,23 @@ xm
 xm
 xm
 xm
+xm
+xm
+xm
+>>>>>>> Stashed changes
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+<<<<<<< Updated upstream
 kO
+=======
+>>>>>>> Stashed changes
 xm
 xm
 xm
@@ -59408,12 +59901,16 @@ xm
 xm
 xm
 xm
+<<<<<<< Updated upstream
 xm
+=======
+>>>>>>> Stashed changes
 Bs
 Bs
 Bs
 Bs
 Bs
+<<<<<<< Updated upstream
 xm
 xm
 xm
@@ -59435,6 +59932,30 @@ Ab
 Ab
 Ab
 eT
+=======
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+zi
+zi
+zi
+zi
+zi
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+>>>>>>> Stashed changes
 xm
 xm
 xm
@@ -59710,12 +60231,16 @@ xm
 xm
 xm
 xm
+<<<<<<< Updated upstream
 xm
+=======
+>>>>>>> Stashed changes
 Bs
 Bs
 Bs
 Bs
 Bs
+<<<<<<< Updated upstream
 xm
 xm
 xm
@@ -59737,6 +60262,18 @@ Ab
 Ab
 Ab
 eT
+=======
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+zi
+zi
+zi
+zi
+zi
 xm
 xm
 xm
@@ -59745,7 +60282,23 @@ xm
 xm
 xm
 xm
+xm
+xm
+xm
+xm
+>>>>>>> Stashed changes
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+<<<<<<< Updated upstream
 kO
+=======
+>>>>>>> Stashed changes
 xm
 xm
 xm
@@ -60012,6 +60565,22 @@ xm
 xm
 xm
 xm
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+zi
+zi
+zi
+zi
+zi
 xm
 Bs
 Bs
@@ -60024,6 +60593,7 @@ xm
 xm
 xm
 xm
+<<<<<<< Updated upstream
 xm
 xm
 xm
@@ -60039,17 +60609,31 @@ Ab
 Ab
 tF
 eT
+=======
+lw
+Yd
+lw
+Yd
+Yd
+xm
+xm
+xm
+xm
+>>>>>>> Stashed changes
 xm
 xm
 xm
 xm
 xm
 xm
+<<<<<<< Updated upstream
 eT
 eT
 eT
 eT
 eT
+=======
+>>>>>>> Stashed changes
 xm
 xm
 xm
@@ -60314,6 +60898,22 @@ xm
 xm
 xm
 xm
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+zi
+zi
+zi
+zi
+zi
 xm
 Bs
 Bs
@@ -60326,6 +60926,7 @@ xm
 xm
 xm
 xm
+<<<<<<< Updated upstream
 xm
 xm
 xm
@@ -60341,17 +60942,31 @@ Ab
 DW
 Hj
 eT
+=======
+lw
+Yd
+lw
+lw
+Yd
+xm
+xm
+xm
+xm
+>>>>>>> Stashed changes
 xm
 xm
 xm
 xm
 xm
 xm
+<<<<<<< Updated upstream
 eT
 mu
 mu
 cx
 eT
+=======
+>>>>>>> Stashed changes
 xm
 xm
 xm
@@ -60616,6 +61231,17 @@ xm
 xm
 xm
 xm
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
 xm
 Bs
 Bs
@@ -60633,6 +61259,7 @@ xm
 xm
 xm
 xm
+<<<<<<< Updated upstream
 Pq
 uR
 kV
@@ -60643,17 +61270,31 @@ Ab
 DW
 Hj
 eT
+=======
+lw
+lw
+lw
+lw
+lw
+xm
+xm
+xm
+xm
+>>>>>>> Stashed changes
 xm
 xm
 xm
 xm
 xm
 xm
+<<<<<<< Updated upstream
 eT
 Fc
 Yg
 yr
 eT
+=======
+>>>>>>> Stashed changes
 xm
 xm
 xm
@@ -60917,6 +61558,23 @@ xm
 xm
 xm
 xm
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+xm
+lw
+lw
+lw
+lw
 xm
 xm
 Bs
@@ -60929,12 +61587,21 @@ xm
 xm
 xm
 xm
+<<<<<<< Updated upstream
+=======
+lw
+lw
+Yd
+Yd
+lw
+>>>>>>> Stashed changes
 xm
 xm
 xm
 xm
 xm
 xm
+<<<<<<< Updated upstream
 Pq
 YB
 rG
@@ -60945,10 +61612,13 @@ rG
 rG
 rG
 eT
+=======
+>>>>>>> Stashed changes
 xm
 xm
 xm
 xm
+<<<<<<< Updated upstream
 xm
 xm
 kH
@@ -60956,6 +61626,8 @@ AE
 AE
 AE
 kH
+=======
+>>>>>>> Stashed changes
 xm
 xm
 xm
@@ -61219,6 +61891,23 @@ xm
 xm
 xm
 xm
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+xm
+lw
+lw
+lw
+lw
 xm
 xm
 Bs
@@ -61231,12 +61920,21 @@ xm
 xm
 xm
 xm
+<<<<<<< Updated upstream
+=======
+lw
+lw
+lw
+lw
+lw
+>>>>>>> Stashed changes
 xm
 xm
 xm
 xm
 xm
 xm
+<<<<<<< Updated upstream
 Pq
 uR
 Ee
@@ -61247,10 +61945,13 @@ Ab
 YZ
 tN
 Pq
+=======
+>>>>>>> Stashed changes
 xm
 xm
 xm
 xm
+<<<<<<< Updated upstream
 xm
 xm
 kH
@@ -61258,6 +61959,8 @@ AE
 AE
 AE
 kH
+=======
+>>>>>>> Stashed changes
 xm
 xm
 xm
@@ -61521,6 +62224,23 @@ xm
 xm
 xm
 xm
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+xm
+lw
+lw
+lw
+lw
 xm
 xm
 Bs
@@ -61533,12 +62253,21 @@ xm
 xm
 xm
 xm
+<<<<<<< Updated upstream
+=======
+Yd
+Yd
+lw
+lw
+Yd
+>>>>>>> Stashed changes
 xm
 xm
 xm
 xm
 xm
 xm
+<<<<<<< Updated upstream
 eT
 CG
 Ab
@@ -61549,10 +62278,13 @@ Ab
 Ud
 Px
 Pq
+=======
+>>>>>>> Stashed changes
 xm
 xm
 xm
 xm
+<<<<<<< Updated upstream
 xm
 xm
 je
@@ -61560,6 +62292,8 @@ AE
 Yg
 AE
 kH
+=======
+>>>>>>> Stashed changes
 xm
 xm
 xm
@@ -61823,7 +62557,20 @@ xm
 xm
 xm
 xm
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
 xm
+<<<<<<< Updated upstream
 xm
 Bs
 Bs
@@ -61851,17 +62598,42 @@ Ab
 Ab
 Xk
 Pq
+=======
+lw
+lw
+lw
+lw
 xm
 xm
 xm
 xm
 xm
 xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+>>>>>>> Stashed changes
+xm
+xm
+xm
+xm
+xm
+xm
+<<<<<<< Updated upstream
 eT
 AE
 AE
 Gy
 eT
+=======
+>>>>>>> Stashed changes
 xm
 xm
 xm
@@ -62125,7 +62897,20 @@ xm
 xm
 xm
 xm
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
 xm
+<<<<<<< Updated upstream
 xm
 Bs
 Bs
@@ -62153,17 +62938,42 @@ Ab
 Ab
 at
 fH
+=======
+lw
+lw
+lw
+lw
 xm
 xm
 xm
 xm
 xm
 xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+>>>>>>> Stashed changes
+xm
+xm
+xm
+xm
+xm
+xm
+<<<<<<< Updated upstream
 eT
 vX
 eT
 eT
 eT
+=======
+>>>>>>> Stashed changes
 xm
 xm
 xm
@@ -62427,7 +63237,20 @@ xm
 xm
 xm
 xm
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
 xm
+<<<<<<< Updated upstream
 xm
 Bs
 Bs
@@ -62455,17 +63278,42 @@ Ab
 hZ
 IX
 eT
+=======
+lw
+lw
+lw
+lw
 xm
 xm
 xm
 xm
 xm
 xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+>>>>>>> Stashed changes
+xm
+xm
+xm
+xm
+xm
+xm
+<<<<<<< Updated upstream
 eT
 Bj
 eT
 ow
 eT
+=======
+>>>>>>> Stashed changes
 xm
 xm
 xm
@@ -62729,7 +63577,20 @@ xm
 xm
 xm
 xm
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
 xm
+<<<<<<< Updated upstream
 xm
 Bs
 Bs
@@ -62757,17 +63618,42 @@ uR
 uR
 my
 eT
+=======
+lw
+lw
+lw
+lw
 xm
 xm
 xm
 xm
 xm
 xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+>>>>>>> Stashed changes
+xm
+xm
+xm
+xm
+xm
+xm
+<<<<<<< Updated upstream
 OI
 AE
 NT
 Sr
 eT
+=======
+>>>>>>> Stashed changes
 xm
 xm
 xm
@@ -63031,6 +63917,23 @@ xm
 xm
 xm
 xm
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+xm
+lw
+lw
+lw
+lw
 xm
 xm
 Bs
@@ -63065,11 +63968,28 @@ xm
 xm
 xm
 xm
+<<<<<<< Updated upstream
 OI
 AE
 eT
 eT
 eT
+=======
+xm
+jr
+jr
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+>>>>>>> Stashed changes
 xm
 xm
 xm
@@ -63333,6 +64253,18 @@ xm
 xm
 xm
 xm
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
 xm
 xm
 xm
@@ -63341,7 +64273,12 @@ xm
 xm
 xm
 xm
+lw
+Yd
+lw
+lw
 xm
+<<<<<<< Updated upstream
 Or
 Or
 Bs
@@ -63361,17 +64298,30 @@ Ab
 Ab
 yZ
 fH
+=======
+lw
+lw
+Yd
+jr
+xm
+xm
+xm
+xm
+>>>>>>> Stashed changes
 xm
 xm
 xm
 xm
 xm
 xm
+<<<<<<< Updated upstream
 OI
 AE
 eT
 ow
 eT
+=======
+>>>>>>> Stashed changes
 xm
 xm
 xm
@@ -63635,6 +64585,18 @@ xm
 xm
 xm
 xm
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
 xm
 xm
 xm
@@ -63643,7 +64605,12 @@ xm
 xm
 xm
 xm
+Yd
+jr
+jr
+jr
 xm
+<<<<<<< Updated upstream
 Bs
 Or
 Bs
@@ -63663,17 +64630,30 @@ Ab
 Ab
 Ee
 fH
+=======
+jr
+Yd
 xm
 xm
 xm
 xm
 xm
 xm
+>>>>>>> Stashed changes
+xm
+xm
+xm
+xm
+xm
+xm
+<<<<<<< Updated upstream
 OI
 AE
 NT
 Kv
 eT
+=======
+>>>>>>> Stashed changes
 xm
 xm
 xm
@@ -63930,6 +64910,37 @@ Zt
 Zt
 Zt
 Zt
+lw
+lw
+lw
+xm
+xm
+xm
+xm
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+<<<<<<< Updated upstream
+=======
+lw
+Yd
 xm
 xm
 xm
@@ -63939,6 +64950,7 @@ xm
 xm
 xm
 xm
+>>>>>>> Stashed changes
 xm
 xm
 xm
@@ -63946,6 +64958,8 @@ xm
 xm
 xm
 xm
+xm
+<<<<<<< Updated upstream
 Bs
 Or
 Bs
@@ -63976,6 +64990,8 @@ wA
 eT
 eT
 eT
+=======
+>>>>>>> Stashed changes
 xm
 xm
 xm
@@ -64231,6 +65247,45 @@ Zt
 Zt
 Zt
 Zt
+lw
+lw
+Yd
+lw
+xm
+xm
+xm
+xm
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+Bs
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+<<<<<<< Updated upstream
+=======
+lw
+lw
+lw
+xm
+xm
+xm
+xm
+xm
+>>>>>>> Stashed changes
 xm
 xm
 xm
@@ -64240,14 +65295,7 @@ xm
 xm
 xm
 xm
-xm
-xm
-xm
-xm
-xm
-xm
-xm
-xm
+<<<<<<< Updated upstream
 kO
 Bs
 Bs
@@ -64276,6 +65324,8 @@ au
 au
 au
 eT
+=======
+>>>>>>> Stashed changes
 xm
 xm
 xm
@@ -64534,6 +65584,9 @@ Zt
 Zt
 Zt
 Zt
+lw
+lw
+lw
 xm
 xm
 xm
@@ -64550,6 +65603,7 @@ xm
 xm
 xm
 xm
+<<<<<<< Updated upstream
 Bs
 Bs
 Bs
@@ -64578,6 +65632,33 @@ uw
 au
 au
 eT
+=======
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+lw
+Yd
+jr
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+>>>>>>> Stashed changes
 xm
 xm
 xm
@@ -64835,6 +65916,10 @@ Zt
 Zt
 Zt
 Zt
+lw
+Yd
+lw
+Yd
 xm
 xm
 xm
@@ -64852,6 +65937,7 @@ xm
 xm
 xm
 xm
+<<<<<<< Updated upstream
 kO
 Bs
 Bs
@@ -64880,6 +65966,32 @@ TP
 au
 au
 eT
+=======
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+lw
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+>>>>>>> Stashed changes
 xm
 xm
 xm
@@ -65138,9 +66250,9 @@ Zt
 Zt
 Zt
 Zt
-xm
-xm
-xm
+lw
+lw
+Yd
 xm
 xm
 xm
@@ -65439,8 +66551,10 @@ Zt
 Zt
 Zt
 Zt
-xm
+lw
 Zt
+lw
+Yd
 xm
 xm
 xm
@@ -65456,6 +66570,7 @@ xm
 xm
 xm
 xm
+<<<<<<< Updated upstream
 Bs
 Bs
 Bs
@@ -65484,6 +66599,34 @@ TP
 au
 Fn
 eT
+=======
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+jr
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+>>>>>>> Stashed changes
 xm
 xm
 xm
@@ -65741,6 +66884,10 @@ Zt
 Zt
 Zt
 Zt
+Yd
+lw
+lw
+lw
 xm
 xm
 xm
@@ -65765,6 +66912,7 @@ xm
 xm
 xm
 xm
+<<<<<<< Updated upstream
 xm
 xm
 fH
@@ -65786,6 +66934,25 @@ nZ
 nZ
 eT
 eT
+=======
+Yd
+lw
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+>>>>>>> Stashed changes
 xm
 xm
 xm
@@ -66043,6 +67210,10 @@ Zt
 Zt
 Zt
 Zt
+Yd
+lw
+lw
+lw
 xm
 xm
 xm
@@ -66067,6 +67238,7 @@ xm
 xm
 xm
 xm
+<<<<<<< Updated upstream
 xm
 xm
 fH
@@ -66088,6 +67260,25 @@ TP
 TP
 QY
 eT
+=======
+lw
+Yd
+jr
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+>>>>>>> Stashed changes
 xm
 xm
 xm
@@ -66346,6 +67537,9 @@ Zt
 Zt
 Zt
 Zt
+lw
+lw
+lw
 xm
 xm
 xm
@@ -66370,6 +67564,7 @@ xm
 xm
 xm
 xm
+<<<<<<< Updated upstream
 xm
 xm
 fH
@@ -66390,6 +67585,25 @@ TP
 TP
 pK
 eT
+=======
+Yd
+Yd
+lw
+jr
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+>>>>>>> Stashed changes
 xm
 xm
 xm
@@ -66648,9 +67862,9 @@ Zt
 Zt
 Zt
 Zt
-xm
-xm
-xm
+Yd
+lw
+lw
 xm
 xm
 xm
@@ -66951,8 +68165,8 @@ Zt
 Zt
 Zt
 Zt
-xm
-xm
+Yd
+lw
 xm
 xm
 xm
@@ -66984,6 +68198,7 @@ Sc
 fH
 xm
 xm
+<<<<<<< Updated upstream
 eT
 au
 QS
@@ -66994,6 +68209,24 @@ Ca
 au
 au
 eT
+=======
+kT
+Aw
+AJ
+Aw
+Aw
+Aw
+Aw
+Aw
+Aw
+AJ
+Aw
+mt
+xm
+xm
+xm
+xm
+>>>>>>> Stashed changes
 xm
 xm
 xm
@@ -67253,8 +68486,8 @@ Zt
 Zt
 Zt
 Zt
-xm
-xm
+lw
+lw
 xm
 xm
 xm
@@ -67556,7 +68789,7 @@ Zt
 Zt
 Zt
 Zt
-xm
+lw
 xm
 xm
 xm
@@ -67588,10 +68821,26 @@ wT
 WX
 lC
 xm
+<<<<<<< Updated upstream
 eT
 ak
 au
 PW
+=======
+xm
+xm
+kT
+dT
+bY
+Nz
+sV
+Kv
+Kv
+sV
+vT
+bY
+fx
+>>>>>>> Stashed changes
 mt
 mt
 mt
@@ -67858,7 +69107,7 @@ Zt
 Zt
 Zt
 Zt
-xm
+Yd
 xm
 xm
 xm
@@ -68462,7 +69711,7 @@ Zt
 Zt
 Zt
 Zt
-xm
+Yd
 xm
 xm
 xm
@@ -68764,7 +70013,7 @@ Zt
 Zt
 Zt
 Zt
-xm
+Yd
 xm
 xm
 xm
@@ -69062,8 +70311,8 @@ xm
 xm
 xm
 xm
-xm
-xm
+Yd
+Yd
 Zt
 Zt
 Zt
@@ -69092,6 +70341,21 @@ xm
 xm
 xm
 xm
+<<<<<<< Updated upstream
+=======
+kT
+dT
+bY
+lR
+sV
+sV
+sV
+sV
+CJ
+bY
+fx
+mt
+>>>>>>> Stashed changes
 xm
 xm
 xm
@@ -69364,11 +70628,11 @@ xm
 xm
 xm
 xm
-xm
-xm
-xm
-xm
-xm
+lw
+Yd
+Yd
+lw
+Yd
 xm
 xm
 xm
@@ -69696,6 +70960,7 @@ xm
 xm
 xm
 xm
+<<<<<<< Updated upstream
 xm
 xm
 xm
@@ -69708,6 +70973,20 @@ xm
 xm
 xm
 xm
+=======
+kT
+Aw
+Fn
+Aw
+Aw
+Aw
+Aw
+rG
+Aw
+yD
+Aw
+mt
+>>>>>>> Stashed changes
 xm
 xm
 xm
