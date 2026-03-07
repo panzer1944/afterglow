@@ -43254,14 +43254,9 @@
 	},
 /area/f13/brotherhood)
 "mWO" = (
-<<<<<<< Updated upstream
 /obj/structure/table/wood,
 /turf/open/indestructible/ground/outside/sidewalk{
 	icon_state = "horizontalbottomborderbottom0"
-=======
-/obj/structure/fence{
-	dir = 4
->>>>>>> Stashed changes
 	},
 /area/f13/wasteland)
 "mWS" = (
@@ -122123,7 +122118,6 @@ xsl
 lpg
 foT
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 gXM
 gXM
 gXM
@@ -122140,10 +122134,6 @@ kIN
 kna
 miQ
 hkD
-=======
-ryn
-muA
->>>>>>> Stashed changes
 =======
 ryn
 muA
@@ -122435,7 +122425,6 @@ xsl
 lpg
 tRw
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 wTQ
 jbl
 cBf
@@ -122446,8 +122435,6 @@ fcP
 yeu
 rEi
 =======
-=======
->>>>>>> Stashed changes
 ryn
 sqC
 xAu
@@ -126113,15 +126100,11 @@ dCa
 fCe
 xsl
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 dZk
 pzp
 ban
 fpI
 euA
-=======
-lts
->>>>>>> Stashed changes
 =======
 lts
 >>>>>>> Stashed changes
@@ -127963,7 +127946,6 @@ glB
 glB
 hBb
 aNP
-<<<<<<< Updated upstream
 >>>>>>> Stashed changes
 naK
 woq
@@ -127975,8 +127957,6 @@ hbV
 hbV
 obr
 xAu
-=======
->>>>>>> Stashed changes
 naK
 dsF
 sqC
