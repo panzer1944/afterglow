@@ -1890,13 +1890,10 @@
 "fx" = (
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 /obj/structure/debris/v4,
 /turf/open/indestructible/ground/outside/ruins,
 /area/f13/building/powered)
 =======
-=======
->>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 /obj/structure/destructible/tribal_torch/wall/lit{
@@ -1906,9 +1903,6 @@
 /turf/open/floor/wood_fancy/wood_fancy_dark,
 /area/f13/brotherhood)
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -3172,9 +3166,6 @@
 /turf/open/transparent/openspace,
 /area/f13/wasteland)
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -8378,7 +8369,6 @@
 "yD" = (
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 /obj/structure/junk/small/bed2,
 /turf/open/floor/f13{
 	color = "#ffe9de";
@@ -8389,8 +8379,6 @@
 =======
 =======
 >>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 /obj/structure/table/wood,
 /obj/structure/destructible/tribal_torch/wall/lit{
 	dir = 8
@@ -8398,9 +8386,6 @@
 /turf/open/floor/wood_fancy/wood_fancy_dark,
 /area/f13/brotherhood)
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -10702,7 +10687,6 @@
 "Fn" = (
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 /obj/structure/junk/locker,
 /turf/open/floor/f13{
 	color = "#ffe9de";
@@ -10713,17 +10697,12 @@
 =======
 =======
 >>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 /obj/structure/destructible/tribal_torch/wall/lit{
 	dir = 8
 	},
 /turf/open/floor/wood_fancy/wood_fancy_dark,
 /area/f13/brotherhood)
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -12338,9 +12317,6 @@
 /turf/open/floor/carpet/black,
 /area/f13/brotherhood/offices1st)
 =======
-/obj/machinery/light{
-	pixel_x = 16
-	},
 /obj/machinery/light{
 	pixel_x = 16
 	},
@@ -53509,10 +53485,7 @@ xm
 xm
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 =======
-=======
->>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 lw
@@ -53523,19 +53496,15 @@ lw
 Yd
 lw
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 xm
 xm
 xm
 xm
 xm
 xm
-<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 Bs
@@ -53545,8 +53514,6 @@ kO
 Bs
 Bs
 Bs
-=======
->>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -53842,7 +53809,6 @@ xm
 xm
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 xm
 xm
 xm
@@ -53856,8 +53822,6 @@ xm
 =======
 =======
 >>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 lw
 lw
 Yd
@@ -53866,9 +53830,6 @@ lw
 lw
 Yd
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
 >>>>>>> Stashed changes
 xm
 =======
@@ -54166,7 +54127,6 @@ xm
 xm
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 xm
 xm
 xm
@@ -54178,8 +54138,6 @@ Bs
 Bs
 xm
 =======
-=======
->>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 lw
@@ -54190,9 +54148,6 @@ lw
 Yd
 jr
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -54490,7 +54445,6 @@ xm
 xm
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 xm
 xm
 xm
@@ -54502,8 +54456,6 @@ Bs
 Bs
 xm
 =======
-=======
->>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 lw
@@ -54514,9 +54466,6 @@ lw
 lw
 Yd
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
 >>>>>>> Stashed changes
 xm
 =======
@@ -54826,22 +54775,6 @@ xm
 <<<<<<< Updated upstream
 Bs
 Bs
-=======
-lw
-lw
-lw
-lw
-lw
-lw
-Yd
-xm
-xm
-xm
-<<<<<<< Updated upstream
-xm
-xm
-xm
->>>>>>> Stashed changes
 =======
 lw
 lw
@@ -55203,22 +55136,6 @@ lw
 xm
 xm
 xm
-<<<<<<< Updated upstream
-xm
-xm
-xm
->>>>>>> Stashed changes
-=======
-lw
-lw
-lw
-Yd
-jr
-lw
-lw
-xm
-xm
-xm
 xm
 xm
 xm
@@ -55546,20 +55463,6 @@ jr
 lw
 lw
 xm
-<<<<<<< Updated upstream
-xm
-xm
-xm
->>>>>>> Stashed changes
-=======
-lw
-lw
-lw
-jr
-jr
-lw
-lw
-xm
 xm
 xm
 xm
@@ -55857,7 +55760,6 @@ xm
 xm
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 xm
 xm
 xm
@@ -55881,8 +55783,6 @@ Bs
 =======
 =======
 >>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 lw
 lw
 lw
@@ -55896,9 +55796,6 @@ xm
 xm
 xm
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -56194,10 +56091,7 @@ xm
 xm
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 =======
-=======
->>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 lw
@@ -56208,18 +56102,14 @@ jr
 Yd
 lw
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 xm
 xm
 xm
 xm
 xm
-<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 Bs
@@ -56240,9 +56130,6 @@ xm
 xm
 Bs
 Bs
-=======
-xm
->>>>>>> Stashed changes
 =======
 xm
 >>>>>>> Stashed changes
@@ -56540,10 +56427,7 @@ xm
 xm
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 =======
-=======
->>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 lw
@@ -56554,18 +56438,14 @@ lw
 lw
 lw
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 xm
 xm
 xm
 xm
 xm
-<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 kO
@@ -56586,9 +56466,6 @@ xm
 Bs
 Bs
 Bs
-=======
-xm
->>>>>>> Stashed changes
 =======
 xm
 >>>>>>> Stashed changes
@@ -56886,7 +56763,6 @@ xm
 xm
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 xm
 xm
 xm
@@ -56907,8 +56783,6 @@ xm
 =======
 =======
 >>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 lw
 lw
 lw
@@ -56917,9 +56791,6 @@ lw
 lw
 Yd
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -57534,23 +57405,17 @@ xm
 xm
 xm
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 cn
 fx
 BS
 BS
 AC
 =======
-=======
->>>>>>> Stashed changes
 xm
 xm
 xm
 xm
 xm
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
 >>>>>>> Stashed changes
 xm
 xm
@@ -57833,7 +57698,6 @@ zi
 zi
 zi
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 xm
 xm
 xm
@@ -57884,26 +57748,6 @@ sP
 bb
 cn
 =======
->>>>>>> Stashed changes
-=======
-lw
-jr
-jr
-jr
-Yd
-=======
->>>>>>> Stashed changes
-xm
-xm
-xm
-xm
-xm
-xm
-xm
-<<<<<<< Updated upstream
-xm
-xm
-xm
 >>>>>>> Stashed changes
 =======
 lw
@@ -58203,7 +58047,6 @@ zi
 zi
 zi
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 xm
 Bs
 Bs
@@ -58243,26 +58086,6 @@ sP
 cn
 tQ
 bb
-=======
-Yd
-lw
-lw
-jr
-jr
-=======
->>>>>>> Stashed changes
-xm
-xm
-xm
-xm
-xm
-xm
-xm
-<<<<<<< Updated upstream
-xm
-xm
-xm
->>>>>>> Stashed changes
 =======
 Yd
 lw
@@ -58589,7 +58412,6 @@ xm
 xm
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 Bs
 Bs
 Bs
@@ -58619,8 +58441,6 @@ eT
 =======
 =======
 >>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 jr
 Yd
 lw
@@ -58631,19 +58451,15 @@ xm
 xm
 xm
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 xm
 xm
 xm
 xm
 xm
 xm
-<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 BS
@@ -58651,8 +58467,6 @@ tK
 wj
 sP
 fx
-=======
->>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -58946,7 +58760,6 @@ xm
 xm
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 xm
 Bs
 Bs
@@ -58977,8 +58790,6 @@ eT
 =======
 =======
 >>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 jr
 jr
 Yd
@@ -58989,19 +58800,15 @@ xm
 xm
 xm
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 xm
 xm
 xm
 xm
 xm
 xm
-<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 BS
@@ -59009,8 +58816,6 @@ rc
 cn
 BS
 BS
-=======
->>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -59275,7 +59080,6 @@ Yd
 lw
 jr
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 xm
 xm
 xm
@@ -59358,52 +59162,6 @@ xm
 xm
 xm
 >>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-xm
-xm
-xm
-xm
-xm
-<<<<<<< Updated upstream
-xm
-xm
-xm
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
-Bs
-Bs
-Bs
-Bs
-Bs
-Bs
-Bs
-Bs
-Bs
-Bs
-Bs
-zi
-zi
-zi
-zi
-zi
-xm
-xm
-xm
-xm
-xm
-xm
-xm
-xm
-xm
-xm
-xm
-xm
-xm
->>>>>>> Stashed changes
 xm
 xm
 xm
@@ -59413,12 +59171,21 @@ xm
 xm
 xm
 <<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 wT
 dj
-=======
->>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -59684,7 +59451,6 @@ lw
 jr
 lw
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 xm
 xm
 xm
@@ -59767,52 +59533,6 @@ xm
 xm
 xm
 >>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-xm
-xm
-xm
-xm
-xm
-<<<<<<< Updated upstream
-xm
-xm
-xm
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
-Bs
-Bs
-Bs
-Bs
-Bs
-Bs
-Bs
-Bs
-Bs
-Bs
-Bs
-zi
-zi
-zi
-zi
-zi
-xm
-xm
-xm
-xm
-xm
-xm
-xm
-xm
-xm
-xm
-xm
-xm
-xm
->>>>>>> Stashed changes
 xm
 xm
 xm
@@ -59822,12 +59542,21 @@ xm
 xm
 xm
 <<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
+xm
+xm
+xm
+xm
+xm
+xm
+xm
+xm
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 kO
 wT
-=======
->>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -60093,7 +59822,6 @@ lw
 lw
 lw
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 xm
 xm
 xm
@@ -60179,39 +59907,6 @@ zi
 zi
 zi
 zi
-=======
->>>>>>> Stashed changes
-xm
-xm
-xm
-xm
-xm
-<<<<<<< Updated upstream
-xm
-xm
-xm
-xm
-xm
-xm
-xm
->>>>>>> Stashed changes
-=======
-Bs
-Bs
-Bs
-Bs
-Bs
-Bs
-Bs
-Bs
-Bs
-Bs
-Bs
-zi
-zi
-zi
-zi
-zi
 xm
 xm
 xm
@@ -60234,12 +59929,9 @@ xm
 xm
 xm
 xm
-<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 kO
-=======
->>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -60511,20 +60203,16 @@ xm
 xm
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 xm
 =======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 Bs
 Bs
 Bs
 Bs
 Bs
-<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 xm
@@ -60551,8 +60239,6 @@ eT
 =======
 =======
 >>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 Bs
 Bs
 Bs
@@ -60576,9 +60262,6 @@ xm
 xm
 xm
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -60859,20 +60542,16 @@ xm
 xm
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 xm
 =======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 Bs
 Bs
 Bs
 Bs
 Bs
-<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 xm
@@ -60899,8 +60578,6 @@ eT
 =======
 =======
 >>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 Bs
 Bs
 Bs
@@ -60913,7 +60590,6 @@ zi
 zi
 zi
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 xm
 xm
 xm
@@ -60931,8 +60607,6 @@ xm
 xm
 xm
 xm
-=======
->>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 xm
@@ -61226,7 +60900,6 @@ zi
 zi
 zi
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 xm
 Bs
 Bs
@@ -61235,8 +60908,6 @@ Bs
 Bs
 =======
 >>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 xm
 xm
 xm
@@ -61245,7 +60916,6 @@ xm
 xm
 <<<<<<< Updated upstream
 xm
-<<<<<<< Updated upstream
 xm
 xm
 xm
@@ -61274,8 +60944,6 @@ xm
 xm
 <<<<<<< Updated upstream
 =======
-=======
->>>>>>> Stashed changes
 lw
 Yd
 lw
@@ -61286,9 +60954,6 @@ xm
 xm
 xm
 xm
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
 >>>>>>> Stashed changes
 xm
 xm
@@ -61297,14 +60962,11 @@ xm
 xm
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 eT
 eT
 eT
 eT
 eT
-=======
->>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -61590,7 +61252,6 @@ zi
 zi
 zi
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 xm
 Bs
 Bs
@@ -61599,8 +61260,6 @@ Bs
 Bs
 =======
 >>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 xm
 xm
 xm
@@ -61609,7 +61268,6 @@ xm
 xm
 <<<<<<< Updated upstream
 xm
-<<<<<<< Updated upstream
 xm
 xm
 xm
@@ -61638,8 +61296,6 @@ xm
 xm
 <<<<<<< Updated upstream
 =======
-=======
->>>>>>> Stashed changes
 lw
 Yd
 lw
@@ -61650,16 +61306,12 @@ xm
 xm
 xm
 xm
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
 >>>>>>> Stashed changes
 xm
 xm
 xm
 xm
 xm
-<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 eT
@@ -61667,8 +61319,6 @@ mu
 mu
 cx
 eT
-=======
->>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -61949,15 +61599,12 @@ Bs
 Bs
 Bs
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 xm
 Bs
 Bs
 Bs
 Bs
 Bs
-=======
->>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 xm
@@ -62002,19 +61649,6 @@ lw
 lw
 lw
 xm
-<<<<<<< Updated upstream
-xm
-xm
-xm
-xm
->>>>>>> Stashed changes
-=======
-lw
-lw
-lw
-lw
-lw
-xm
 xm
 xm
 xm
@@ -62025,7 +61659,6 @@ xm
 xm
 xm
 xm
-<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 eT
@@ -62033,8 +61666,6 @@ Fc
 Yg
 yr
 eT
-=======
->>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -62320,7 +61951,6 @@ lw
 lw
 lw
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 xm
 xm
 Bs
@@ -62376,26 +62006,6 @@ AE
 AE
 kH
 =======
->>>>>>> Stashed changes
-=======
-lw
-lw
-Yd
-Yd
-lw
-=======
->>>>>>> Stashed changes
-xm
-xm
-xm
-xm
-xm
-xm
-xm
-<<<<<<< Updated upstream
-xm
-xm
-xm
 >>>>>>> Stashed changes
 =======
 lw
@@ -62695,7 +62305,6 @@ lw
 lw
 lw
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 xm
 xm
 Bs
@@ -62751,26 +62360,6 @@ AE
 AE
 kH
 =======
->>>>>>> Stashed changes
-=======
-lw
-lw
-lw
-lw
-lw
-=======
->>>>>>> Stashed changes
-xm
-xm
-xm
-xm
-xm
-xm
-xm
-<<<<<<< Updated upstream
-xm
-xm
-xm
 >>>>>>> Stashed changes
 =======
 lw
@@ -63070,7 +62659,6 @@ lw
 lw
 lw
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 xm
 xm
 Bs
@@ -63126,26 +62714,6 @@ Yg
 AE
 kH
 =======
->>>>>>> Stashed changes
-=======
-Yd
-Yd
-lw
-lw
-Yd
-=======
->>>>>>> Stashed changes
-xm
-xm
-xm
-xm
-xm
-xm
-xm
-<<<<<<< Updated upstream
-xm
-xm
-xm
 >>>>>>> Stashed changes
 =======
 Yd
@@ -63440,7 +63008,6 @@ Bs
 Bs
 Bs
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 xm
 <<<<<<< Updated upstream
 xm
@@ -63495,18 +63062,12 @@ xm
 xm
 =======
 xm
-=======
-xm
->>>>>>> Stashed changes
 lw
 lw
 lw
 lw
-<<<<<<< Updated upstream
 >>>>>>> Stashed changes
 xm
-=======
->>>>>>> Stashed changes
 xm
 xm
 xm
@@ -63795,7 +63356,6 @@ Bs
 Bs
 Bs
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 xm
 <<<<<<< Updated upstream
 xm
@@ -63850,18 +63410,12 @@ xm
 xm
 =======
 xm
-=======
-xm
->>>>>>> Stashed changes
 lw
 lw
 lw
 lw
-<<<<<<< Updated upstream
 >>>>>>> Stashed changes
 xm
-=======
->>>>>>> Stashed changes
 xm
 xm
 xm
@@ -64150,7 +63704,6 @@ Bs
 Bs
 Bs
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 xm
 <<<<<<< Updated upstream
 xm
@@ -64205,18 +63758,12 @@ xm
 xm
 =======
 xm
-=======
-xm
->>>>>>> Stashed changes
 lw
 lw
 lw
 lw
-<<<<<<< Updated upstream
 >>>>>>> Stashed changes
 xm
-=======
->>>>>>> Stashed changes
 xm
 xm
 xm
@@ -64505,7 +64052,6 @@ Bs
 Bs
 Bs
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 xm
 <<<<<<< Updated upstream
 xm
@@ -64560,18 +64106,12 @@ xm
 xm
 =======
 xm
-=======
-xm
->>>>>>> Stashed changes
 lw
 lw
 lw
 lw
-<<<<<<< Updated upstream
 >>>>>>> Stashed changes
 xm
-=======
->>>>>>> Stashed changes
 xm
 xm
 xm
@@ -64865,7 +64405,6 @@ lw
 lw
 lw
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 xm
 xm
 Bs
@@ -64908,24 +64447,6 @@ eT
 eT
 =======
 xm
-jr
-jr
-=======
->>>>>>> Stashed changes
-xm
-xm
-xm
-xm
-xm
-xm
-xm
-xm
-xm
-<<<<<<< Updated upstream
-xm
-xm
->>>>>>> Stashed changes
-=======
 jr
 jr
 =======
@@ -65246,7 +64767,6 @@ Yd
 lw
 lw
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 xm
 <<<<<<< Updated upstream
 Or
@@ -65291,24 +64811,11 @@ xm
 xm
 xm
 >>>>>>> Stashed changes
-=======
-xm
-lw
-lw
-Yd
-jr
 xm
 xm
 xm
 xm
 xm
->>>>>>> Stashed changes
-xm
-xm
-xm
-xm
-xm
-<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 OI
@@ -65316,8 +64823,6 @@ AE
 eT
 ow
 eT
-=======
->>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -65610,7 +65115,6 @@ jr
 jr
 jr
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 xm
 <<<<<<< Updated upstream
 Bs
@@ -65644,9 +65148,6 @@ xm
 >>>>>>> Stashed changes
 =======
 xm
-=======
-xm
->>>>>>> Stashed changes
 jr
 Yd
 xm
@@ -65655,9 +65156,6 @@ xm
 xm
 xm
 xm
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
 >>>>>>> Stashed changes
 xm
 xm
@@ -65665,7 +65163,6 @@ xm
 xm
 xm
 xm
-<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 OI
@@ -65673,8 +65170,6 @@ AE
 NT
 Kv
 eT
-=======
->>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -65955,7 +65450,6 @@ Bs
 Bs
 Bs
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 xm
 xm
 xm
@@ -65984,22 +65478,6 @@ xm
 =======
 lw
 Yd
-=======
->>>>>>> Stashed changes
-xm
-xm
-xm
-xm
-xm
-xm
-xm
-xm
-<<<<<<< Updated upstream
-xm
->>>>>>> Stashed changes
-=======
-lw
-Yd
 xm
 xm
 xm
@@ -66018,7 +65496,6 @@ xm
 xm
 xm
 xm
-<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 Bs
@@ -66051,8 +65528,6 @@ wA
 eT
 eT
 eT
-=======
->>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -66333,7 +65808,6 @@ Bs
 Bs
 Bs
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 xm
 xm
 xm
@@ -66400,8 +65874,6 @@ eT
 lw
 lw
 lw
-=======
->>>>>>> Stashed changes
 xm
 xm
 xm
@@ -66410,29 +65882,12 @@ xm
 xm
 xm
 xm
-<<<<<<< Updated upstream
-=======
-lw
-lw
-lw
 xm
 xm
 xm
 xm
 xm
 xm
-xm
-xm
->>>>>>> Stashed changes
-xm
-xm
-xm
-xm
-xm
-xm
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
 >>>>>>> Stashed changes
 xm
 xm
@@ -66752,15 +66207,12 @@ xm
 lw
 Yd
 jr
-<<<<<<< Updated upstream
 xm
 xm
 xm
 xm
 xm
 xm
-=======
->>>>>>> Stashed changes
 xm
 xm
 <<<<<<< Updated upstream
@@ -67103,14 +66555,11 @@ xm
 xm
 xm
 lw
-<<<<<<< Updated upstream
 xm
 xm
 xm
 xm
 xm
-=======
->>>>>>> Stashed changes
 xm
 xm
 lw
@@ -67381,7 +66830,6 @@ lw
 lw
 Yd
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 xm
 xm
 xm
@@ -67390,8 +66838,6 @@ xm
 xm
 xm
 xm
-=======
->>>>>>> Stashed changes
 xm
 xm
 xm
@@ -67689,7 +67135,6 @@ Zt
 lw
 Yd
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 xm
 xm
 xm
@@ -67747,8 +67192,6 @@ xm
 jr
 =======
 >>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 xm
 xm
 xm
@@ -67785,7 +67228,9 @@ xm
 xm
 xm
 xm
-jr
+xm
+xm
+xm
 xm
 xm
 xm
@@ -68079,7 +67524,6 @@ xm
 xm
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 xm
 xm
 fH
@@ -68120,10 +67564,6 @@ xm
 xm
 xm
 xm
-=======
-Yd
-lw
->>>>>>> Stashed changes
 xm
 xm
 xm
@@ -68415,7 +67855,6 @@ xm
 xm
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 xm
 xm
 fH
@@ -68448,11 +67887,6 @@ xm
 xm
 xm
 xm
-=======
-lw
-Yd
-jr
->>>>>>> Stashed changes
 =======
 lw
 Yd
@@ -68753,7 +68187,6 @@ xm
 xm
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 xm
 xm
 fH
@@ -68777,14 +68210,11 @@ eT
 =======
 =======
 >>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 Yd
 Yd
 lw
 jr
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 xm
 xm
 xm
@@ -68792,8 +68222,6 @@ xm
 xm
 xm
 xm
-=======
->>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 xm
@@ -69065,7 +68493,6 @@ Yd
 lw
 lw
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 xm
 xm
 xm
@@ -69074,8 +68501,6 @@ xm
 xm
 xm
 xm
-=======
->>>>>>> Stashed changes
 xm
 xm
 xm
@@ -69373,15 +68798,12 @@ Zt
 Yd
 lw
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 xm
 xm
 =======
 >>>>>>> Stashed changes
 xm
 xm
-=======
->>>>>>> Stashed changes
 xm
 xm
 xm
@@ -69700,15 +69122,12 @@ Zt
 lw
 lw
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 xm
 xm
 =======
 >>>>>>> Stashed changes
 xm
 xm
-=======
->>>>>>> Stashed changes
 xm
 xm
 xm
@@ -70008,13 +69427,10 @@ Zt
 Zt
 lw
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 xm
 =======
 >>>>>>> Stashed changes
 xm
-=======
->>>>>>> Stashed changes
 xm
 xm
 xm
@@ -70064,9 +69480,6 @@ vT
 bY
 fx
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -70338,13 +69751,10 @@ Zt
 Zt
 Yd
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 xm
 =======
 >>>>>>> Stashed changes
 xm
-=======
->>>>>>> Stashed changes
 xm
 xm
 xm
@@ -70948,13 +70358,10 @@ Zt
 Zt
 Yd
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 xm
 =======
 >>>>>>> Stashed changes
 xm
-=======
->>>>>>> Stashed changes
 xm
 xm
 xm
@@ -71256,13 +70663,10 @@ Zt
 Zt
 Yd
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 xm
 =======
 >>>>>>> Stashed changes
 xm
-=======
->>>>>>> Stashed changes
 xm
 xm
 xm
@@ -71881,7 +71285,6 @@ Yd
 lw
 Yd
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 xm
 xm
 xm
@@ -71901,8 +71304,6 @@ xm
 xm
 xm
 xm
-=======
->>>>>>> Stashed changes
 xm
 xm
 xm
